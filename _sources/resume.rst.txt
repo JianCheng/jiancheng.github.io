@@ -1,0 +1,108 @@
+=========
+ Resume
+=========
+
+.. meta::
+   :description: Jian Cheng's resume
+.. include:: meta_keywords.txt
+
+.. Curriculum Vitae
+.. =========================
+  
+.. My curriculum vitae could be found `here <resume/CV_JianCheng.pdf>`_. 
+
+
+.. role:: rightyear
+
+.. raw:: html
+   
+   <style>   
+   .rightyear { position: absolute; left: 1000px;  }
+   </style>
+
+
+.. raw:: html
+
+   &nbsp;
+   <a href="https://www.linkedin.com/in/jian-cheng-870b0822">    
+      <img src="_static/linkedin_logo_144x34.png" width="80" height="20" border="0" alt="View Jian Cheng's profile on LinkedIn">
+    </a>
+
+Education
+=========
+
+* `INRIA Sophia Antipolis`_ / `University of Nice-Sophia Antipolis`_, France :rightyear:`2008 -- 2012` |br|
+  Ph.D., Medical Image Analysis  |br|
+  Supervisor: `Prof. Rachid Deriche <https://team.inria.fr/athena/team-members/rachid-deriche/>`__
+
+  \ 
+
+* `Institute of Automation, Chinese Academy of Sciences`_, China :rightyear:`2005 -- 2012` |br|
+  Ph.D., Medical Image Analysis  |br| 
+  Supervisor: `Prof. Tianzi Jiang <http://www.brainnetome.org/en/tianzijiang>`__
+
+  \ 
+
+* `Harbin Institute of Technology`_, China :rightyear:`2001 -- 2005` |br|
+  B.S., major in Electrical Engineering, minor in Computer Science 
+
+
+
+Professional Experience
+=======================
+
+* `SQITS`_, `National Institutes of Health`_, USA  :rightyear:`2014 - present` |br|
+  Postdoctoral fellow, with `Dr. Peter J. Basser <https://scholar.google.com/citations?user=FtyOQzwAAAAJ&hl=en>`__ |br|
+  
+  \ 
+
+* `IDEA`_, `University of North Carolina at Chapel Hill`_, USA :rightyear:`2012 - 2014` |br|
+  Postdoctoral researcher, with `Prof. Pew-Thian Yap <http://www.unc.edu/~ptyap/>`__, `Prof. Dinggang Shen <http://www.unc.edu/~dgshen/>`__ |br|
+  
+  \ 
+
+* `Athena`_, `INRIA Sophia Antipolis`_ / `University of Nice-Sophia Antipolis`_, France :rightyear:`2008 -- 2012` |br|
+  Ph.D. student, with `Prof. Rachid Deriche <https://team.inria.fr/athena/team-members/rachid-deriche/>`__ |br|
+
+  \ 
+
+* `Institute of Automation, Chinese Academy of Sciences`_, China :rightyear:`2005 -- 2012` |br|
+  Ph.D. student, with `Prof. Tianzi Jiang <http://www.brainnetome.org/en/tianzijiang>`__ |br|
+
+
+Honors and Awards
+=================
+
+* `Best Reviewer Award <https://miccai2015.org/frontend/index.php?page_id=1084>`__, MICCAI :rightyear:`2015`
+* Student Travel Award, MICCAI :rightyear:`2012`
+* Student Travel Award, MICCAI :rightyear:`2011`
+* Bourse du Gouvernement Français - Doctorale en Alternance :rightyear:`2008 -- 2011`
+* Excellent Undergraduate Thesis Award, Harbin Institute of Technology  :rightyear:`2005`
+
+
+Professional Services
+=====================
+
+* Reviewer for journals
+
+  + IEEE Transaction on Medical Imaging
+  + NeuroImage
+  + PLOS One, PLOS Biology, PLOS Computational Biology
+  + Pattern Recognition
+  + Journal of Magnetic Resonance, Journal of Neuroscience Methods
+
+\
+  
+* Reviewer for conferences 
+
+  + MICCAI 2011 - present 
+
+\
+
+* Conference Committees:
+
+  + MICCAI workshop on Computational Diffusion MRI (CDMRI), 2017
+  + MICCAI workshop on Machine Learning in Medical Imaging (MLMI), 2015-2016
+
+.. include:: links.txt
+

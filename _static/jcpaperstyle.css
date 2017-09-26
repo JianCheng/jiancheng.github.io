@@ -1,0 +1,31 @@
+
+
+body {
+ margin:0 auto;
+ text-align: left;
+ /* font:90%/120% Arial; */
+ }
+
+span.selected {color: #000000}
+span.author {font:90%/120% Arial; color: #000000}
+span.title {font:90%/120% Arial; font-weight: bold;  color:#1030FF;   }
+span.publisher {  font:90%/120% Arial;    font-style: italic;     }
+span.hlnote0 { font:90%/120% Arial;  }
+span.hlnote {font:90%/120% Arial; font-weight: bold;   }
+span.hlnote2 { font:90%/120% Arial; font-weight: bold;  color:#FF0000;  }
+/* li {margin-top: 0px; margin-bottom: 16px} */
+
+
+.abstract {
+  font-size: 80%;
+  background-color: #fcfcfc;
+  border: 1px #ccc solid;
+}
+
+.bibtex {
+  font-size: 80%;
+  background-color: #fcfcfc;
+  border: 1px #ccc solid;
+}
+
+

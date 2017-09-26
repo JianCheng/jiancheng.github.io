@@ -1,0 +1,67 @@
+=============
+ Publications
+=============
+
+.. meta::
+   :description: Jian Cheng's publications
+.. include:: meta_keywords.txt
+
+.. raw:: html
+
+    <style type="text/css">
+    
+    .wy-nav-content {
+        max-width: 2050px
+    }
+    </style>
+    
+
+.. .. |googlescholar| image:: _static/google_scholar.png
+..    :alt: Google Scholar
+..    :scale: 80%
+..    :target: http://scholar.google.com/citations?user=BARqXQ0AAAAJ&hl=en
+
+.. .. |halcv| image::  _static/LogoHAL.png   
+..    :alt: hal-CV 
+..    :scale: 20%
+..    :target:  https://cv.archives-ouvertes.fr/jian-cheng
+
+.. .. |googlescholar|   |halcv|
+
+
+.. raw:: html
+
+   <a class="reference external" href="http://scholar.google.com/citations?user=BARqXQ0AAAAJ&amp;hl=en">
+   <img alt="Google Scholar" src="_static/google_scholar.png" style="width: 155.2px; height: 32.0px;" />
+   </a>
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   <a class="reference external" href="https://cv.archives-ouvertes.fr/jian-cheng">
+   <img alt="hal-CV" src="_static/LogoHAL.png" style="width: 75.2px; height: 15.0px;" />
+   </a>
+
+
+   
+.. |pubwords| image:: _static/wordcloud.png
+   :alt: wordcloud
+   :scale: 60%
+                
+     
+
+.. toctree:: 
+  :maxdepth: 1
+
+   Publications By Type <publications_by_type>
+   Publications By Year <publications_by_year>
+   First-Author Articles <publications_first_author>
+
+.. Corresponding-Author Articles <publications_corresponding_author>
+
+
+|pubwords|     
+
+
+
+.. include:: links.txt
+

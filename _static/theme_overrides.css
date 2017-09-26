@@ -1,0 +1,33 @@
+.wy-nav-content {
+    max-width: 1250px
+}
+.redbold {
+    color:red;
+    font-weight: bold;
+}
+.pubbold {
+    color:#1030FF;
+    font-weight: bold;
+}
+.wy-menu-vertical
+{
+font-weight: bold;
+}
+.mybotom {
+  position: fixed;
+  bottom: 0;
+  width: 600px;
+  margin: 10px; 
+  font-size: 85%;
+}
+
+.social {
+    display: inline-block;
+}
+.social a {
+    /*margin-top: -10px;*/
+    text-decoration: none;
+    margin-left: 10px;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    color: #b3d9ff;
+}

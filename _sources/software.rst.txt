@@ -1,0 +1,56 @@
+
+========
+Software
+========
+
+.. meta::
+   :description: Jian Cheng's software
+.. include:: meta_keywords.txt
+.. include:: links.txt
+
+The term `reproducible research <https://en.wikipedia.org/wiki/Reproducibility>`__ refers to the idea 
+that the ultimate product of academic research is the paper along with the full computational environment used to produce the results in the paper 
+such as the code, data, etc., that can be used to reproduce the results and create new work based on the research.
+
+   
+  *"An article about computational science in a scientific publication is not the scholarship itself, 
+  it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures."    ------ David Donoho*
+  
+
+
+
+`See my codes in GitHub <https://github.com/JianCheng>`__.
+
+
+Diffusion MRI Tool
+===================
+
+DMRITool_ is an open source toolbox for diffusion MRI data processing. 
+It is written in C++ with matlab mex interface. 
+The source code is in `github <https://github.com/DiffusionMRITool/dmritool>`__. 
+Most of the methods I proposed for diffusion MRI have been or will be released in DMRITool_. 
+DMRITool_ has implemented:
+
+* `Diffusion MRI data simulation <https://diffusionmritool.github.io/tutorial_dwisimulation.html>`__
+* `Diffusion MRI data visualization <https://diffusionmritool.github.io/commands/commandlist.html#visualization>`__
+* `Spherical Polar Fourier Imaging <https://diffusionmritool.github.io/tutorial_spfi.html>`__
+* `Spherically Uniform Sampling scheme design in q-space <https://diffusionmritool.github.io/tutorial_qspacesampling.html>`__
+
+
+LRTV for Image Superresolution
+==============================
+
+This `matlab toolbox <https://bitbucket.org/fengshi421/superresolutiontoolkit>`__ implemented Low-Rank Total Variation for image super-resolution proposed in the paper 
+`"LRTV: MR Image Super-Resolution with Low-Rank and Total Variation Regularizations" <https://www.researchgate.net/publication/278037176_LRTV_MR_Image_Super-Resolution_with_Low-Rank_and_Total_Variation_Regularizations>`__, 
+IEEE Transactions on Medical Imaging, 2015. 
+
+
+bibtex2html.py
+==============
+
+`bibtex2html.py <https://github.com/JianCheng/bibtex2html.py>`__ coverts a bibtex file into an html file. 
+It considers additional fields (e.g., note, code, etc.) in bibtex. 
+It also can show corresponding google scholar citations related with bibtex entries by parsing the google scholar profile.
+See `my publications <publications_by_type.html>`__ as an example. 
+
+

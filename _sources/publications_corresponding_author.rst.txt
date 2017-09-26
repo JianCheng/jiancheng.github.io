@@ -1,0 +1,320 @@
+
+=============================
+Corresponding-Author Articles
+=============================
+
+.. meta::
+   :description: Jian Cheng's publications, Corresponding-Author Articles
+.. include:: meta_keywords.txt
+
+.. raw:: html
+
+    <style type="text/css">
+
+    .wy-nav-content {
+        max-width: 2050px
+    }
+    </style>
+
+
+.. raw:: html
+
+   <a class="reference external" href="http://scholar.google.com/citations?user=BARqXQ0AAAAJ&amp;hl=en">
+   <img alt="Google Scholar" src="_static/google_scholar.png" style="width: 155.2px; height: 32.0px;" />
+   </a>
+   &nbsp;
+   &nbsp;
+   &nbsp;
+   <a class="reference external" href="https://cv.archives-ouvertes.fr/jian-cheng">
+   <img alt="hal-CV" src="_static/LogoHAL.png" style="width: 75.2px; height: 15.0px;" />
+   </a>
+
+     <div>
+
+        <ul style="padding: 10px; border: 1px solid #333333; border-radius: 10px; text-align: justify; background-color: #F7F7F7;">
+
+        <li> COPYRIGHT NOTICE: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders.        
+          
+        <li> The publication list is automatically generated from bibtex by using <a href="https://github.com/JianCheng/bibtex2html.py">bibtex2html.py</a> that I developed.
+
+        <li> # denotes co-first authors. * denotes corresponding authors.
+
+        </ul>
+
+      </div>
+
+
+
+
+.. raw:: html
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.2.0.min.js"></script>
+    <link rel="stylesheet" href="_static/mybootstrap2.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="scholar.js"></script>
+
+    <script type="text/javascript">
+        function toggle(showHideDiv, switchTextDiv)
+        {
+        var ele = document.getElementById(showHideDiv);
+        var text = document.getElementById(switchTextDiv);
+        if(ele.style.display == "block")
+        {
+            ele.style.display = "none";
+        }
+        else
+        {
+            ele.style.display = "block";
+        }
+        }
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="_static/jcpaperstyle.css">
+    <style type="text/css">
+    </style>
+
+
+    
+
+
+        <br>
+        <p><big>&#8226;&nbsp;<b>Total Citations</b>: <a target="_blank" href='https://scholar.google.com/citations?user=BARqXQ0AAAAJ&hl=en'>526</a> &#8226;&nbsp;  <b>H-Index</b>: <a target="_blank" href='https://scholar.google.com/citations?user=BARqXQ0AAAAJ&hl=en'>12</a></big></p>
+    
+    <p>&#8226;&nbsp;<b>TMI</b> (1) &#8226;&nbsp;<b>MedIA</b> (1) &#8226;&nbsp;<b>NeuroImage</b> (1) &#8226;&nbsp;</p>
+    
+    <p><big>&#8226;&nbsp;<span style="font-size: 20px;"><a href="publications_corresponding_author.html#journal-articles"><b>Journals</b></a></span> &#8226;&nbsp;</big></p>
+    
+
+
+.. _publications_corresponding_author_journal-articles:
+
+Journal Articles
+----------------
+
+.. raw:: html
+
+                                <ol>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>*, Peter J. Basser*</span>,<br>
+    <span class="title">"Director Field Analysis (DFA): Exploring Local White Matter Geometric Structure in diffusion MRI"</span>,<br>
+    <span class="publisher">Medical Image Analysis (<b>MedIA</b>)</span>, <span class="year">2017</span>.
+    <br><div class="publilinks">
+    <a target="_self" href="https://arxiv.org/pdf/1706.01862.pdf"><img align="middle" border="0" src="Icons/pdf.gif" alt="[pdf]"></a>&nbsp;
+    <a target="_self" href="https://arxiv.org/abs/1706.01862"><img align="middle" border="0" src="Icons/www.gif" alt="[www]"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng-arXiv-1706-01862">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng-arXiv-1706-01862">abstract</a>]&nbsp;
+    [<a target="_self" href="https://arxiv.org/abs/1706.01862">arxiv</a>]&nbsp;
+    (<span class="hlnote0">accept</span>)&nbsp;
+    </div>
+    <div class="modal fade" id="bib-cheng-arXiv-1706-01862" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{cheng:arXiv:1706.01862,
+     author = {Jian Cheng and Peter J. Basser},
+     journal = {Medical Image Analysis (MedIA)},
+     pdf = {https://arxiv.org/pdf/1706.01862.pdf},
+     title = {Director Field Analysis (DFA): Exploring Local White Matter Geometric Structure in diffusion MRI},
+     url = {https://arxiv.org/abs/1706.01862},
+     year = {2017}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng-arXiv-1706-01862" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In diffusion MRI, a tensor field or a spherical function field
+    (e.g., an Orientation Distribution Function (ODF) field), can be
+    estimated from measured diffusion weighted images. In this paper,
+    inspired by the microscopic theoretical treatment of phases in
+    liquid crystals, we introduce a novel mathematical framework, called
+    Director Field Analysis (DFA), to study local geometric structural
+    information of white matter based on the reconstructed tensor field
+    or spherical function field: 1) We propose a set of mathematical
+    tools to process general director data which consists of dyadic
+    tensors that have orientations but no direction. 2) We propose
+    Orientational Order (OO) and Orientational Dispersion (OD) indices
+    to describe the degree of alignment and dispersion of a spherical
+    function in a single voxel or in a region, respectively; 3) We also
+    show how to estimate a local orthogonal coordinate frame in each
+    voxel exhibiting anisotropic diffusion; 4) Finally, we define three
+    indices to describe three types of orientational distortion (splay,
+    bend, and twist) in a local spatial neighborhood, and a total
+    distortion index to describe distortions of all three types. To our
+    knowledge, this is the first work to quantitatively describe
+    orientational distortion (splay, bend, and twist) in diffusion MRI
+    data. The proposed DFA and its related mathematical tools can be
+    used to process not only diffusion MRI data but also general
+    director field data, and the proposed scalar indices are useful to
+    detect local geometric changes of white matter for voxel-based or
+    tract-based analysis in both DTI and HARDI acquisitions.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>*, Dinggang Shen, Pew-Thian Yap*, Peter J. Basser*</span>,<br>
+    <span class="title">"Single- and Multiple-Shell Uniform Sampling Schemes for Diffusion MRI Using Spherical Codes"</span>,<br>
+    <span class="publisher">IEEE transactions on Medical Imaging (<b>TMI</b>)</span>, <span class="year">2017</span>.
+    <br><div class="publilinks">
+    <a target="_self" href="https://arxiv.org/pdf/1706.06682.pdf"><img align="middle" border="0" src="Icons/pdf.gif" alt="[pdf]"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1109/TMI.2017.2756072"><img align="middle" border="0" src="Icons/www.gif" alt="[www]"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng-TMI2017">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng-TMI2017">abstract</a>]&nbsp;
+    [<a target="_self" href="https://arxiv.org/abs/1706.06682">arxiv</a>]&nbsp;
+    (<span class="hlnote0">accept</span>)&nbsp;
+    </div>
+    <div class="modal fade" id="bib-cheng-TMI2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{cheng:TMI2017,
+     author = {Jian Cheng and Dinggang Shen and Pew-Thian Yap and Peter J. Basser},
+     doi = {10.1109/TMI.2017.2756072},
+     journal = {IEEE transactions on Medical Imaging (TMI)},
+     pdf = {https://arxiv.org/pdf/1706.06682.pdf},
+     title = {Single- and Multiple-Shell Uniform Sampling Schemes for Diffusion MRI Using Spherical Codes},
+     url = {https://dx.doi.org/10.1109/TMI.2017.2756072},
+     year = {2017}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng-TMI2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In diffusion MRI (dMRI), a good sampling scheme is important for
+    efficient acquisition and robust reconstruction. Diffusion weighted
+    signal is normally acquired on single or multiple shells in q-space.
+    Signal samples are typically distributed uniformly on different
+    shells to make them invariant to the orientation of structures
+    within tissue, or the laboratory coordinate frame. The Electrostatic
+    Energy Minimization (EEM) method, originally proposed for single
+    shell sampling scheme in dMRI, was recently generalized to multi-
+    shell schemes, called Generalized EEM (GEEM). GEEM has been
+    successfully used in the Human Connectome Project (HCP). However,
+    EEM does not directly address the goal of optimal sampling, i.e.,
+    achieving large angular separation between sampling points. In this
+    paper, we propose a more natural formulation, called Spherical Code
+    (SC), to directly maximize the minimal angle between different
+    samples in single or multiple shells. We consider not only
+    continuous problems to design single or multiple shell sampling
+    schemes, but also discrete problems to uniformly extract sub-sampled
+    schemes from an existing single or multiple shell scheme, and to
+    order samples in an existing scheme. We propose five algorithms to
+    solve the above problems, including an incremental SC (ISC), a
+    sophisticated greedy algorithm called Iterative Maximum Overlap
+    Construction (IMOC), an 1-Opt greedy method, a Mixed Integer Linear
+    Programming (MILP) method, and a Constrained Non-Linear Optimization
+    (CNLO) method. To our knowledge, this is the first work to use the
+    SC formulation for single or multiple shell sampling schemes in
+    dMRI. Experimental results indicate that SC methods obtain larger
+    angular separation and better rotational invariance than the state-
+    of-the-art EEM and GEEM. The related codes and a tutorial have been
+    released in DMRITool.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Hao Guan, Tao Liu*, Jiyang Jiang, Dacheng Tao, Jicong Zhang, Haijun Niu, Wanlin Zhu, Yilong Wang, <b>Jian Cheng</b>*, Nicole A. Kochan, Henry Brodaty, Perminder Sachdev, Wei Wen</span>,<br>
+    <span class="title">"Classifying MCI subtypes in community-dwelling elderly using cross-sectional and longitudinal MRI-based biomarkers"</span>,<br>
+    <span class="publisher">Frontiers in Aging Neuroscience</span>, vol. 9, pp. 309, <span class="year">2017</span>.
+    <br><div class="publilinks">
+    <a target="_self" href="http://journal.frontiersin.org/article/10.3389/fnagi.2017.00309/pdf"><img align="middle" border="0" src="Icons/pdf.gif" alt="[pdf]"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.3389/fnagi.2017.00309"><img align="middle" border="0" src="Icons/www.gif" alt="[www]"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-tao-cheng-FNAGI2017">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-tao-cheng-FNAGI2017">abstract</a>]&nbsp;
+    </div>
+    <div class="modal fade" id="bib-tao-cheng-FNAGI2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{tao:cheng:FNAGI2017,
+     author = {Hao Guan and Tao Liu and Jiyang Jiang and Dacheng Tao and Jicong Zhang and Haijun Niu and Wanlin Zhu and Yilong Wang and Jian Cheng and Nicole A. Kochan and Henry Brodaty and Perminder Sachdev and Wei Wen},
+     doi = {10.3389/fnagi.2017.00309},
+     journal = {Frontiers in Aging Neuroscience},
+     pages = {309},
+     pdf = {http://journal.frontiersin.org/article/10.3389/fnagi.2017.00309/pdf},
+     title = {Classifying MCI subtypes in community-dwelling elderly using cross-sectional and longitudinal MRI-based biomarkers},
+     url = {https://dx.doi.org/10.3389/fnagi.2017.00309},
+     volume = {9},
+     year = {2017}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-tao-cheng-FNAGI2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Amnestic MCI (aMCI) and non-amnestic MCI (naMCI) are considered to
+    differ in etiology and outcome. Accurately classifying MCI into
+    meaningful subtypes would enable early intervention with targeted
+    treatment. In this study, we employed structural magnetic resonance
+    imaging (MRI) for MCI subtype classification. This was carried out
+    in a sample of 184 community-dwelling individuals (aged 73–85
+    years). Cortical surface based measurements were computed from
+    longitudinal and cross-sectional scans. By introducing a feature
+    selection algorithm, we identified a set of discriminative features,
+    and further investigated the temporal patterns of these features. A
+    voting classifier was trained and evaluated via 10 iterations of
+    cross-validation. The best classification accuracies achieved were:
+    77% (naMCI vs. aMCI), 81% (aMCI vs. cognitively normal (CN)) and 70%
+    (naMCI vs. CN). The best results for differentiating aMCI from naMCI
+    were achieved with baseline features. Hippocampus, amygdala and
+    frontal pole were found to be most discriminative for classifying
+    MCI subtypes. Additionally, we observed the dynamics of
+    classification of several MRI biomarkers. Learning the dynamics of
+    atrophy may aid in the development of better biomarkers, as it may
+    track the progression of cognitive impairment.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>*, Rachid Deriche, Tianzi Jiang, Dinggang Shen, Pew-Thian Yap*</span>,<br>
+    <span class="title">"Non-Negative Spherical Deconvolution (NNSD) for estimation of fiber Orientation Distribution Function in single-/multi-shell diffusion MRI"</span>,<br>
+    <span class="publisher"><b>NeuroImage</b></span>, vol. 101, pp. 750&ndash;764, <span class="year">2014</span>.
+    <br><div class="publilinks">
+    <a target="_self" href="https://www.researchgate.net/profile/Jian_Cheng2/publication/264632173_Non-Negative_Spherical_Deconvolution_NNSD_for_Estimation_of_Fiber_Orientation_Distribution_Function_in_Single-Multi-Shell_Diffusion_MRI/links/5436a9820cf2dc341db405ab/Non-Negative-Spherical-Deconvolution-NNSD-for-Estimation-of-Fiber-Orientation-Distribution-Function-in-Single-Multi-Shell-Diffusion-MRI.pdf"><img align="middle" border="0" src="Icons/pdf.gif" alt="[pdf]"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1016/j.neuroimage.2014.07.062"><img align="middle" border="0" src="Icons/www.gif" alt="[www]"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_NI2014">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_NI2014">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:FAceZFleit8C">19</a>]&nbsp;
+    (<span class="hlnote2">Honorable Mention in ISBI HARDI Reconstruction Challenge in 2013; the best technique in terms of local comparison.</span>)&nbsp;
+    </div>
+    <div class="modal fade" id="bib-cheng_NI2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{cheng_NI2014,
+     author = {Jian Cheng and Rachid Deriche and Tianzi Jiang and Dinggang Shen and Pew-Thian Yap},
+     doi = {10.1016/j.neuroimage.2014.07.062},
+     journal = {NeuroImage},
+     pages = {750&ndash;764},
+     pdf = {https://www.researchgate.net/profile/Jian_Cheng2/publication/264632173_Non-Negative_Spherical_Deconvolution_NNSD_for_Estimation_of_Fiber_Orientation_Distribution_Function_in_Single-Multi-Shell_Diffusion_MRI/links/5436a9820cf2dc341db405ab/Non-Negative-Spherical-Deconvolution-NNSD-for-Estimation-of-Fiber-Orientation-Distribution-Function-in-Single-Multi-Shell-Diffusion-MRI.pdf},
+     publisher = {Elsevier},
+     title = {Non-Negative Spherical Deconvolution (NNSD) for estimation of fiber Orientation Distribution Function in single-/multi-shell diffusion MRI},
+     url = {https://dx.doi.org/10.1016/j.neuroimage.2014.07.062},
+     volume = {101},
+     year = {2014}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_NI2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Spherical Deconvolution (SD) is commonly used for estimating fiber
+    Orientation Distribution Functions (fODFs) from diffusion-weighted
+    signals. Existing SD methods can be classified into two categories:
+    1) Continuous Representation based SD (CR-SD), where typically
+    Spherical Harmonic (SH) representation is used for convenient
+    analytical solutions, and 2) Discrete Representation based SD (DR-
+    SD), where the signal profile is represented by a discrete set of
+    basis functions uniformly oriented on the unit sphere. A feasible
+    fODF should be non-negative and should integrate to unity throughout
+    the unit sphere S 2. However, to our knowledge, most existing SH-
+    based SD methods enforce non-negativity only on discretized points
+    and not the whole continuum of S 2. Maximum Entropy SD (MESD) and
+    Cartesian Tensor Fiber Orientation Distributions (CT-FOD) are the
+    only SD methods that ensure non-negativity throughout the unit
+    sphere. They are however computational intensive and are susceptible
+    to errors caused by numerical spherical integration. Existing SD
+    methods are also known to overestimate the number of fiber
+    directions, especially in regions with low anisotropy. DR-SD
+    introduces additional error in peak detection owing to the angular
+    discretization of the unit sphere. This paper proposes a SD
+    framework, called Non-Negative SD (NNSD), to overcome all the
+    limitations above. NNSD is significantly less susceptible to the
+    false-positive peaks, uses SH representation for efficient
+    analytical spherical deconvolution, and allows accurate peak
+    detection throughout the whole unit sphere. We further show that
+    NNSD and most existing SD methods can be extended to work on multi-
+    shell data by introducing a three-dimensional fiber response
+    function. We evaluated NNSD in comparison with Constrained SD (CSD),
+    a quadratic programming variant of CSD, MESD, and an L1-norm
+    regularized non-negative least-squares DR-SD. Experiments on
+    synthetic and real single-/multi-shell data indicate that NNSD
+    improves estimation performance in terms of mean difference of
+    angles, peak detection consistency, and anisotropy contrast between
+    isotropic and anisotropic regions.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+            <br>
+
+
+
+
+
+
+.. include:: links.txt
+    

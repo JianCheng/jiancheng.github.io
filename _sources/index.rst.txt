@@ -1,0 +1,72 @@
+======================
+ Jian Cheng's Homepage
+======================
+
+.. meta::
+   :description: Jian Cheng's homepage
+.. include:: meta_keywords.txt
+
+.. .. image:: _static/JianCheng.png
+..    :alt: Jian Cheng
+..    :width: 30%
+
+.. |myphoto| image:: _static/JianCheng3.png
+   :alt: Jian Cheng
+   :scale: 10%
+
+
+
+Jian Cheng is currently a post-doctoral fellow in 
+`Section on Quantitative Imaging and Tissue Sciences (SQITS) <https://science.nichd.nih.gov/confluence/display/sqits/Home>`__ 
+at `National Institutes of Health`_, working with 
+`Dr. Peter Basser <http://scholar.google.com/citations?user=FtyOQzwAAAAJ&hl=en&oi=ao>`__.
+Before joining SQITS_, he worked in the `IDEA`_ group in `the University of North Carolina at Chapel Hill`_ from 2012 to 2014.         
+
+
+Jian Cheng received a Ph.D. degree in medical image analysis jointly                   
+from `INRIA Sophia Antipolis`_                                                  
+and `Institute of Automation, Chinese Academy of Sciences`_ (CASIA) in 2012, 
+and a bachelor degree in electrical engineering and computer science from 
+`Harbin Institute of Technology`_ (HIT) in 2005.       
+                                                                                
+His current research mainly focuses on the methodologies in diffusion MRI and anatomical MRI.                                                             
+He is interested in machine learning, computer vision, signal and image processing, applied mathematics, and software engineering. 
+
+
+
+.. sidebar:: Contact
+   
+  `jiancheng [AT] ieee.org <jiancheng@ieee.org>`_
+
+|br|
+
+
+.. include:: news.rst
+   :end-before: stop-recent-news
+
+`All news ... <news.html>`_
+
+
+   
+.. .. include:: contact.txt
+
+.. toctree::
+   :hidden:   
+
+   Home <self>
+   News <news>
+   resume
+   Publications <publications>
+   software
+
+.. .. toctree::
+..    :hidden:   
+
+..    news
+..    resume
+..    research
+..    publications
+..    codes
+..    talks
+
+.. include:: links.txt
