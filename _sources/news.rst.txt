@@ -7,47 +7,7 @@ News
 .. include:: links.txt
 
    
-2017-09
-  * One paper on sampling scheme design for diffusion MRI was accepted by IEEE transactions on Medical Imaging.
-  * One paper on classifying MCI subtypes was accepted by Frontiers in Aging Neuroscience.
-
-2017-07
-  * One paper on local white matter geometric structure was accepted by Medical Image Analysis.
-
-2017-03
-  * One paper on local white matter geometric structure was accepted by IPMI 2017, and was selected as an oral presentation.
-
-
-.. stop-recent-news
-
-2015-10-08
-  I was granted `the best reviewer award in MICCAI 2015 <https://www.miccai2015.org/frontend/index.php?page_id=1084>`__. 
-
-2015-06-18
-  Codes on sampling scheme design are released in dmritool_ with `a tutorial <https://diffusionmritool.github.io/tutorial_qspacesampling.html>`__. 
-
-2015-05-19
-  Another paper on SPFI was accepted by MICCAI 2015.
-
-2015-05-17
-  One paper on image super-resolution was accepted by TMI. 
-
-2015-04-17
-  One paper on sampling scheme design was early accepted by MICCAI 2015.
-
-2015-02-23
-  One paper on compressed sensing in k-q space was accepted by IPMI 2015.
-
-2015-02-18
-  DMRITool_ is released for diffusion MRI data processing. 
-
   
-2014-07-01
-  I joined `SQITS`_ in NIH_.
-
-2012-06-12
-  I joined `IDEA`_ group in `UNC`_. 
-  
-2012-05-30
-  I have successfully defended my PhD thesis.
+2018-03
+  I moved to `Beihang University (BUAA)`_.
 

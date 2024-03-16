@@ -1,0 +1,692 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/bin/npm', 'install', 'madoko', '-g' ]
+2 info using npm@1.3.6
+3 info using node@v0.10.36
+4 verbose cache add [ 'madoko', null ]
+5 verbose cache add name=undefined spec="madoko" args=["madoko",null]
+6 verbose parsed url { protocol: null,
+6 verbose parsed url   slashes: null,
+6 verbose parsed url   auth: null,
+6 verbose parsed url   host: null,
+6 verbose parsed url   port: null,
+6 verbose parsed url   hostname: null,
+6 verbose parsed url   hash: null,
+6 verbose parsed url   search: null,
+6 verbose parsed url   query: null,
+6 verbose parsed url   pathname: 'madoko',
+6 verbose parsed url   path: 'madoko',
+6 verbose parsed url   href: 'madoko' }
+7 silly lockFile 69929506-madoko madoko
+8 verbose lock madoko /home/jcheng/.npm/69929506-madoko.lock
+9 silly lockFile 69929506-madoko madoko
+10 silly lockFile 69929506-madoko madoko
+11 verbose addNamed [ 'madoko', '' ]
+12 verbose addNamed [ null, '*' ]
+13 silly lockFile e0c70dcd-madoko madoko@
+14 verbose lock madoko@ /home/jcheng/.npm/e0c70dcd-madoko.lock
+15 silly addNameRange { name: 'madoko', range: '*', hasData: false }
+16 verbose url raw madoko
+17 verbose url resolving [ 'https://registry.npmjs.org/', './madoko' ]
+18 verbose url resolved https://registry.npmjs.org/madoko
+19 info trying registry request attempt 1 at 18:23:16
+20 http GET https://registry.npmjs.org/madoko
+21 http 200 https://registry.npmjs.org/madoko
+22 silly registry.get cb [ 200,
+22 silly registry.get   { server: 'nginx/1.10.1',
+22 silly registry.get     'content-type': 'application/json',
+22 silly registry.get     'last-modified': 'Fri, 26 Aug 2016 19:32:33 GMT',
+22 silly registry.get     etag: 'W/"57c09951-11f68"',
+22 silly registry.get     'content-encoding': 'gzip',
+22 silly registry.get     'cache-control': 'max-age=300',
+22 silly registry.get     'content-length': '6210',
+22 silly registry.get     'accept-ranges': 'bytes',
+22 silly registry.get     date: 'Thu, 08 Dec 2016 23:23:16 GMT',
+22 silly registry.get     via: '1.1 varnish',
+22 silly registry.get     age: '0',
+22 silly registry.get     connection: 'keep-alive',
+22 silly registry.get     'x-served-by': 'cache-iad2638-IAD',
+22 silly registry.get     'x-cache': 'MISS',
+22 silly registry.get     'x-cache-hits': '0',
+22 silly registry.get     'x-timer': 'S1481239396.670251,VS0,VE1',
+22 silly registry.get     vary: 'Accept-Encoding' } ]
+23 silly addNameRange number 2 { name: 'madoko', range: '*', hasData: true }
+24 silly addNameRange versions [ 'madoko',
+24 silly addNameRange   [ '0.1.0-alpha',
+24 silly addNameRange     '0.1.1-alpha',
+24 silly addNameRange     '0.2.0-beta',
+24 silly addNameRange     '0.3.0-beta',
+24 silly addNameRange     '0.3.1-beta',
+24 silly addNameRange     '0.4.0-beta',
+24 silly addNameRange     '0.4.2-beta',
+24 silly addNameRange     '0.4.4-beta',
+24 silly addNameRange     '0.4.6-beta',
+24 silly addNameRange     '0.4.8-beta',
+24 silly addNameRange     '0.5.0-beta',
+24 silly addNameRange     '0.5.2-beta',
+24 silly addNameRange     '0.5.4-beta',
+24 silly addNameRange     '0.6.1-beta',
+24 silly addNameRange     '0.6.2-beta',
+24 silly addNameRange     '0.6.3-beta',
+24 silly addNameRange     '0.6.5-beta',
+24 silly addNameRange     '0.6.7-beta',
+24 silly addNameRange     '0.6.9-beta',
+24 silly addNameRange     '0.7.3-beta',
+24 silly addNameRange     '0.7.5-beta',
+24 silly addNameRange     '0.7.7-beta',
+24 silly addNameRange     '0.8.0-beta',
+24 silly addNameRange     '0.8.2-beta',
+24 silly addNameRange     '0.8.4-beta',
+24 silly addNameRange     '0.9.0-beta',
+24 silly addNameRange     '0.9.0-beta1',
+24 silly addNameRange     '0.9.2-beta',
+24 silly addNameRange     '0.9.8-beta',
+24 silly addNameRange     '0.9.9-beta',
+24 silly addNameRange     '0.9.10-beta',
+24 silly addNameRange     '0.9.11-beta',
+24 silly addNameRange     '0.9.12-beta',
+24 silly addNameRange     '0.9.13-beta',
+24 silly addNameRange     '0.9.14-beta',
+24 silly addNameRange     '0.9.15-beta',
+24 silly addNameRange     '0.9.16-beta',
+24 silly addNameRange     '0.9.17-beta',
+24 silly addNameRange     '0.9.18-beta',
+24 silly addNameRange     '0.9.20-beta',
+24 silly addNameRange     '0.9.21-beta',
+24 silly addNameRange     '0.9.22-beta',
+24 silly addNameRange     '0.9.23-beta',
+24 silly addNameRange     '1.0.0-rc',
+24 silly addNameRange     '1.0.0-rc1',
+24 silly addNameRange     '1.0.0-rc2',
+24 silly addNameRange     '1.0.0-rc3',
+24 silly addNameRange     '1.0.0-rc4',
+24 silly addNameRange     '1.0.0-rc5',
+24 silly addNameRange     '1.0.0-rc6',
+24 silly addNameRange     '1.0.0-rc7',
+24 silly addNameRange     '1.0.1',
+24 silly addNameRange     '1.0.2',
+24 silly addNameRange     '1.0.3' ] ]
+25 verbose addNamed [ 'madoko', '1.0.3' ]
+26 verbose addNamed [ '1.0.3', '1.0.3' ]
+27 silly lockFile aaaea857-madoko-1-0-3 madoko@1.0.3
+28 verbose lock madoko@1.0.3 /home/jcheng/.npm/aaaea857-madoko-1-0-3.lock
+29 silly lockFile 5b51cff8-pmjs-org-madoko-madoko-1-0-3-tgz https://registry.npmjs.org/madoko/-/madoko-1.0.3.tgz
+30 verbose lock https://registry.npmjs.org/madoko/-/madoko-1.0.3.tgz /home/jcheng/.npm/5b51cff8-pmjs-org-madoko-madoko-1-0-3-tgz.lock
+31 verbose addRemoteTarball [ 'https://registry.npmjs.org/madoko/-/madoko-1.0.3.tgz',
+31 verbose addRemoteTarball   '0ebba461fb42cd27d53748b2377aa1d09556a709' ]
+32 info retry fetch attempt 1 at 18:23:16
+33 verbose fetch to= /home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/tmp.tgz
+34 http GET https://registry.npmjs.org/madoko/-/madoko-1.0.3.tgz
+35 http 200 https://registry.npmjs.org/madoko/-/madoko-1.0.3.tgz
+36 verbose tar unpack /home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/tmp.tgz
+37 silly lockFile 9dc75f4d-6701-0-30789104546420276-package tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package
+38 verbose lock tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package /home/jcheng/.npm/9dc75f4d-6701-0-30789104546420276-package.lock
+39 silly lockFile ad07d470-6701-0-30789104546420276-tmp-tgz tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/tmp.tgz
+40 verbose lock tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/tmp.tgz /home/jcheng/.npm/ad07d470-6701-0-30789104546420276-tmp-tgz.lock
+41 silly gunzTarPerm modes [ '755', '644' ]
+42 silly gunzTarPerm extractEntry package.json
+43 silly gunzTarPerm modified mode [ 'package.json', 438, 420 ]
+44 silly gunzTarPerm extractEntry Jakefile.js
+45 silly gunzTarPerm modified mode [ 'Jakefile.js', 438, 420 ]
+46 silly gunzTarPerm extractEntry lib/attributes.js
+47 silly gunzTarPerm modified mode [ 'lib/attributes.js', 438, 420 ]
+48 silly gunzTarPerm extractEntry lib/main.js
+49 silly gunzTarPerm modified mode [ 'lib/main.js', 438, 420 ]
+50 silly gunzTarPerm extractEntry lib/mathParse.js
+51 silly gunzTarPerm modified mode [ 'lib/mathParse.js', 438, 420 ]
+52 silly gunzTarPerm extractEntry lib/mathStatic.js
+53 silly gunzTarPerm modified mode [ 'lib/mathStatic.js', 438, 420 ]
+54 silly gunzTarPerm extractEntry lib/mathStaticRun.js
+55 silly gunzTarPerm modified mode [ 'lib/mathStaticRun.js', 438, 420 ]
+56 silly gunzTarPerm extractEntry lib/madoko.js
+57 silly gunzTarPerm modified mode [ 'lib/madoko.js', 438, 420 ]
+58 silly gunzTarPerm extractEntry lib/monarch.js
+59 silly gunzTarPerm modified mode [ 'lib/monarch.js', 438, 420 ]
+60 silly gunzTarPerm extractEntry lib/options.js
+61 silly gunzTarPerm modified mode [ 'lib/options.js', 438, 420 ]
+62 silly gunzTarPerm extractEntry lib/optionsMath.js
+63 silly gunzTarPerm modified mode [ 'lib/optionsMath.js', 438, 420 ]
+64 silly gunzTarPerm extractEntry lib/optionsMeta.js
+65 silly gunzTarPerm modified mode [ 'lib/optionsMeta.js', 438, 420 ]
+66 silly gunzTarPerm extractEntry lib/optionsSandbox.js
+67 silly gunzTarPerm modified mode [ 'lib/optionsSandbox.js', 438, 420 ]
+68 silly gunzTarPerm extractEntry lib/locales.js
+69 silly gunzTarPerm modified mode [ 'lib/locales.js', 438, 420 ]
+70 silly gunzTarPerm extractEntry lib/process.js
+71 silly gunzTarPerm modified mode [ 'lib/process.js', 438, 420 ]
+72 silly gunzTarPerm extractEntry lib/latexFormatter.js
+73 silly gunzTarPerm modified mode [ 'lib/latexFormatter.js', 438, 420 ]
+74 silly gunzTarPerm extractEntry lib/require.js
+75 silly gunzTarPerm modified mode [ 'lib/require.js', 438, 420 ]
+76 silly gunzTarPerm extractEntry lib/inline.js
+77 silly gunzTarPerm modified mode [ 'lib/inline.js', 438, 420 ]
+78 silly gunzTarPerm extractEntry lib/runLatex.js
+79 silly gunzTarPerm modified mode [ 'lib/runLatex.js', 438, 420 ]
+80 silly gunzTarPerm extractEntry lib/includes.js
+81 silly gunzTarPerm modified mode [ 'lib/includes.js', 438, 420 ]
+82 silly gunzTarPerm extractEntry lib/runcsl.js
+83 silly gunzTarPerm modified mode [ 'lib/runcsl.js', 438, 420 ]
+84 silly gunzTarPerm extractEntry lib/htmlFormatter.js
+85 silly gunzTarPerm modified mode [ 'lib/htmlFormatter.js', 438, 420 ]
+86 silly gunzTarPerm extractEntry lib/sax.js
+87 silly gunzTarPerm modified mode [ 'lib/sax.js', 438, 420 ]
+88 silly gunzTarPerm extractEntry lib/hilite.js
+89 silly gunzTarPerm modified mode [ 'lib/hilite.js', 438, 420 ]
+90 silly gunzTarPerm extractEntry lib/std_core.js
+91 silly gunzTarPerm modified mode [ 'lib/std_core.js', 438, 420 ]
+92 silly gunzTarPerm extractEntry lib/formatInline.js
+93 silly gunzTarPerm modified mode [ 'lib/formatInline.js', 438, 420 ]
+94 silly gunzTarPerm extractEntry lib/std_crypto.js
+95 silly gunzTarPerm modified mode [ 'lib/std_crypto.js', 438, 420 ]
+96 silly gunzTarPerm extractEntry lib/formatBlock.js
+97 silly gunzTarPerm modified mode [ 'lib/formatBlock.js', 438, 420 ]
+98 silly gunzTarPerm extractEntry lib/std_date.js
+99 silly gunzTarPerm modified mode [ 'lib/std_date.js', 438, 420 ]
+100 silly gunzTarPerm extractEntry lib/expression.js
+101 silly gunzTarPerm modified mode [ 'lib/expression.js', 438, 420 ]
+102 silly gunzTarPerm extractEntry lib/std_dict.js
+103 silly gunzTarPerm modified mode [ 'lib/std_dict.js', 438, 420 ]
+104 silly gunzTarPerm extractEntry lib/entity.js
+105 silly gunzTarPerm modified mode [ 'lib/entity.js', 438, 420 ]
+106 silly gunzTarPerm extractEntry lib/std_env.js
+107 silly gunzTarPerm modified mode [ 'lib/std_env.js', 438, 420 ]
+108 silly gunzTarPerm extractEntry lib/driver.js
+109 silly gunzTarPerm modified mode [ 'lib/driver.js', 438, 420 ]
+110 silly gunzTarPerm extractEntry lib/std_flags.js
+111 silly gunzTarPerm modified mode [ 'lib/std_flags.js', 438, 420 ]
+112 silly gunzTarPerm extractEntry lib/definitions.js
+113 silly gunzTarPerm modified mode [ 'lib/definitions.js', 438, 420 ]
+114 silly gunzTarPerm extractEntry lib/std_log.js
+115 silly gunzTarPerm modified mode [ 'lib/std_log.js', 438, 420 ]
+116 silly gunzTarPerm extractEntry lib/cssFormatter.js
+117 silly gunzTarPerm modified mode [ 'lib/cssFormatter.js', 438, 420 ]
+118 silly gunzTarPerm extractEntry lib/std_path.js
+119 silly gunzTarPerm modified mode [ 'lib/std_path.js', 438, 420 ]
+120 silly gunzTarPerm extractEntry lib/csl-madoko.js
+121 silly gunzTarPerm modified mode [ 'lib/csl-madoko.js', 438, 420 ]
+122 silly gunzTarPerm extractEntry lib/std_regex.js
+123 silly gunzTarPerm modified mode [ 'lib/std_regex.js', 438, 420 ]
+124 silly gunzTarPerm extractEntry lib/csl-json.js
+125 silly gunzTarPerm modified mode [ 'lib/csl-json.js', 438, 420 ]
+126 silly gunzTarPerm extractEntry lib/std_string.js
+127 silly gunzTarPerm modified mode [ 'lib/std_string.js', 438, 420 ]
+128 silly gunzTarPerm extractEntry lib/csl-bibtex.js
+129 silly gunzTarPerm modified mode [ 'lib/csl-bibtex.js', 438, 420 ]
+130 silly gunzTarPerm extractEntry lib/storage.js
+131 silly gunzTarPerm modified mode [ 'lib/storage.js', 438, 420 ]
+132 silly gunzTarPerm extractEntry lib/common.js
+133 silly gunzTarPerm modified mode [ 'lib/common.js', 438, 420 ]
+134 silly gunzTarPerm extractEntry lib/texCommon.js
+135 silly gunzTarPerm modified mode [ 'lib/texCommon.js', 438, 420 ]
+136 silly gunzTarPerm extractEntry lib/codeAlign.js
+137 silly gunzTarPerm modified mode [ 'lib/codeAlign.js', 438, 420 ]
+138 silly gunzTarPerm extractEntry lib/texFormatter.js
+139 silly gunzTarPerm modified mode [ 'lib/texFormatter.js', 438, 420 ]
+140 silly gunzTarPerm extractEntry lib/cli.js
+141 silly gunzTarPerm modified mode [ 'lib/cli.js', 438, 420 ]
+142 silly gunzTarPerm extractEntry lib/texParser.js
+143 silly gunzTarPerm modified mode [ 'lib/texParser.js', 438, 420 ]
+144 silly gunzTarPerm extractEntry lib/citeproc.js
+145 silly gunzTarPerm modified mode [ 'lib/citeproc.js', 438, 420 ]
+146 silly gunzTarPerm extractEntry lib/texParserBase.js
+147 silly gunzTarPerm modified mode [ 'lib/texParserBase.js', 438, 420 ]
+148 silly gunzTarPerm extractEntry lib/block.js
+149 silly gunzTarPerm modified mode [ 'lib/block.js', 438, 420 ]
+150 silly gunzTarPerm extractEntry lib/texParserItems.js
+151 silly gunzTarPerm modified mode [ 'lib/texParserItems.js', 438, 420 ]
+152 silly gunzTarPerm extractEntry lib/bibtex-parse.js
+153 silly gunzTarPerm modified mode [ 'lib/bibtex-parse.js', 438, 420 ]
+154 silly gunzTarPerm extractEntry lib/version.js
+155 silly gunzTarPerm modified mode [ 'lib/version.js', 438, 420 ]
+156 silly gunzTarPerm extractEntry lib/bibliography.js
+157 silly gunzTarPerm modified mode [ 'lib/bibliography.js', 438, 420 ]
+158 silly gunzTarPerm extractEntry lib/webmain.js
+159 silly gunzTarPerm modified mode [ 'lib/webmain.js', 438, 420 ]
+160 silly gunzTarPerm extractEntry lib/metadata.js
+161 silly gunzTarPerm modified mode [ 'lib/metadata.js', 438, 420 ]
+162 silly gunzTarPerm extractEntry lib/optionsMath.kki
+163 silly gunzTarPerm modified mode [ 'lib/optionsMath.kki', 438, 420 ]
+164 silly gunzTarPerm extractEntry lib/htmlFormatter.kki
+165 silly gunzTarPerm modified mode [ 'lib/htmlFormatter.kki', 438, 420 ]
+166 silly gunzTarPerm extractEntry lib/optionsMeta.kki
+167 silly gunzTarPerm modified mode [ 'lib/optionsMeta.kki', 438, 420 ]
+168 silly gunzTarPerm extractEntry lib/bibliography.kki
+169 silly gunzTarPerm modified mode [ 'lib/bibliography.kki', 438, 420 ]
+170 silly gunzTarPerm extractEntry lib/optionsSandbox.kki
+171 silly gunzTarPerm modified mode [ 'lib/optionsSandbox.kki', 438, 420 ]
+172 silly gunzTarPerm extractEntry lib/includes.kki
+173 silly gunzTarPerm modified mode [ 'lib/includes.kki', 438, 420 ]
+174 silly gunzTarPerm extractEntry lib/process.kki
+175 silly gunzTarPerm modified mode [ 'lib/process.kki', 438, 420 ]
+176 silly gunzTarPerm extractEntry lib/driver.kki
+177 silly gunzTarPerm modified mode [ 'lib/driver.kki', 438, 420 ]
+178 silly gunzTarPerm extractEntry lib/inline.kki
+179 silly gunzTarPerm modified mode [ 'lib/inline.kki', 438, 420 ]
+180 silly gunzTarPerm extractEntry lib/runLatex.kki
+181 silly gunzTarPerm modified mode [ 'lib/runLatex.kki', 438, 420 ]
+182 silly gunzTarPerm extractEntry lib/block.kki
+183 silly gunzTarPerm modified mode [ 'lib/block.kki', 438, 420 ]
+184 silly gunzTarPerm extractEntry lib/runcsl.kki
+185 silly gunzTarPerm modified mode [ 'lib/runcsl.kki', 438, 420 ]
+186 silly gunzTarPerm extractEntry lib/latexFormatter.kki
+187 silly gunzTarPerm modified mode [ 'lib/latexFormatter.kki', 438, 420 ]
+188 silly gunzTarPerm extractEntry lib/entity.kki
+189 silly gunzTarPerm modified mode [ 'lib/entity.kki', 438, 420 ]
+190 silly gunzTarPerm extractEntry lib/std_core.kki
+191 silly gunzTarPerm modified mode [ 'lib/std_core.kki', 438, 420 ]
+192 silly gunzTarPerm extractEntry lib/madoko.html
+193 silly gunzTarPerm modified mode [ 'lib/madoko.html', 438, 420 ]
+194 silly gunzTarPerm extractEntry lib/std_crypto.kki
+195 silly gunzTarPerm modified mode [ 'lib/std_crypto.kki', 438, 420 ]
+196 silly gunzTarPerm extractEntry lib/codeAlign.kki
+197 silly gunzTarPerm modified mode [ 'lib/codeAlign.kki', 438, 420 ]
+198 silly gunzTarPerm extractEntry lib/std_date.kki
+199 silly gunzTarPerm modified mode [ 'lib/std_date.kki', 438, 420 ]
+200 silly gunzTarPerm extractEntry lib/madoko.kki
+201 silly gunzTarPerm modified mode [ 'lib/madoko.kki', 438, 420 ]
+202 silly gunzTarPerm extractEntry lib/std_dict.kki
+203 silly gunzTarPerm modified mode [ 'lib/std_dict.kki', 438, 420 ]
+204 silly gunzTarPerm extractEntry lib/expression.kki
+205 silly gunzTarPerm modified mode [ 'lib/expression.kki', 438, 420 ]
+206 silly gunzTarPerm extractEntry lib/std_env.kki
+207 silly gunzTarPerm modified mode [ 'lib/std_env.kki', 438, 420 ]
+208 silly gunzTarPerm extractEntry lib/main.kki
+209 silly gunzTarPerm modified mode [ 'lib/main.kki', 438, 420 ]
+210 silly gunzTarPerm extractEntry lib/std_flags.kki
+211 silly gunzTarPerm modified mode [ 'lib/std_flags.kki', 438, 420 ]
+212 silly gunzTarPerm extractEntry lib/webmain.kki
+213 silly gunzTarPerm modified mode [ 'lib/webmain.kki', 438, 420 ]
+214 silly gunzTarPerm extractEntry lib/std_log.kki
+215 silly gunzTarPerm modified mode [ 'lib/std_log.kki', 438, 420 ]
+216 silly gunzTarPerm extractEntry lib/mathParse.kki
+217 silly gunzTarPerm modified mode [ 'lib/mathParse.kki', 438, 420 ]
+218 silly gunzTarPerm extractEntry lib/std_path.kki
+219 silly gunzTarPerm modified mode [ 'lib/std_path.kki', 438, 420 ]
+220 silly gunzTarPerm extractEntry lib/formatBlock.kki
+221 silly gunzTarPerm modified mode [ 'lib/formatBlock.kki', 438, 420 ]
+222 silly gunzTarPerm extractEntry lib/std_regex.kki
+223 silly gunzTarPerm modified mode [ 'lib/std_regex.kki', 438, 420 ]
+224 silly gunzTarPerm extractEntry lib/mathStatic.kki
+225 silly gunzTarPerm modified mode [ 'lib/mathStatic.kki', 438, 420 ]
+226 silly gunzTarPerm extractEntry lib/std_string.kki
+227 silly gunzTarPerm modified mode [ 'lib/std_string.kki', 438, 420 ]
+228 silly gunzTarPerm extractEntry lib/cssFormatter.kki
+229 silly gunzTarPerm modified mode [ 'lib/cssFormatter.kki', 438, 420 ]
+230 silly gunzTarPerm extractEntry lib/storage.kki
+231 silly gunzTarPerm modified mode [ 'lib/storage.kki', 438, 420 ]
+232 silly gunzTarPerm extractEntry lib/mathStaticRun.kki
+233 silly gunzTarPerm modified mode [ 'lib/mathStaticRun.kki', 438, 420 ]
+234 silly gunzTarPerm extractEntry lib/texCommon.kki
+235 silly gunzTarPerm modified mode [ 'lib/texCommon.kki', 438, 420 ]
+236 silly gunzTarPerm extractEntry lib/formatInline.kki
+237 silly gunzTarPerm modified mode [ 'lib/formatInline.kki', 438, 420 ]
+238 silly gunzTarPerm extractEntry lib/texFormatter.kki
+239 silly gunzTarPerm modified mode [ 'lib/texFormatter.kki', 438, 420 ]
+240 silly gunzTarPerm extractEntry lib/attributes.kki
+241 silly gunzTarPerm modified mode [ 'lib/attributes.kki', 438, 420 ]
+242 silly gunzTarPerm extractEntry lib/texParser.kki
+243 silly gunzTarPerm modified mode [ 'lib/texParser.kki', 438, 420 ]
+244 silly gunzTarPerm extractEntry lib/common.kki
+245 silly gunzTarPerm modified mode [ 'lib/common.kki', 438, 420 ]
+246 silly gunzTarPerm extractEntry lib/texParserBase.kki
+247 silly gunzTarPerm modified mode [ 'lib/texParserBase.kki', 438, 420 ]
+248 silly gunzTarPerm extractEntry lib/hilite.kki
+249 silly gunzTarPerm modified mode [ 'lib/hilite.kki', 438, 420 ]
+250 silly gunzTarPerm extractEntry lib/texParserItems.kki
+251 silly gunzTarPerm modified mode [ 'lib/texParserItems.kki', 438, 420 ]
+252 silly gunzTarPerm extractEntry lib/options.kki
+253 silly gunzTarPerm modified mode [ 'lib/options.kki', 438, 420 ]
+254 silly gunzTarPerm extractEntry lib/version.kki
+255 silly gunzTarPerm modified mode [ 'lib/version.kki', 438, 420 ]
+256 silly gunzTarPerm extractEntry lib/definitions.kki
+257 silly gunzTarPerm modified mode [ 'lib/definitions.kki', 438, 420 ]
+258 silly gunzTarPerm extractEntry lib/metadata.kki
+259 silly gunzTarPerm modified mode [ 'lib/metadata.kki', 438, 420 ]
+260 silly gunzTarPerm extractEntry license.txt
+261 silly gunzTarPerm modified mode [ 'license.txt', 438, 420 ]
+262 silly gunzTarPerm extractEntry readme.md
+263 silly gunzTarPerm modified mode [ 'readme.md', 438, 420 ]
+264 silly gunzTarPerm extractEntry styles/madoko.sty
+265 silly gunzTarPerm modified mode [ 'styles/madoko.sty', 438, 420 ]
+266 silly gunzTarPerm extractEntry styles/arrows.mdk
+267 silly gunzTarPerm modified mode [ 'styles/arrows.mdk', 438, 420 ]
+268 silly gunzTarPerm extractEntry styles/bootstrap.mdk
+269 silly gunzTarPerm modified mode [ 'styles/bootstrap.mdk', 438, 420 ]
+270 silly gunzTarPerm extractEntry styles/csl/madoko-natural.csl
+271 silly gunzTarPerm modified mode [ 'styles/csl/madoko-natural.csl', 438, 420 ]
+272 silly gunzTarPerm extractEntry styles/csl/madoko-numeric-short.csl
+273 silly gunzTarPerm modified mode [ 'styles/csl/madoko-numeric-short.csl', 438, 420 ]
+274 silly gunzTarPerm extractEntry styles/csl/madoko-numeric.csl
+275 silly gunzTarPerm modified mode [ 'styles/csl/madoko-numeric.csl', 438, 420 ]
+276 silly gunzTarPerm extractEntry styles/csl/madoko.csl
+277 silly gunzTarPerm modified mode [ 'styles/csl/madoko.csl', 438, 420 ]
+278 silly gunzTarPerm extractEntry styles/css.sty
+279 silly gunzTarPerm modified mode [ 'styles/css.sty', 438, 420 ]
+280 silly gunzTarPerm extractEntry styles/ellipse.sty
+281 silly gunzTarPerm modified mode [ 'styles/ellipse.sty', 438, 420 ]
+282 silly gunzTarPerm extractEntry styles/lang/html.json
+283 silly gunzTarPerm modified mode [ 'styles/lang/html.json', 438, 420 ]
+284 silly gunzTarPerm extractEntry styles/lang/bibtex.json
+285 silly gunzTarPerm modified mode [ 'styles/lang/bibtex.json', 438, 420 ]
+286 silly gunzTarPerm extractEntry styles/lang/codehunt.json
+287 silly gunzTarPerm modified mode [ 'styles/lang/codehunt.json', 438, 420 ]
+288 silly gunzTarPerm extractEntry styles/lang/cpp.json
+289 silly gunzTarPerm modified mode [ 'styles/lang/cpp.json', 438, 420 ]
+290 silly gunzTarPerm extractEntry styles/lang/csharp.json
+291 silly gunzTarPerm modified mode [ 'styles/lang/csharp.json', 438, 420 ]
+292 silly gunzTarPerm extractEntry styles/lang/dafny.json
+293 silly gunzTarPerm modified mode [ 'styles/lang/dafny.json', 438, 420 ]
+294 silly gunzTarPerm extractEntry styles/lang/dot.json
+295 silly gunzTarPerm modified mode [ 'styles/lang/dot.json', 438, 420 ]
+296 silly gunzTarPerm extractEntry styles/lang/fstar.json
+297 silly gunzTarPerm modified mode [ 'styles/lang/fstar.json', 438, 420 ]
+298 silly gunzTarPerm extractEntry styles/lang/haskell.json
+299 silly gunzTarPerm modified mode [ 'styles/lang/haskell.json', 438, 420 ]
+300 silly gunzTarPerm extractEntry styles/lang/boogie.json
+301 silly gunzTarPerm modified mode [ 'styles/lang/boogie.json', 438, 420 ]
+302 silly gunzTarPerm extractEntry styles/lang/java.json
+303 silly gunzTarPerm modified mode [ 'styles/lang/java.json', 438, 420 ]
+304 silly gunzTarPerm extractEntry styles/lang/javascript.json
+305 silly gunzTarPerm modified mode [ 'styles/lang/javascript.json', 438, 420 ]
+306 silly gunzTarPerm extractEntry styles/lang/koka.json
+307 silly gunzTarPerm modified mode [ 'styles/lang/koka.json', 438, 420 ]
+308 silly gunzTarPerm extractEntry styles/lang/latex.json
+309 silly gunzTarPerm modified mode [ 'styles/lang/latex.json', 438, 420 ]
+310 silly gunzTarPerm extractEntry styles/lang/madoko.json
+311 silly gunzTarPerm modified mode [ 'styles/lang/madoko.json', 438, 420 ]
+312 silly gunzTarPerm extractEntry styles/lang/markdown.json
+313 silly gunzTarPerm modified mode [ 'styles/lang/markdown.json', 438, 420 ]
+314 silly gunzTarPerm extractEntry styles/lang/python.json
+315 silly gunzTarPerm modified mode [ 'styles/lang/python.json', 438, 420 ]
+316 silly gunzTarPerm extractEntry styles/lang/ruby.json
+317 silly gunzTarPerm modified mode [ 'styles/lang/ruby.json', 438, 420 ]
+318 silly gunzTarPerm extractEntry styles/lang/smt.json
+319 silly gunzTarPerm modified mode [ 'styles/lang/smt.json', 438, 420 ]
+320 silly gunzTarPerm extractEntry styles/lipsum.mdk
+321 silly gunzTarPerm modified mode [ 'styles/lipsum.mdk', 438, 420 ]
+322 silly gunzTarPerm extractEntry styles/locales/locales-en-US.xml
+323 silly gunzTarPerm modified mode [ 'styles/locales/locales-en-US.xml', 438, 420 ]
+324 silly gunzTarPerm extractEntry styles/longbox.sty
+325 silly gunzTarPerm modified mode [ 'styles/longbox.sty', 438, 420 ]
+326 silly gunzTarPerm extractEntry styles/longfbox.sty
+327 silly gunzTarPerm modified mode [ 'styles/longfbox.sty', 438, 420 ]
+328 silly gunzTarPerm extractEntry styles/madoko.css
+329 silly gunzTarPerm modified mode [ 'styles/madoko.css', 438, 420 ]
+330 silly gunzTarPerm extractEntry styles/book.mdk
+331 silly gunzTarPerm modified mode [ 'styles/book.mdk', 438, 420 ]
+332 silly gunzTarPerm extractEntry styles/madoko2.sty
+333 silly gunzTarPerm modified mode [ 'styles/madoko2.sty', 438, 420 ]
+334 silly gunzTarPerm extractEntry styles/options.sty
+335 silly gunzTarPerm modified mode [ 'styles/options.sty', 438, 420 ]
+336 silly gunzTarPerm extractEntry styles/prelude.mdk
+337 silly gunzTarPerm modified mode [ 'styles/prelude.mdk', 438, 420 ]
+338 silly gunzTarPerm extractEntry styles/prelude0.mdk
+339 silly gunzTarPerm modified mode [ 'styles/prelude0.mdk', 438, 420 ]
+340 silly gunzTarPerm extractEntry styles/present.mdk
+341 silly gunzTarPerm modified mode [ 'styles/present.mdk', 438, 420 ]
+342 silly gunzTarPerm extractEntry styles/presentation.mdk
+343 silly gunzTarPerm modified mode [ 'styles/presentation.mdk', 438, 420 ]
+344 silly gunzTarPerm extractEntry styles/tex-amsthms.mdk
+345 silly gunzTarPerm modified mode [ 'styles/tex-amsthms.mdk', 438, 420 ]
+346 silly gunzTarPerm extractEntry styles/tex-chapters.mdk
+347 silly gunzTarPerm modified mode [ 'styles/tex-chapters.mdk', 438, 420 ]
+348 silly gunzTarPerm extractEntry styles/tex-nostarsections.mdk
+349 silly gunzTarPerm modified mode [ 'styles/tex-nostarsections.mdk', 438, 420 ]
+350 silly gunzTarPerm extractEntry styles/webanchors.mdk
+351 silly gunzTarPerm modified mode [ 'styles/webanchors.mdk', 438, 420 ]
+352 silly gunzTarPerm extractEntry styles/webtoc.mdk
+353 silly gunzTarPerm modified mode [ 'styles/webtoc.mdk', 438, 420 ]
+354 silly gunzTarPerm extractEntry styles/zero.mdk
+355 silly gunzTarPerm modified mode [ 'styles/zero.mdk', 438, 420 ]
+356 silly lockFile 9dc75f4d-6701-0-30789104546420276-package tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package
+357 silly lockFile 9dc75f4d-6701-0-30789104546420276-package tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package
+358 silly lockFile ad07d470-6701-0-30789104546420276-tmp-tgz tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/tmp.tgz
+359 silly lockFile ad07d470-6701-0-30789104546420276-tmp-tgz tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/tmp.tgz
+360 verbose tar pack [ '/home/jcheng/.npm/madoko/1.0.3/package.tgz',
+360 verbose tar pack   '/home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package' ]
+361 verbose tarball /home/jcheng/.npm/madoko/1.0.3/package.tgz
+362 verbose folder /home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package
+363 silly lockFile 9dc75f4d-6701-0-30789104546420276-package tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package
+364 verbose lock tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package /home/jcheng/.npm/9dc75f4d-6701-0-30789104546420276-package.lock
+365 silly lockFile baae3b2f-eng-npm-madoko-1-0-3-package-tgz tar:///home/jcheng/.npm/madoko/1.0.3/package.tgz
+366 verbose lock tar:///home/jcheng/.npm/madoko/1.0.3/package.tgz /home/jcheng/.npm/baae3b2f-eng-npm-madoko-1-0-3-package-tgz.lock
+367 silly lockFile 9dc75f4d-6701-0-30789104546420276-package tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package
+368 silly lockFile 9dc75f4d-6701-0-30789104546420276-package tar:///home/jcheng/tmp/npm-12411-TFxQaoC4/1481239396701-0.30789104546420276/package
+369 silly lockFile baae3b2f-eng-npm-madoko-1-0-3-package-tgz tar:///home/jcheng/.npm/madoko/1.0.3/package.tgz
+370 silly lockFile baae3b2f-eng-npm-madoko-1-0-3-package-tgz tar:///home/jcheng/.npm/madoko/1.0.3/package.tgz
+371 silly lockFile 46efac5a--jcheng-npm-madoko-1-0-3-package /home/jcheng/.npm/madoko/1.0.3/package
+372 verbose lock /home/jcheng/.npm/madoko/1.0.3/package /home/jcheng/.npm/46efac5a--jcheng-npm-madoko-1-0-3-package.lock
+373 silly lockFile 46efac5a--jcheng-npm-madoko-1-0-3-package /home/jcheng/.npm/madoko/1.0.3/package
+374 silly lockFile 46efac5a--jcheng-npm-madoko-1-0-3-package /home/jcheng/.npm/madoko/1.0.3/package
+375 verbose tar unpack /home/jcheng/.npm/madoko/1.0.3/package.tgz
+376 silly lockFile 8ec42432--jcheng-npm-madoko-1-0-3-package tar:///home/jcheng/.npm/madoko/1.0.3/package
+377 verbose lock tar:///home/jcheng/.npm/madoko/1.0.3/package /home/jcheng/.npm/8ec42432--jcheng-npm-madoko-1-0-3-package.lock
+378 silly lockFile baae3b2f-eng-npm-madoko-1-0-3-package-tgz tar:///home/jcheng/.npm/madoko/1.0.3/package.tgz
+379 verbose lock tar:///home/jcheng/.npm/madoko/1.0.3/package.tgz /home/jcheng/.npm/baae3b2f-eng-npm-madoko-1-0-3-package-tgz.lock
+380 silly gunzTarPerm modes [ '755', '644' ]
+381 silly gunzTarPerm extractEntry package.json
+382 silly gunzTarPerm extractEntry Jakefile.js
+383 silly gunzTarPerm extractEntry lib/attributes.js
+384 silly gunzTarPerm extractEntry lib/main.js
+385 silly gunzTarPerm extractEntry lib/mathParse.js
+386 silly gunzTarPerm extractEntry lib/mathStatic.js
+387 silly gunzTarPerm extractEntry lib/mathStaticRun.js
+388 silly gunzTarPerm extractEntry lib/madoko.js
+389 silly gunzTarPerm extractEntry lib/monarch.js
+390 silly gunzTarPerm extractEntry lib/options.js
+391 silly gunzTarPerm extractEntry lib/optionsMath.js
+392 silly gunzTarPerm extractEntry lib/optionsMeta.js
+393 silly gunzTarPerm extractEntry lib/optionsSandbox.js
+394 silly gunzTarPerm extractEntry lib/locales.js
+395 silly gunzTarPerm extractEntry lib/process.js
+396 silly gunzTarPerm extractEntry lib/latexFormatter.js
+397 silly gunzTarPerm extractEntry lib/require.js
+398 silly gunzTarPerm extractEntry lib/inline.js
+399 silly gunzTarPerm extractEntry lib/runLatex.js
+400 silly gunzTarPerm extractEntry lib/includes.js
+401 silly gunzTarPerm extractEntry lib/runcsl.js
+402 silly gunzTarPerm extractEntry lib/htmlFormatter.js
+403 silly gunzTarPerm extractEntry lib/sax.js
+404 silly gunzTarPerm extractEntry lib/hilite.js
+405 silly gunzTarPerm extractEntry lib/std_core.js
+406 silly gunzTarPerm extractEntry lib/formatInline.js
+407 silly gunzTarPerm extractEntry lib/std_crypto.js
+408 silly gunzTarPerm extractEntry lib/formatBlock.js
+409 silly gunzTarPerm extractEntry lib/std_date.js
+410 silly gunzTarPerm extractEntry lib/expression.js
+411 silly gunzTarPerm extractEntry lib/std_dict.js
+412 silly gunzTarPerm extractEntry lib/entity.js
+413 silly gunzTarPerm extractEntry lib/std_env.js
+414 silly gunzTarPerm extractEntry lib/driver.js
+415 silly gunzTarPerm extractEntry lib/std_flags.js
+416 silly gunzTarPerm extractEntry lib/definitions.js
+417 silly gunzTarPerm extractEntry lib/std_log.js
+418 silly gunzTarPerm extractEntry lib/cssFormatter.js
+419 silly gunzTarPerm extractEntry lib/std_path.js
+420 silly gunzTarPerm extractEntry lib/csl-madoko.js
+421 silly gunzTarPerm extractEntry lib/std_regex.js
+422 silly gunzTarPerm extractEntry lib/csl-json.js
+423 silly gunzTarPerm extractEntry lib/std_string.js
+424 silly gunzTarPerm extractEntry lib/csl-bibtex.js
+425 silly gunzTarPerm extractEntry lib/storage.js
+426 silly gunzTarPerm extractEntry lib/common.js
+427 silly gunzTarPerm extractEntry lib/texCommon.js
+428 silly gunzTarPerm extractEntry lib/codeAlign.js
+429 silly gunzTarPerm extractEntry lib/texFormatter.js
+430 silly gunzTarPerm extractEntry lib/cli.js
+431 silly gunzTarPerm extractEntry lib/texParser.js
+432 silly gunzTarPerm extractEntry lib/citeproc.js
+433 silly gunzTarPerm extractEntry lib/texParserBase.js
+434 silly gunzTarPerm extractEntry lib/block.js
+435 silly gunzTarPerm extractEntry lib/texParserItems.js
+436 silly gunzTarPerm extractEntry lib/bibtex-parse.js
+437 silly gunzTarPerm extractEntry lib/version.js
+438 silly gunzTarPerm extractEntry lib/bibliography.js
+439 silly gunzTarPerm extractEntry lib/webmain.js
+440 silly gunzTarPerm extractEntry lib/metadata.js
+441 silly gunzTarPerm extractEntry lib/optionsMath.kki
+442 silly gunzTarPerm extractEntry lib/htmlFormatter.kki
+443 silly gunzTarPerm extractEntry lib/optionsMeta.kki
+444 silly gunzTarPerm extractEntry lib/bibliography.kki
+445 silly gunzTarPerm extractEntry lib/optionsSandbox.kki
+446 silly gunzTarPerm extractEntry lib/includes.kki
+447 silly gunzTarPerm extractEntry lib/process.kki
+448 silly gunzTarPerm extractEntry lib/driver.kki
+449 silly gunzTarPerm extractEntry lib/inline.kki
+450 silly gunzTarPerm extractEntry lib/runLatex.kki
+451 silly gunzTarPerm extractEntry lib/block.kki
+452 silly gunzTarPerm extractEntry lib/runcsl.kki
+453 silly gunzTarPerm extractEntry lib/latexFormatter.kki
+454 silly gunzTarPerm extractEntry lib/entity.kki
+455 silly gunzTarPerm extractEntry lib/std_core.kki
+456 silly gunzTarPerm extractEntry lib/madoko.html
+457 silly gunzTarPerm extractEntry lib/std_crypto.kki
+458 silly gunzTarPerm extractEntry lib/codeAlign.kki
+459 silly gunzTarPerm extractEntry lib/std_date.kki
+460 silly gunzTarPerm extractEntry lib/madoko.kki
+461 silly gunzTarPerm extractEntry lib/std_dict.kki
+462 silly gunzTarPerm extractEntry lib/expression.kki
+463 silly gunzTarPerm extractEntry lib/std_env.kki
+464 silly gunzTarPerm extractEntry lib/main.kki
+465 silly gunzTarPerm extractEntry lib/std_flags.kki
+466 silly gunzTarPerm extractEntry lib/webmain.kki
+467 silly gunzTarPerm extractEntry lib/std_log.kki
+468 silly gunzTarPerm extractEntry lib/mathParse.kki
+469 silly gunzTarPerm extractEntry lib/std_path.kki
+470 silly gunzTarPerm extractEntry lib/formatBlock.kki
+471 silly gunzTarPerm extractEntry lib/std_regex.kki
+472 silly gunzTarPerm extractEntry lib/mathStatic.kki
+473 silly gunzTarPerm extractEntry lib/std_string.kki
+474 silly gunzTarPerm extractEntry lib/cssFormatter.kki
+475 silly gunzTarPerm extractEntry lib/storage.kki
+476 silly gunzTarPerm extractEntry lib/mathStaticRun.kki
+477 silly gunzTarPerm extractEntry lib/texCommon.kki
+478 silly gunzTarPerm extractEntry lib/formatInline.kki
+479 silly gunzTarPerm extractEntry lib/texFormatter.kki
+480 silly gunzTarPerm extractEntry lib/attributes.kki
+481 silly gunzTarPerm extractEntry lib/texParser.kki
+482 silly gunzTarPerm extractEntry lib/common.kki
+483 silly gunzTarPerm extractEntry lib/texParserBase.kki
+484 silly gunzTarPerm extractEntry lib/hilite.kki
+485 silly gunzTarPerm extractEntry lib/texParserItems.kki
+486 silly gunzTarPerm extractEntry lib/options.kki
+487 silly gunzTarPerm extractEntry lib/version.kki
+488 silly gunzTarPerm extractEntry lib/definitions.kki
+489 silly gunzTarPerm extractEntry lib/metadata.kki
+490 silly gunzTarPerm extractEntry license.txt
+491 silly gunzTarPerm extractEntry readme.md
+492 silly gunzTarPerm extractEntry styles/madoko.sty
+493 silly gunzTarPerm extractEntry styles/arrows.mdk
+494 silly gunzTarPerm extractEntry styles/bootstrap.mdk
+495 silly gunzTarPerm extractEntry styles/csl/madoko-natural.csl
+496 silly gunzTarPerm extractEntry styles/csl/madoko-numeric-short.csl
+497 silly gunzTarPerm extractEntry styles/csl/madoko-numeric.csl
+498 silly gunzTarPerm extractEntry styles/csl/madoko.csl
+499 silly gunzTarPerm extractEntry styles/css.sty
+500 silly gunzTarPerm extractEntry styles/ellipse.sty
+501 silly gunzTarPerm extractEntry styles/lang/html.json
+502 silly gunzTarPerm extractEntry styles/lang/bibtex.json
+503 silly gunzTarPerm extractEntry styles/lang/codehunt.json
+504 silly gunzTarPerm extractEntry styles/lang/cpp.json
+505 silly gunzTarPerm extractEntry styles/lang/csharp.json
+506 silly gunzTarPerm extractEntry styles/lang/dafny.json
+507 silly gunzTarPerm extractEntry styles/lang/dot.json
+508 silly gunzTarPerm extractEntry styles/lang/fstar.json
+509 silly gunzTarPerm extractEntry styles/lang/haskell.json
+510 silly gunzTarPerm extractEntry styles/lang/boogie.json
+511 silly gunzTarPerm extractEntry styles/lang/java.json
+512 silly gunzTarPerm extractEntry styles/lang/javascript.json
+513 silly gunzTarPerm extractEntry styles/lang/koka.json
+514 silly gunzTarPerm extractEntry styles/lang/latex.json
+515 silly gunzTarPerm extractEntry styles/lang/madoko.json
+516 silly gunzTarPerm extractEntry styles/lang/markdown.json
+517 silly gunzTarPerm extractEntry styles/lang/python.json
+518 silly gunzTarPerm extractEntry styles/lang/ruby.json
+519 silly gunzTarPerm extractEntry styles/lang/smt.json
+520 silly gunzTarPerm extractEntry styles/lipsum.mdk
+521 silly gunzTarPerm extractEntry styles/locales/locales-en-US.xml
+522 silly gunzTarPerm extractEntry styles/longbox.sty
+523 silly gunzTarPerm extractEntry styles/longfbox.sty
+524 silly gunzTarPerm extractEntry styles/madoko.css
+525 silly gunzTarPerm extractEntry styles/book.mdk
+526 silly gunzTarPerm extractEntry styles/madoko2.sty
+527 silly gunzTarPerm extractEntry styles/options.sty
+528 silly gunzTarPerm extractEntry styles/prelude.mdk
+529 silly gunzTarPerm extractEntry styles/prelude0.mdk
+530 silly gunzTarPerm extractEntry styles/present.mdk
+531 silly gunzTarPerm extractEntry styles/presentation.mdk
+532 silly gunzTarPerm extractEntry styles/tex-amsthms.mdk
+533 silly gunzTarPerm extractEntry styles/tex-chapters.mdk
+534 silly gunzTarPerm extractEntry styles/tex-nostarsections.mdk
+535 silly gunzTarPerm extractEntry styles/webanchors.mdk
+536 silly gunzTarPerm extractEntry styles/webtoc.mdk
+537 silly gunzTarPerm extractEntry styles/zero.mdk
+538 silly lockFile 8ec42432--jcheng-npm-madoko-1-0-3-package tar:///home/jcheng/.npm/madoko/1.0.3/package
+539 silly lockFile 8ec42432--jcheng-npm-madoko-1-0-3-package tar:///home/jcheng/.npm/madoko/1.0.3/package
+540 silly lockFile baae3b2f-eng-npm-madoko-1-0-3-package-tgz tar:///home/jcheng/.npm/madoko/1.0.3/package.tgz
+541 silly lockFile baae3b2f-eng-npm-madoko-1-0-3-package-tgz tar:///home/jcheng/.npm/madoko/1.0.3/package.tgz
+542 verbose chmod /home/jcheng/.npm/madoko/1.0.3/package.tgz 644
+543 verbose chown /home/jcheng/.npm/madoko/1.0.3/package.tgz [ 1000, 1000 ]
+544 silly lockFile 5b51cff8-pmjs-org-madoko-madoko-1-0-3-tgz https://registry.npmjs.org/madoko/-/madoko-1.0.3.tgz
+545 silly lockFile 5b51cff8-pmjs-org-madoko-madoko-1-0-3-tgz https://registry.npmjs.org/madoko/-/madoko-1.0.3.tgz
+546 silly lockFile aaaea857-madoko-1-0-3 madoko@1.0.3
+547 silly lockFile aaaea857-madoko-1-0-3 madoko@1.0.3
+548 silly lockFile e0c70dcd-madoko madoko@
+549 silly lockFile e0c70dcd-madoko madoko@
+550 silly resolved [ { name: 'madoko',
+550 silly resolved     author: { name: 'Daan Leijen, Microsoft Corp.' },
+550 silly resolved     version: '1.0.3',
+550 silly resolved     homepage: 'http://madoko.codeplex.com',
+550 silly resolved     description: 'Madoko is a fast scholarly Markdown processor written in Koka',
+550 silly resolved     licenses: [ [Object] ],
+550 silly resolved     keywords:
+550 silly resolved      [ 'Madoko',
+550 silly resolved        'Markdown',
+550 silly resolved        'LaTeX',
+550 silly resolved        'Koka',
+550 silly resolved        'Microsoft',
+550 silly resolved        'Scholarly',
+550 silly resolved        'Academic' ],
+550 silly resolved     preferGlobal: true,
+550 silly resolved     main: './lib/madoko.js',
+550 silly resolved     bin: { madoko: './lib/cli.js' },
+550 silly resolved     directories: { lib: './lib', doc: './doc' },
+550 silly resolved     files: [ 'lib', 'styles', 'Jakefile.js', 'readme.md', 'license.txt' ],
+550 silly resolved     engines: { node: '>=0.10.0' },
+550 silly resolved     dependencies: { amdefine: '>=0.0.4', requirejs: '>=2.1', mkdirp: '>=0.3.5' },
+550 silly resolved     devDependencies: { jake: '>=0.7.6' },
+550 silly resolved     repository: { type: 'hg', url: 'https://hg.codeplex.com/madoko' },
+550 silly resolved     readme: 'Title \t  \t: Madoko\nAuthor      : Daan Leijen\nHeading Base: 2\n\n# Madoko -- a Fast Scholarly Markdown Processor\n\nMadoko is a fast javascript [Markdown] processor written in [Koka]\nIt started out as a demo program for the new, strongly typed, [Koka] language and\nthe name comes from "_Ma_\\/rk\\/_do_\\/wn in _Ko_\\/ka".\n\nMadoko can both be run local as a command-line program, or as a full\nonline experience on [Madoko.net] with storage and collaboration through [dropbox] or [github].\n\n## Using Madoko\n\nThe best experience is online at: <https://www.madoko.net>\n\nOtherwise, you can run Madoko on the command line:\n\n* Ensure you have [Node.js](http://nodejs.org) installed on your system.\n\n* Open a command line window and run the Node package manager to install Madoko:\n\n  `npm install madoko -g`\n\nand you are done. Translating a markdown document is done simply as:\n\n* `madoko -v mydoc.mdk`\n\nwhich generates `mydoc.html`. The `-v` flag gives more verbose output.\nTo also generate a PDF file, use:\n\n* `madoko --pdf -vv --odir=out mydoc`\n\nwhere `--odir` puts all output files in the `out` directory. To generate\na PDF, you need to have LaTeX installed on your system, which is also\nrequired for mathematics and bibliographies. We recommend the\nfull [TeXLive] LaTeX system as it is available for Windows, Linux and\nMacOSX, and is used on the [Madoko.net] server as well.\n\n[TexLive]:    https://www.tug.org/texlive\n[MacTeX]:     http://tug.org/mactex/\n[Madoko.net]: https://www.madoko.net\n\n## Madoko philosophy\n\nThe main design goal of Madoko is to enable light-weight creation of \nhigh-quality scholarly and industrial documents for the web and print,\nwhile maintaining John Gruber\'s Markdown philosophy of simplicity and focus on\nplain text readability.\n\nThe popularity of Markdown is not accidental, and it is great for writing\nprose: it is super simple and straightforward to create good looking HTML\ndocuments. But for more serious use Markdown falls short in several areas,\nand Madoko provides many essential additions for larger documents.\n\nBesides HTML output, Madoko also generates high-quality PDF files through LaTeX. Even\nthough more Markdown implementations support this, there has been a lot of\neffort in Madoko to make the LaTeX generation robust and customizable. This\nmakes it possible to write high-quality articles using just Madoko and get\nboth a high-quality print format (PDF) and a good looking HTML page.\n\nFor more information look at the [Madoko manual](http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html)\n\nHave fun,\n-- Daan\n\n[Koka]:     http://koka.codeplex.com\n[dropbox]:  http://dropbox.com\n[github]:   http://github.com\n[markdown]: http://daringfireball.net/projects/markdown/',
+550 silly resolved     readmeFilename: 'readme.md',
+550 silly resolved     _id: 'madoko@1.0.3',
+550 silly resolved     dist: { shasum: '71f145162c9e06eb96e31e2288b20839ef71d495' },
+550 silly resolved     _from: 'madoko@',
+550 silly resolved     _resolved: 'https://registry.npmjs.org/madoko/-/madoko-1.0.3.tgz' } ]
+551 info install madoko@1.0.3 into /usr/lib
+552 info installOne madoko@1.0.3
+553 info /usr/lib/node_modules/madoko unbuild
+554 info preuninstall madoko@1.0.3
+555 info uninstall madoko@1.0.3
+556 verbose true,/usr/lib/node_modules,/usr/lib/node_modules unbuild madoko@1.0.3
+557 verbose /usr/bin,[object Object] binRoot
+558 info /usr/lib/node_modules/madoko unbuild
+559 info preuninstall madoko@1.0.3
+560 info uninstall madoko@1.0.3
+561 verbose true,/usr/lib/node_modules,/usr/lib/node_modules unbuild madoko@1.0.3
+562 verbose /usr/bin,[object Object] binRoot
+563 error error rolling back Error: Refusing to delete: /usr/bin/madoko not in /usr/lib/node_modules/madoko
+563 error error rolling back     at clobberFail (/usr/lib/node_modules/npm/lib/utils/gently-rm.js:41:12)
+563 error error rolling back     at next (/usr/lib/node_modules/npm/lib/utils/gently-rm.js:27:14)
+563 error error rolling back     at /usr/lib/node_modules/npm/lib/utils/gently-rm.js:36:12
+563 error error rolling back     at Object.oncomplete (fs.js:108:15)
+563 error error rolling back  madoko@1.0.3 { [Error: Refusing to delete: /usr/bin/madoko not in /usr/lib/node_modules/madoko] code: 'EEXIST', path: '/usr/bin/madoko' }
+564 error Refusing to delete: /usr/bin/madoko not in /usr/lib/node_modules/madoko
+File exists: /usr/bin/madoko
+Move it away, and try again.
+565 error System Linux 4.2.8-300.fc23.x86_64
+566 error command "node" "/usr/bin/npm" "install" "madoko" "-g"
+567 error cwd /home/jcheng/mywork/www/jcheng.org_rtd
+568 error node -v v0.10.36
+569 error npm -v 1.3.6
+570 error path /usr/bin/madoko
+571 error code EEXIST
+572 verbose exit [ 1, true ]
