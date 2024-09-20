@@ -25,6 +25,7 @@ default: site
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
+	@echo "  papers      : make publication rst files"
 	@echo "  html        : make standalone HTML files"
 	@echo "  CV          : make my CV"
 	@echo "  wordcloud   : make wordcloud from bib file"
@@ -33,11 +34,16 @@ help:
 	@echo "  upload      : push the local site build to its public location"
 	@echo "  dist        : create a tarball (no .git dir) of site"
 
+cleanhtml:
+	rm -rf $(BUILDDIR)/html
+	mkdir $(BUILDDIR)/html
+
 clean:
 	rm -rf $(BUILDDIR)/html
 	mkdir $(BUILDDIR)/html
 	rm -rf publications_by_*.rst
 	rm -rf publications_first_author.rst
+	rm -rf publications_corresponding_author.rst 
 
 # cleanAll:
 #   -rm -rf $(BUILDDIR)/*
@@ -47,6 +53,7 @@ html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	touch $(BUILDDIR)/html/.nojekyll
 
 papers:
 	mkdir $(BUILDDIR)/html -p
