@@ -31,3 +31,13 @@ font-weight: bold;
     text-shadow: 0 1px 3px rgba(0,0,0,0.3);
     color: #b3d9ff;
 }
+
+.rst-content .section ol li>*,
+.rst-content .section ul li>*,
+.rst-content .toctree-wrapper ol li>*,
+.rst-content .toctree-wrapper ul li>*,
+.rst-content section ol li>*,
+.rst-content section ul li>* {
+  margin-top:0px;
+  margin-bottom:0px
+}
