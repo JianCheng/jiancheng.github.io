@@ -13,8 +13,6 @@
 
   
   
-    <link rel="shortcut icon" href="_static/linux-icon.png"/>
-  
 
   
 
@@ -31,6 +29,10 @@
 
   <link rel="stylesheet" href="_static/academicons.css">
 
+  
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  
+    <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   
     <link rel="stylesheet" href="_static/theme_overrides.css" type="text/css" />
   
@@ -86,12 +88,11 @@
             
                 <ul>
 <li class="toctree-l1"><a class="reference internal" href="index.html">Home</a></li>
-<li class="toctree-l1"><a class="reference internal" href="news.html">News</a></li>
 <li class="toctree-l1"><a class="reference internal" href="resume.html">Resume</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="resume.html#education">Education</a></li>
 <li class="toctree-l2"><a class="reference internal" href="resume.html#professional-experience">Professional Experience</a></li>
 <li class="toctree-l2"><a class="reference internal" href="resume.html#honors-and-awards">Honors and Awards</a></li>
-<li class="toctree-l2"><a class="reference internal" href="resume.html#professional-services">Professional Services</a></li>
+<li class="toctree-l2"><a class="reference internal" href="resume.html#professional-activities">Professional Activities</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="publications.html">Publications</a><ul>
@@ -104,22 +105,25 @@
 </ul>
 </li>
 <li class="toctree-l2"><a class="reference internal" href="publications_by_year.html"> Publications By Year</a></li>
-<li class="toctree-l2"><a class="reference internal" href="publications_first_author.html"> First-Author Articles</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="publications_first_author.html#book-chapters">Book Chapters</a></li>
-<li class="toctree-l3"><a class="reference internal" href="publications_first_author.html#journal-articles">Journal Articles</a></li>
-<li class="toctree-l3"><a class="reference internal" href="publications_first_author.html#conference-articles">Conference Articles</a></li>
-<li class="toctree-l3"><a class="reference internal" href="publications_first_author.html#conference-abstracts">Conference Abstracts</a></li>
-<li class="toctree-l3"><a class="reference internal" href="publications_first_author.html#theses">Theses</a></li>
+<li class="toctree-l2"><a class="reference internal" href="publications_by_venue.html"> Publications By Selected Venues</a></li>
+<li class="toctree-l2"><a class="reference internal" href="publications_first_corresponding_author.html"> First- or Corresponding-Author Articles</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="publications_first_corresponding_author.html#book-chapters">Book Chapters</a></li>
+<li class="toctree-l3"><a class="reference internal" href="publications_first_corresponding_author.html#journal-articles">Journal Articles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="publications_first_corresponding_author.html#conference-articles">Conference Articles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="publications_first_corresponding_author.html#conference-abstracts">Conference Abstracts</a></li>
+<li class="toctree-l3"><a class="reference internal" href="publications_first_corresponding_author.html#theses">Theses</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="software.html">Software</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="software.html#diffusion-mri-tool">Diffusion MRI Tool</a></li>
+<li class="toctree-l2"><a class="reference internal" href="software.html#brain-age-estimation">Brain Age Estimation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="software.html#lrtv-for-image-superresolution">LRTV for Image Superresolution</a></li>
 <li class="toctree-l2"><a class="reference internal" href="software.html#bibtex2html-py">bibtex2html.py</a></li>
 </ul>
 </li>
+<li class="toctree-l1"><a class="reference external" href="http://shi.buaa.edu.cn/jiancheng">Chinese Homepage &#64; BUAA</a></li>
 </ul>
 
             
@@ -146,8 +150,11 @@
                 <a href="https://www.researchgate.net/profile/Jian_Cheng2">
                     <i class="ai ai-researchgate ai-2x"></i>
                 </a>
-                <a href="http://arxiv.org/a/cheng_j_2">
+                <a href="https://arxiv.org/a/cheng_j_2">
                     <i class="ai ai-arxiv ai-2x"></i>
+                </a>
+                <a href="https://dblp.org/pid/14/6145-2.html">
+                    <i class="ai ai-dblp ai-2x"></i>
                 </a>
                 <!-- <a href="mailto:jiancheng@ieee.org"> -->
                 <!--     <i class="fa fa-envelope-o fa-2x"></i> -->
@@ -206,7 +213,7 @@
   
   <hr/>
 </div>
-          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+          <div role="main" class="document" itemscope="itemscope" itemtype="https://schema.org/Article">
            <div itemprop="articleBody">
             
   <noscript>
@@ -236,6 +243,11 @@
   <div role="contentinfo">
     <p>
         &copy; Copyright <a class="reference external" href="mailto:jiancheng@ieee.org">Jian Cheng</a>.
+  <!-- Hosted by <a href="https://pages.coding.me">Coding Pages</a>. -->
+   <!-- <a class="reference external" href="https://pages.coding.me"> -->
+   <!--     <img alt="" src="https://dn-coding-net-production-static.qbox.me/static/9348be98ed46c1cd972743184b76fe73.png" style="width: 80px; height: 16px;"/>  -->
+   <!-- </a> -->
+    
 
     </p>
   </div> 
@@ -263,6 +275,7 @@
             SOURCELINK_SUFFIX: '.txt'
         };
     </script>
+      <script type="text/javascript" src="_static/documentation_options.js"></script>
       <script type="text/javascript" src="_static/jquery.js"></script>
       <script type="text/javascript" src="_static/underscore.js"></script>
       <script type="text/javascript" src="_static/doctools.js"></script>
@@ -313,7 +326,7 @@ scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script>
 <noscript><div class="statcounter"><a title="shopify
-analytics tool" href="http://statcounter.com/shopify/"
+analytics tool" href="https://statcounter.com/shopify/"
 target="_blank"><img class="statcounter"
 src="//c.statcounter.com/11048629/0/d518e60a/0/"
 alt="shopify analytics tool"></a></div></noscript>

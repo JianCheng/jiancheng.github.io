@@ -1,0 +1,1926 @@
+
+===============================
+Publications By Selected Venues
+===============================
+
+.. meta::
+   :description: Jian Cheng's publications, Publications By Selected Venues
+.. include:: meta_keywords.txt
+
+.. raw:: html
+
+    <style type="text/css">
+
+    .wy-nav-content {
+        max-width: 2050px
+    }
+    </style>
+
+
+.. raw:: html
+
+   <a class="reference external" href="https://scholar.google.com/citations?user=BARqXQ0AAAAJ&amp;hl=en">
+   <img alt="Google Scholar" src="_static/google_scholar.png" style="width: 155.2px; height: 32.0px;" />
+   </a>
+   &nbsp;
+
+     <div>
+
+        <ul style="padding: 10px; border: 1px solid #333333; border-radius: 10px; text-align: justify; background-color: #F7F7F7;">
+
+        <li> COPYRIGHT NOTICE: These materials are presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders.        
+          
+        <li> The publication list is automatically generated from bibtex by using <a href="https://github.com/JianCheng/bibtex2html.py">bibtex2html.py</a> that I developed.
+
+        <li> # denotes co-first authors. * denotes corresponding authors.
+
+        </ul>
+
+      </div>
+
+
+
+
+.. raw:: html
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+    <link rel="stylesheet" href="_static/mybootstrap2.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="scholar.js"></script>
+
+    <script type="text/javascript">
+        function toggle(showHideDiv, switchTextDiv)
+        {
+        var ele = document.getElementById(showHideDiv);
+        var text = document.getElementById(switchTextDiv);
+        if(ele.style.display == "block")
+        {
+            ele.style.display = "none";
+        }
+        else
+        {
+            ele.style.display = "block";
+        }
+        }
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="_static/jcpaperstyle.css">
+    <style type="text/css">
+    </style>
+
+
+    
+
+
+        <br>
+        <p><big>&#8226;&nbsp;<b>Total Citations</b>: <a target="_blank" href='https://scholar.google.com/citations?user=BARqXQ0AAAAJ&hl=en'>2032</a> &#8226;&nbsp;  <b>H-Index</b>: <a target="_blank" href='https://scholar.google.com/citations?user=BARqXQ0AAAAJ&hl=en'>23</a></big></p>
+    
+    <p><big>&#8226;&nbsp;<a href="publications_by_venue.html#TMI"><b>TMI</b> (5)</a> &#8226;&nbsp;<a href="publications_by_venue.html#MedIA"><b>MedIA</b> (2)</a> &#8226;&nbsp;<a href="publications_by_venue.html#eLife"><b>eLife</b> (1)</a> &#8226;&nbsp;<a href="publications_by_venue.html#NeuroImage"><b>NeuroImage</b> (2)</a> &#8226;&nbsp;<a href="publications_by_venue.html#HBM"><b>HBM</b> (5)</a> &#8226;&nbsp;<a href="publications_by_venue.html#CC"><b>CC</b> (1)</a> &#8226;&nbsp;<a href="publications_by_venue.html#CVPR"><b>CVPR</b> (1)</a> &#8226;&nbsp;<a href="publications_by_venue.html#MICCAI"><b>MICCAI</b> (15)</a> &#8226;&nbsp;<a href="publications_by_venue.html#IPMI"><b>IPMI</b> (2)</a> &#8226;&nbsp;</big></p>
+    
+    
+
+
+
+.. _publications_by_venue_tmi:
+
+.. raw:: html
+
+    <h2><a name="TMI"></a>TMI</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author">Xiaolin Fan, Yan Wang, Yingying Zhang*, Mingkun Bao, Bosen Jia, Dong Lu, Yifan Gu, <b>Jian Cheng</b>*, Haogang Zhu*</span>,<br>
+    <span class="title">"AVP-AP: Self-supervised Automatic View Positioning in 3D cardiac CT via Atlas Prompting"</span>,<br>
+    <span class="publisher">IEEE Transactions on Medical Imaging (<b>TMI</b>)</span>, vol. 44, no. 7, pp. 2921&ndash;2932, <span class="year">2025</span>.
+    <br><a target="_self" href="https://arxiv.org/pdf/2504.05966.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1109/TMI.2025.3554785"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-fan-AVP-AP-TMI2025">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-fan-AVP-AP-TMI2025">abstract</a>]&nbsp;
+    [<a target="_self" href="https://arxiv.org/abs/2504.05966">arxiv</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-fan-AVP-AP-TMI2025" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{fan:AVP-AP:TMI2025,
+     author = {Xiaolin Fan and Yan Wang and Yingying Zhang and Mingkun Bao and Bosen Jia and Dong Lu and Yifan Gu and Jian Cheng and Haogang Zhu},
+     doi = {10.1109/TMI.2025.3554785},
+     journal = {IEEE Transactions on Medical Imaging},
+     number = {7},
+     pages = {2921-2932},
+     pdf = {https://arxiv.org/pdf/2504.05966.pdf},
+     publisher = {IEEE},
+     title = {AVP-AP: Self-supervised Automatic View Positioning in 3D cardiac CT via Atlas Prompting},
+     url = {https://dx.doi.org/10.1109/TMI.2025.3554785},
+     volume = {44},
+     year = {2025}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-fan-AVP-AP-TMI2025" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Automatic view positioning is crucial for cardiac computed
+    tomography (CT) examinations, including disease diagnosis and
+    surgical planning. However, it is highly challenging due to
+    individual variability and large 3D search space. Existing work
+    needs labor-intensive and time-consuming manual annotations to train
+    view-specific models, which are limited to predicting only a fixed
+    set of planes. However, in real clinical scenarios, the challenge of
+    positioning semantic 2D slices with any orientation into varying
+    coordinate space in arbitrary 3D volume remains unsolved. We thus
+    introduce a novel framework, AVP-AP, the first to use Atlas
+    Prompting for self-supervised Automatic View Positioning in the 3D
+    CT volume. Specifically, this paper first proposes an atlas
+    prompting method, which generates a 3D canonical atlas and trains a
+    network to map slices into their corresponding positions in the
+    atlas space via a self-supervised manner. Then, guided by atlas
+    prompts corresponding to the given query images in a reference CT,
+    we identify the coarse positions of slices in the target CT volume
+    using rigid transformation between the 3D atlas and target CT
+    volume, effectively reducing the search space. Finally, we refine
+    the coarse positions by maximizing the similarity between the
+    predicted slices and the query images in the feature space of a
+    given foundation model. Our framework is flexible and efficient
+    compared to other methods, outperforming other methods by 19.8%
+    average structural similarity (SSIM) in arbitrary view positioning
+    and achieving 9% SSIM in two-chamber view compared to four
+    radiologists. Meanwhile, experiments on a public dataset validate
+    our framework's generalizability.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Yan Wang, <b>Jian Cheng</b>*, Yixin Chen, Shuai Shao, Lanyun Zhu, Zhenzhou Wu, Tao Liu, Haogang Zhu*</span>,<br>
+    <span class="title">"FVP: Fourier Visual Prompting for Source-Free Unsupervised Domain Adaptation of Medical Image Segmentation"</span>,<br>
+    <span class="publisher">IEEE Transactions on Medical Imaging (<b>TMI</b>)</span>, vol. 42, no. 12, pp. 3738&ndash;3751, <span class="year">2023</span>.
+    <br><a target="_self" href="https://arxiv.org/pdf/2304.13672.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1109/TMI.2023.3306105"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-wang2023fvp">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-wang2023fvp">abstract</a>]&nbsp;
+    [<a target="_self" href="https://arxiv.org/abs/2304.13672">arxiv</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:nVrZBo8bIpAC">56</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-wang2023fvp" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{wang2023fvp,
+     author = {Yan Wang and Jian Cheng and Yixin Chen and Shuai Shao and Lanyun Zhu and Zhenzhou Wu and Tao Liu and Haogang Zhu},
+     doi = {10.1109/TMI.2023.3306105},
+     journal = {IEEE Transactions on Medical Imaging},
+     number = {12},
+     pages = {3738-3751},
+     pdf = {https://arxiv.org/pdf/2304.13672.pdf},
+     title = {FVP: Fourier Visual Prompting for Source-Free Unsupervised Domain Adaptation of Medical Image Segmentation},
+     url = {https://dx.doi.org/10.1109/TMI.2023.3306105},
+     volume = {42},
+     year = {2023}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-wang2023fvp" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Medical image segmentation methods normally perform poorly when
+    there is a domain shift between training and testing data.
+    Unsupervised Domain Adaptation (UDA) addresses the domain shift
+    problem by training the model using both labeled data from the
+    source domain and unlabeled data from the target domain. Source-Free
+    UDA (SFUDA) was recently proposed for UDA without requiring the
+    source data during the adaptation, due to data privacy or data
+    transmission issues, which normally adapts the pre-trained deep
+    model in the testing stage. However, in real clinical scenarios of
+    medical image segmentation, the trained model is normally frozen in
+    the testing stage. In this paper, we propose Fourier Visual
+    Prompting (FVP) for SFUDA of medical image segmentation. Inspired by
+    prompting learning in natural language processing, FVP steers the
+    frozen pre-trained model to perform well in the target domain by
+    adding a visual prompt to the input target data. In FVP, the visual
+    prompt is parameterized using only a small amount of low-frequency
+    learnable parameters in the input frequency space, and is learned by
+    minimizing the segmentation loss between the predicted segmentation
+    of the prompted target image and reliable pseudo segmentation label
+    of the target image under the frozen model. To our knowledge, FVP is
+    the first work to apply visual prompts to SFUDA for medical image
+    segmentation. The proposed FVP is validated using three public
+    datasets, and experiments demonstrate that FVP yields better
+    segmentation results, compared with various existing methods.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>#, Ziyang Liu#, Hao Guan, Zhenzhou Wu, Haogang Zhu, Jiyang Jiang, Wei Wen, Dacheng Tao, Tao Liu*</span>,<br>
+    <span class="title">"Brain Age Estimation From MRI Using Cascade Networks with Ranking Loss"</span>,<br>
+    <span class="publisher">IEEE Transactions on Medical Imaging (<b>TMI</b>)</span>, vol. 40, no. 12, pp. 3400&ndash;3412, <span class="year">2021</span>.
+    <br><a target="_self" href="https://arxiv.org/pdf/2106.03052.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1109/TMI.2021.3085948"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng-TMI2021">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng-TMI2021">abstract</a>]&nbsp;
+    [<a target="_self" href="https://arxiv.org/abs/2106.03052">arxiv</a>]&nbsp;
+    [<a target="_self" href="https://github.com/Milan-BUAA/TSAN-brain-age-estimation">code</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:yqoGN6RLRZoC">94</a>]&nbsp;
+    (<span class="hlnote0">Jian Cheng and Ziyang Liu contributed equally.</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-cheng-TMI2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{cheng:TMI2021,
+     author = {Jian Cheng and Ziyang Liu and Hao Guan and Zhenzhou Wu and Haogang Zhu and Jiyang Jiang and Wei Wen and Dacheng Tao and Tao Liu},
+     doi = {10.1109/TMI.2021.3085948},
+     journal = {IEEE Transactions on Medical Imaging},
+     number = {12},
+     pages = {3400-3412},
+     pdf = {https://arxiv.org/pdf/2106.03052.pdf},
+     publisher = {IEEE},
+     title = {Brain Age Estimation From MRI Using Cascade Networks with Ranking Loss},
+     url = {https://dx.doi.org/10.1109/TMI.2021.3085948},
+     volume = {40},
+     year = {2021}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng-TMI2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Chronological age of healthy people is able to be predicted
+    accurately using deep neural networks from neuroimaging data,  and
+    the predicted brain age could serve as a biomarker for detecting
+    aging-related diseases.  In this paper, a novel 3D convolutional
+    network, called two-stage-age-network (TSAN), is proposed to
+    estimate brain age from T1-weighted MRI data.  Compared with
+    existing methods, TSAN has the following improvements.  First, TSAN
+    uses a two-stage cascade network architecture, where the first-stage
+    network estimates a rough brain age,  then the second-stage network
+    estimates the brain age more accurately from the discretized brain
+    age by the first-stage network.  Second, to our knowledge, TSAN is
+    the first work to apply novel ranking losses in brain age
+    estimation, together with the traditional mean square error (MSE)
+    loss.  Third, densely connected paths are used to combine feature
+    maps with different scales.  The experiments with $6586$ MRIs showed
+    that TSAN could provide accurate brain age estimation,  yielding
+    mean absolute error (MAE) of $2.428$ and Pearson's correlation
+    coefficient (PCC) of $0.985$, between the estimated and
+    chronological ages.  Furthermore, using the brain age gap between
+    brain age and chronological age as a biomarker,  Alzheimer's disease
+    (AD) and Mild Cognitive Impairment (MCI) can be distinguished from
+    healthy control (HC) subjects by support vector machine (SVM).
+    Classification AUC in AD/HC and MCI/HC was $0.904$ and $0.823$,
+    respectively.  It showed that brain age gap is an effective
+    biomarker associated with risk of dementia, and has potential for
+    early-stage dementia risk screening.  The codes and trained models
+    have been released on GitHub: https://github.com/Milan-BUAA/TSAN-
+    brain-age-estimation.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>*, Dinggang Shen, Pew-Thian Yap*, Peter J. Basser*</span>,<br>
+    <span class="title">"Single- and Multiple-Shell Uniform Sampling Schemes for Diffusion MRI Using Spherical Codes"</span>,<br>
+    <span class="publisher">IEEE Transactions on Medical Imaging (<b>TMI</b>)</span>, vol. 37, no. 1, pp. 185&ndash;199, <span class="year">2018</span>.
+    <br><a target="_self" href="https://arxiv.org/pdf/1706.06682.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1109/TMI.2017.2756072"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng-TMI2017">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng-TMI2017">abstract</a>]&nbsp;
+    [<a target="_self" href="https://arxiv.org/abs/1706.06682">arxiv</a>]&nbsp;
+    [<a target="_self" href="https://diffusionmritool.github.io/tutorial_qspacesampling.html">project</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:ODE9OILHJdcC">42</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-cheng-TMI2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{cheng:TMI2017,
+     author = {Jian Cheng and Dinggang Shen and Pew-Thian Yap and Peter J. Basser},
+     doi = {10.1109/TMI.2017.2756072},
+     journal = {IEEE Transactions on Medical Imaging},
+     number = {1},
+     pages = {185-199},
+     pdf = {https://arxiv.org/pdf/1706.06682.pdf},
+     publisher = {IEEE},
+     title = {Single- and Multiple-Shell Uniform Sampling Schemes for Diffusion MRI Using Spherical Codes},
+     url = {https://dx.doi.org/10.1109/TMI.2017.2756072},
+     volume = {37},
+     year = {2018}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng-TMI2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In diffusion MRI (dMRI), a good sampling scheme is important for
+    efficient acquisition and robust reconstruction. Diffusion weighted
+    signal is normally acquired on single or multiple shells in q-space.
+    Signal samples are typically distributed uniformly on different
+    shells to make them invariant to the orientation of structures
+    within tissue, or the laboratory coordinate frame. The Electrostatic
+    Energy Minimization (EEM) method, originally proposed for single
+    shell sampling scheme in dMRI, was recently generalized to multi-
+    shell schemes, called Generalized EEM (GEEM). GEEM has been
+    successfully used in the Human Connectome Project (HCP). However,
+    EEM does not directly address the goal of optimal sampling, i.e.,
+    achieving large angular separation between sampling points. In this
+    paper, we propose a more natural formulation, called Spherical Code
+    (SC), to directly maximize the minimal angle between different
+    samples in single or multiple shells. We consider not only
+    continuous problems to design single or multiple shell sampling
+    schemes, but also discrete problems to uniformly extract sub-sampled
+    schemes from an existing single or multiple shell scheme, and to
+    order samples in an existing scheme. We propose five algorithms to
+    solve the above problems, including an incremental SC (ISC), a
+    sophisticated greedy algorithm called Iterative Maximum Overlap
+    Construction (IMOC), an 1-Opt greedy method, a Mixed Integer Linear
+    Programming (MILP) method, and a Constrained Non-Linear Optimization
+    (CNLO) method. To our knowledge, this is the first work to use the
+    SC formulation for single or multiple shell sampling schemes in
+    dMRI. Experimental results indicate that SC methods obtain larger
+    angular separation and better rotational invariance than the state-
+    of-the-art EEM and GEEM. The related codes and a tutorial have been
+    released in DMRITool.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Feng Shi#, <b>Jian Cheng</b>#, Li Wang, Pew-Thian Yap, Dinggang Shen*</span>,<br>
+    <span class="title">"LRTV: MR image super-resolution with low-rank and total variation regularizations"</span>,<br>
+    <span class="publisher">IEEE Transactions on Medical Imaging (<b>TMI</b>)</span>, vol. 34, no. 12, pp. 2459&ndash;2466, <span class="year">2015</span>.
+    <br><a target="_self" href="https://hal.archives-ouvertes.fr/hal-01154770/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1109/TMI.2015.2437894"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-shi_TMI2015">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-shi_TMI2015">abstract</a>]&nbsp;
+    [<a target="_self" href="https://bitbucket.org/fengshi421/superresolutiontoolkit">code</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:XvxMoLDsR5gC">358</a>]&nbsp;
+    (<span class="hlnote0">F. Shi and J. Cheng contributed equally.</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-shi_TMI2015" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{shi_TMI2015,
+     author = {Feng Shi and Jian Cheng and Li Wang and Pew-Thian Yap and Dinggang Shen},
+     doi = {10.1109/TMI.2015.2437894},
+     hal_id = {hal-01154770},
+     journal = {IEEE Transactions on Medical Imaging},
+     number = {12},
+     pages = {2459-2466},
+     pdf = {https://hal.archives-ouvertes.fr/hal-01154770/document},
+     publisher = {IEEE},
+     title = {LRTV: MR image super-resolution with low-rank and total variation regularizations},
+     url = {https://dx.doi.org/10.1109/TMI.2015.2437894},
+     volume = {34},
+     year = {2015}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-shi_TMI2015" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Image super-resolution (SR) aims to recover high-resolution images
+    from their low-resolution counterparts for improving image analysis
+    and visualization. Interpolation methods, widely used for this
+    purpose, often result in images with blurred edges and blocking
+    effects. More advanced methods such as total variation (TV) retain
+    edge sharpness during image recovery. However, these methods only
+    utilize information from local neighborhoods, neglecting useful
+    information from remote voxels. In this paper, we propose a novel
+    image SR method that integrates both local and global information
+    for effective image recovery. This is achieved by, in addition to
+    TV, low-rank regularization that enables utilization of information
+    throughout the image. The optimization problem can be solved
+    effectively via alternating direction method of multipliers (ADMM).
+    Experiments on MR images of both adult and pediatric subjects
+    demonstrate that the proposed method enhances the details in the
+    recovered high-resolution images, and outperforms methods such as
+    the nearest-neighbor interpolation, cubic interpolation, iterative
+    back projection (IBP), non-local means (NLM), and TV-based up-
+    sampling.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+
+
+
+.. _publications_by_venue_media:
+
+.. raw:: html
+
+    <h2><a name="MedIA"></a>MedIA</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author">Shengke Xue#, Zhaowei Cheng#, Guangxu Han, Chaoliang Sun, Ke Fang, Yingchao Liu, <b>Jian Cheng</b>, Xinyu Jin, Ruiliang Bai*</span>,<br>
+    <span class="title">"2D probabilistic undersampling pattern optimization for MR image reconstruction"</span>,<br>
+    <span class="publisher">Medical Image Analysis (<b>MedIA</b>)</span>, vol. 77, pp. 102346, <span class="year">2022</span>.
+    <br>
+    <a target="_self" href="https://www.sciencedirect.com/science/article/pii/S1361841521003911"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-xue-MIA2022-sampling">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-xue-MIA2022-sampling">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:_OXeSy2IsFwC">12</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-xue-MIA2022-sampling" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{xue:MIA2022:sampling,
+     author = {Shengke Xue and Zhaowei Cheng and Guangxu Han and Chaoliang Sun and Ke Fang and Yingchao Liu and Jian Cheng and Xinyu Jin and Ruiliang Bai},
+     doi = {https://doi.org/10.1016/j.media.2021.102346},
+     journal = {Medical Image Analysis},
+     pages = {102346},
+     title = {2D probabilistic undersampling pattern optimization for MR image reconstruction},
+     url = {https://www.sciencedirect.com/science/article/pii/S1361841521003911},
+     volume = {77},
+     year = {2022}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-xue-MIA2022-sampling" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>With 3D magnetic resonance imaging (MRI), a tradeoff exists between
+    higher image quality and shorter scan time. One way to solve this
+    problem is to reconstruct high-quality MRI images from undersampled
+    k-space. There have been many recent studies exploring effective
+    k-space undersampling patterns and designing MRI reconstruction
+    methods from undersampled k-space, which are two necessary steps.
+    Most studies separately considered these two steps, although in
+    theory, their performance is dependent on each other. In this study,
+    we propose a joint optimization model, trained end-to-end, to
+    simultaneously optimize the undersampling pattern in the Fourier
+    domain and the reconstruction model in the image domain. A 2D
+    probabilistic undersampling layer was designed to optimize the
+    undersampling pattern and probability distribution in a
+    differentiable manner. A 2D inverse Fourier transform layer was
+    implemented to connect the Fourier domain and the image domain
+    during the forward and back propagation. Finally, we discovered an
+    optimized relationship between the probability distribution of the
+    undersampling pattern and its corresponding sampling rate. Further
+    testing was performed using 3D T1-weighted MR images of the brain
+    from the MICCAI 2013 Grand Challenge on Multi-Atlas Labeling dataset
+    and locally acquired brain 3D T1-weighted MR images of healthy
+    volunteers and contrast-enhanced 3D T1-weighted MR images of high-
+    grade glioma patients. The results showed that the recovered MR
+    images using our 2D probabilistic undersampling pattern (with or
+    without the reconstruction network) significantly outperformed those
+    using the existing start-of-the-art undersampling strategies for
+    both qualitative and quantitative comparison, suggesting the
+    advantages and some extent of the generalization of our proposed
+    method.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>*, Peter J. Basser*</span>,<br>
+    <span class="title">"Director Field Analysis (DFA): Exploring Local White Matter Geometric Structure in diffusion MRI"</span>,<br>
+    <span class="publisher">Medical Image Analysis (<b>MedIA</b>)</span>, vol. 43, pp. 112&ndash;128, <span class="year">2018</span>.
+    <br><a target="_self" href="https://arxiv.org/pdf/1706.01862.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1016/j.media.2017.10.003"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng-MedIA2017">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng-MedIA2017">abstract</a>]&nbsp;
+    [<a target="_self" href="https://arxiv.org/abs/1706.01862">arxiv</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:DJbcl8HfkQkC">20</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-cheng-MedIA2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{cheng:MedIA2017,
+     author = {Jian Cheng and Peter J. Basser},
+     doi = {10.1016/j.media.2017.10.003},
+     journal = {Medical Image Analysis},
+     pages = {112-128},
+     pdf = {https://arxiv.org/pdf/1706.01862.pdf},
+     publisher = {Elsevier},
+     title = {Director Field Analysis (DFA): Exploring Local White Matter Geometric Structure in diffusion MRI},
+     url = {https://dx.doi.org/10.1016/j.media.2017.10.003},
+     volume = {43},
+     year = {2018}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng-MedIA2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In Diffusion Tensor Imaging (DTI) or High Angular Resolution
+    Diffusion Imaging (HARDI), a tensor field or a spherical function
+    field (e.g., an orientation distribution function field), can be
+    estimated from measured diffusion weighted images. In this paper,
+    inspired by the microscopic theoretical treatment of phases in
+    liquid crystals, we introduce a novel mathematical framework, called
+    Director Field Analysis (DFA), to study local geometric structural
+    information of white matter based on the reconstructed tensor field
+    or spherical function field: 1) We propose a set of mathematical
+    tools to process general director data, which consists of dyadic
+    tensors that have orientations but no direction. 2) We propose
+    Orientational Order (OO) and Orientational Dispersion (OD) indices
+    to describe the degree of alignment and dispersion of a spherical
+    function in a single voxel or in a region, respectively; 3) We also
+    show how to construct a local orthogonal coordinate frame in each
+    voxel exhibiting anisotropic diffusion; 4) Finally, we define three
+    indices to describe three types of orientational distortion (splay,
+    bend, and twist) in a local spatial neighborhood, and a total
+    distortion index to describe distortions of all three types. To our
+    knowledge, this is the first work to quantitatively describe
+    orientational distortion (splay, bend, and twist) in general
+    spherical function fields from DTI or HARDI data. The proposed DFA
+    and its related mathematical tools can be used to process not only
+    diffusion MRI data but also general director field data, and the
+    proposed scalar indices are useful for detecting local geometric
+    changes of white matter for voxel-based or tract-based analysis in
+    both DTI and HARDI acquisitions. The related codes and a tutorial
+    for DFA will be released in DMRITool.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+
+
+
+.. _publications_by_venue_elife:
+
+.. raw:: html
+
+    <h2><a name="eLife"></a>eLife</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author">Guozheng Feng, Yiwen Wang, Weijie Huang, Haojie Chen, <b>Jian Cheng</b>, Ni Shu*</span>,<br>
+    <span class="title">"Spatial and temporal pattern of structure–function coupling of human brain connectome with development"</span>,<br>
+    <span class="publisher"><b>eLife</b></span>, vol. 13, pp. RP93325, jun, <span class="year">2024</span>.
+    <br>
+    <a target="_self" href="https://dx.doi.org/10.7554/eLife.93325"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-Feng_elife2024">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-Feng_elife2024">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:vDZJ-YLwNdEC">23</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-Feng_elife2024" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{Feng_elife2024,
+     author = {Guozheng Feng and Yiwen Wang and Weijie Huang and Haojie Chen and Jian Cheng and Ni Shu},
+     doi = {10.7554/eLife.93325},
+     editor = {Huang, Susie Y and Roiser, Jonathan},
+     journal = {eLife},
+     month = {jun},
+     pages = {RP93325},
+     publisher = {eLife Sciences Publications, Ltd},
+     title = {Spatial and temporal pattern of structure–function coupling of human brain connectome with development},
+     url = {https://dx.doi.org/10.7554/eLife.93325},
+     volume = {13},
+     year = {2024}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-Feng_elife2024" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Brain structural circuitry shapes a richly patterned functional
+    synchronization, supporting for complex cognitive and behavioural
+    abilities. However, how coupling of structural connectome (SC) and
+    functional connectome (FC) develops and its relationships with
+    cognitive functions and transcriptomic architecture remain unclear.
+    We used multimodal magnetic resonance imaging data from 439
+    participants aged 5.7–21.9 years to predict functional connectivity
+    by incorporating intracortical and extracortical structural
+    connectivity, characterizing SC–FC coupling. Our findings revealed
+    that SC–FC coupling was strongest in the visual and somatomotor
+    networks, consistent with evolutionary expansion, myelin content,
+    and functional principal gradient. As development progressed, SC–FC
+    coupling exhibited heterogeneous alterations dominated by an
+    increase in cortical regions, broadly distributed across the
+    somatomotor, frontoparietal, dorsal attention, and default mode
+    networks. Moreover, we discovered that SC–FC coupling significantly
+    predicted individual variability in general intelligence, mainly
+    influencing frontoparietal and default mode networks. Finally, our
+    results demonstrated that the heterogeneous development of SC–FC
+    coupling is positively associated with genes in oligodendrocyte-
+    related pathways and negatively associated with astrocyte-related
+    genes. This study offers insight into the maturational principles of
+    SC–FC coupling in typical development.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+
+
+
+.. _publications_by_venue_neuroimage:
+
+.. raw:: html
+
+    <h2><a name="NeuroImage"></a>NeuroImage</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author">Hui Tang, Tao Liu*, Hao Liu, Jiyang Jiang, <b>Jian Cheng</b>, Haijun Niu, Shuyu Li, Henry Brodaty, Perminder Sachdev, Wei Wen</span>,<br>
+    <span class="title">"A slower rate of sulcal widening in the brains of the nondemented oldest old"</span>,<br>
+    <span class="publisher"><b>NeuroImage</b></span>, vol. 229, pp. 117740, <span class="year">2021</span>.
+    <br><a target="_self" href="https://www.sciencedirect.com/science/article/pii/S1053811921000173/pdfft?md5=21c91728b2c65b222185ad07040f3a6f&pid=1-s2.0-S1053811921000173-main.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1016/j.neuroimage.2021.117740"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-tang-NI2021">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-tang-NI2021">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:LhH-TYMQEocC">18</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-tang-NI2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{tang:NI2021,
+     author = {Hui Tang and Tao Liu and Hao Liu and Jiyang Jiang and Jian Cheng and Haijun Niu and Shuyu Li and Henry Brodaty and Perminder Sachdev and Wei Wen},
+     doi = {10.1016/j.neuroimage.2021.117740},
+     journal = {NeuroImage},
+     pages = {117740},
+     pdf = {https://www.sciencedirect.com/science/article/pii/S1053811921000173/pdfft?md5=21c91728b2c65b222185ad07040f3a6f&pid=1-s2.0-S1053811921000173-main.pdf},
+     publisher = {Elsevier},
+     title = {A slower rate of sulcal widening in the brains of the nondemented oldest old},
+     url = {https://dx.doi.org/10.1016/j.neuroimage.2021.117740},
+     volume = {229},
+     year = {2021}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-tang-NI2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>The relationships between aging and brain morphology have been
+    reported in many previous structural brain studies. However, the
+    trajectories of successful brain aging in the extremely old remain
+    underexplored. In the limited research on the oldest old, covering
+    individuals aged 85 years and older, there are very few studies that
+    have focused on the cortical morphology, especially cortical sulcal
+    features. In this paper, we measured sulcal width and depth as well
+    as cortical thickness from T1-weighted scans of 290 nondemented
+    community-dwelling participants aged between 76 and 103 years. We
+    divided the participants into young old (between 76 and 84; mean =
+    80.35±2.44; male/female = 76/88) and oldest old (between 85 and 103;
+    mean = 91.74±5.11; male/female = 60/66) groups. The results showed
+    that most of the examined sulci significantly widened with increased
+    age and that the rates of sulcal widening were lower in the oldest
+    old. The spatial pattern of the cortical thinning partly
+    corresponded with that of sulcal widening. Compared to females,
+    males had significantly wider sulci, especially in the oldest old.
+    This study builds a foundation for future investigations of
+    neurocognitive disorders and neurodegenerative diseases in the
+    oldest old, including centenarians.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>*, Rachid Deriche, Tianzi Jiang, Dinggang Shen, Pew-Thian Yap*</span>,<br>
+    <span class="title">"Non-Negative Spherical Deconvolution (NNSD) for estimation of fiber Orientation Distribution Function in single-/multi-shell diffusion MRI"</span>,<br>
+    <span class="publisher"><b>NeuroImage</b></span>, vol. 101, pp. 750&ndash;764, <span class="year">2014</span>.
+    <br><a target="_self" href="https://pdfs.semanticscholar.org/fc76/327ac26d573283db98939119660588c2af6f.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1016/j.neuroimage.2014.07.062"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_NI2014">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_NI2014">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:FAceZFleit8C">44</a>]&nbsp;
+    (<span class="hlnote2">Honorable Mention in ISBI HARDI Reconstruction Challenge in 2013; the best technique in terms of local comparison.</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-cheng_NI2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{cheng_NI2014,
+     author = {Jian Cheng and Rachid Deriche and Tianzi Jiang and Dinggang Shen and Pew-Thian Yap},
+     doi = {10.1016/j.neuroimage.2014.07.062},
+     journal = {NeuroImage},
+     pages = {750-764},
+     pdf = {https://pdfs.semanticscholar.org/fc76/327ac26d573283db98939119660588c2af6f.pdf},
+     publisher = {Elsevier},
+     title = {Non-Negative Spherical Deconvolution (NNSD) for estimation of fiber Orientation Distribution Function in single-/multi-shell diffusion MRI},
+     url = {https://dx.doi.org/10.1016/j.neuroimage.2014.07.062},
+     volume = {101},
+     year = {2014}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_NI2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Spherical Deconvolution (SD) is commonly used for estimating fiber
+    Orientation Distribution Functions (fODFs) from diffusion-weighted
+    signals. Existing SD methods can be classified into two categories:
+    1) Continuous Representation based SD (CR-SD), where typically
+    Spherical Harmonic (SH) representation is used for convenient
+    analytical solutions, and 2) Discrete Representation based SD (DR-
+    SD), where the signal profile is represented by a discrete set of
+    basis functions uniformly oriented on the unit sphere. A feasible
+    fODF should be non-negative and should integrate to unity throughout
+    the unit sphere S 2. However, to our knowledge, most existing SH-
+    based SD methods enforce non-negativity only on discretized points
+    and not the whole continuum of S 2. Maximum Entropy SD (MESD) and
+    Cartesian Tensor Fiber Orientation Distributions (CT-FOD) are the
+    only SD methods that ensure non-negativity throughout the unit
+    sphere. They are however computational intensive and are susceptible
+    to errors caused by numerical spherical integration. Existing SD
+    methods are also known to overestimate the number of fiber
+    directions, especially in regions with low anisotropy. DR-SD
+    introduces additional error in peak detection owing to the angular
+    discretization of the unit sphere. This paper proposes a SD
+    framework, called Non-Negative SD (NNSD), to overcome all the
+    limitations above. NNSD is significantly less susceptible to the
+    false-positive peaks, uses SH representation for efficient
+    analytical spherical deconvolution, and allows accurate peak
+    detection throughout the whole unit sphere. We further show that
+    NNSD and most existing SD methods can be extended to work on multi-
+    shell data by introducing a three-dimensional fiber response
+    function. We evaluated NNSD in comparison with Constrained SD (CSD),
+    a quadratic programming variant of CSD, MESD, and an L1-norm
+    regularized non-negative least-squares DR-SD. Experiments on
+    synthetic and real single-/multi-shell data indicate that NNSD
+    improves estimation performance in terms of mean difference of
+    angles, peak detection consistency, and anisotropy contrast between
+    isotropic and anisotropic regions.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+
+
+
+.. _publications_by_venue_hbm:
+
+.. raw:: html
+
+    <h2><a name="HBM"></a>HBM</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author">Yijun Zhou, Jing Jing, Zhe Zhang, Yuesong Pan, Xueli Cai, Wanlin Zhu, Zixiao Li, Chang Liu, Hao Liu, Xia Meng, <b>Jian Cheng</b>, Yilong Wang, Hao Li, Suying Wang, Haijun Niu, Wei Wen, Perminder S Sachdev, Tiemin Wei, Tao Liu*, Yongjun Wang*</span>,<br>
+    <span class="title">"Disrupted pattern of rich-club organization in structural brain network from prediabetes to diabetes: A population-based study"</span>,<br>
+    <span class="publisher">Human Brain Mapping (<b>HBM</b>)</span>, vol. 45, no. 2, pp. e26598, <span class="year">2024</span>.
+    <br>
+    <a target="_self" href="https://dx.doi.org/10.1002/hbm.26598"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-zhou2024disrupted">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-zhou2024disrupted">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:2tRrZ1ZAMYUC">3</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-zhou2024disrupted" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{zhou2024disrupted,
+     author = {Yijun Zhou and Jing Jing and Zhe Zhang and Yuesong Pan and Xueli Cai and Wanlin Zhu and Zixiao Li and Chang Liu and Hao Liu and Xia Meng and Jian Cheng and Yilong Wang and Hao Li and Suying Wang and Haijun Niu and Wei Wen and Perminder S Sachdev and Tiemin Wei and Tao Liu and Yongjun Wang},
+     doi = {10.1002/hbm.26598},
+     journal = {Human Brain Mapping},
+     number = {2},
+     pages = {e26598},
+     publisher = {Wiley Online Library},
+     title = {Disrupted pattern of rich-club organization in structural brain network from prediabetes to diabetes: A population-based study},
+     url = {https://dx.doi.org/10.1002/hbm.26598},
+     volume = {45},
+     year = {2024}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-zhou2024disrupted" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>The network nature of the brain is gradually becoming a consensus in
+    the neuroscience field. A set of highly connected regions in the
+    brain network called “rich-club” are crucial high efficiency
+    communication hubs in the brain. The abnormal rich-club organization
+    can reflect underlying abnormal brain function and metabolism, which
+    receives increasing attention. Diabetes is one of the risk factors
+    for neurological diseases, and most individuals with prediabetes
+    will develop overt diabetes within their lifetime. However, the
+    gradual impact of hyperglycemia on brain structures, including rich-
+    club organization, remains unclear. We hypothesized that the brain
+    follows a special disrupted pattern of rich-club organization in
+    prediabetes and diabetes. We used cross-sectional baseline data from
+    the population-based PolyvasculaR Evaluation for Cognitive
+    Impairment and vaScular Events (PRECISE) study, which included 2218
+    participants with a mean age of 61.3 ± 6.6 years and 54.1% females
+    comprising</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Haichao Zhao#, <b>Jian Cheng</b>#, Tao Liu*, Jiyang Jiang, Forrest Koch, Perminder S. Sachdev, Peter J. Basser, Wei Wen, for the Alzheimer's Disease Neuroimaging Initiative</span>,<br>
+    <span class="title">"Orientational changes of white matter fibers in Alzheimer's disease and amnestic mild cognitive impairment"</span>,<br>
+    <span class="publisher">Human Brain Mapping (<b>HBM</b>)</span>, <span class="year">2021</span>.
+    <br><a target="_self" href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.25628"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.25628"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-zhao-DFA-HBM2021">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-zhao-DFA-HBM2021">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:OP4eGU-M3BUC">18</a>]&nbsp;
+    (<span class="hlnote0">Haichao Zhao and Jian Cheng contributed equally.</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-zhao-DFA-HBM2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{zhao:DFA:HBM2021,
+     author = {Haichao Zhao and Jian Cheng and Tao Liu and Jiyang Jiang and Forrest Koch and Perminder S. Sachdev and Peter J. Basser and Wei Wen and for the Alzheimer's Disease Neuroimaging Initiative},
+     doi = {10.1002/hbm.25628},
+     journal = {Human Brain Mapping},
+     pdf = {https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hbm.25628},
+     title = {Orientational changes of white matter fibers in Alzheimer's disease and amnestic mild cognitive impairment},
+     url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.25628},
+     year = {2021}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-zhao-DFA-HBM2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Abstract White matter abnormalities represent early
+    neuropathological events in neurodegenerative diseases such as
+    Alzheimer's disease (AD), investigating these white matter
+    alterations would likely provide valuable insights into pathological
+    changes over the course of AD. Using a novel mathematical framework
+    called “Director Field Analysis” (DFA), we investigated the
+    geometric microstructural properties (i.e., splay, bend, twist, and
+    total distortion) in the orientation of white matter fibers in AD,
+    amnestic mild cognitive impairment (aMCI), and cognitively normal
+    (CN) individuals from the Alzheimer's Disease Neuroimaging
+    Initiative 2 database. Results revealed that AD patients had
+    extensive orientational changes in the bilateral anterior thalamic
+    radiation, corticospinal tract, inferior and superior longitudinal
+    fasciculus, inferior fronto-occipital fasciculus, and uncinate
+    fasciculus in comparison with CN. We postulate that these
+    orientational changes of white matter fibers may be partially caused
+    by the expansion of lateral ventricle, white matter atrophy, and
+    gray matter atrophy in AD. In contrast, aMCI individuals showed
+    subtle orientational changes in the left inferior longitudinal
+    fasciculus and right uncinate fasciculus, which showed a significant
+    association with the cognitive performance, suggesting that these
+    regions may be preferential vulnerable to breakdown by
+    neurodegenerative brain disorders, thereby resulting in the
+    patients' cognitive impairment. To our knowledge, this article is
+    the first to examine geometric microstructural changes in the
+    orientation of white matter fibers in AD and aMCI. Our findings
+    demonstrate that the orientational information of white matter
+    fibers could provide novel insight into the underlying biological
+    and pathological changes in AD and aMCI.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Hao Guan, Chaoyue Wang, <b>Jian Cheng</b>, Jing Jing, Tao Liu*</span>,<br>
+    <span class="title">"A parallel attention-augmented bilinear network for early magnetic resonance imaging-based diagnosis of Alzheimer's disease"</span>,<br>
+    <span class="publisher">Human Brain Mapping (<b>HBM</b>)</span>, <span class="year">2021</span>.
+    <br><a target="_self" href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.25685"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1002/hbm.25685"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-guan-HBM2021">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-guan-HBM2021">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:P7Ujq4OLJYoC">38</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-guan-HBM2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{guan:HBM2021,
+     author = {Hao Guan and Chaoyue Wang and Jian Cheng and Jing Jing and Tao Liu},
+     doi = {10.1002/hbm.25685},
+     journal = {Human Brain Mapping},
+     pdf = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.25685},
+     publisher = {Wiley Online Library},
+     title = {A parallel attention-augmented bilinear network for early magnetic resonance imaging-based diagnosis of Alzheimer's disease},
+     url = {https://dx.doi.org/10.1002/hbm.25685},
+     year = {2021}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-guan-HBM2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Structural magnetic resonance imaging (sMRI) can capture the spatial
+    patterns of brain atrophy in Alzheimer's disease (AD) and incipient
+    dementia. Recently, many sMRI-based deep learning methods have been
+    developed for AD diagnosis. Some of these methods utilize neural
+    networks to extract high-level representations on the basis of
+    handcrafted features, while others attempt to learn useful features
+    from brain regions proposed by a separate module. However, these
+    methods require considerable manual engineering. Their stepwise
+    training procedures would introduce cascading errors. Here, we
+    propose the parallel attention-augmented bilinear network, a novel
+    deep learning framework for AD diagnosis. Based on a 3D
+    convolutional neural network, the framework directly learns both
+    global and local features from sMRI scans without any prior
+    knowledge. The framework is lightweight and suitable for end-to-end
+    training. We evaluate the framework on two public datasets (ADNI-1
+    and ADNI-2) containing 1,340 subjects. On both the AD classification
+    and mild cognitive impairment conversion prediction tasks, our
+    framework achieves competitive results. Furthermore, we generate
+    heat maps that highlight discriminative areas for visual
+    interpretation. Experiments demonstrate the effectiveness of the
+    proposed framework when medical priors are unavailable or the
+    computing resources are limited. The proposed framework is general
+    for 3D medical image analysis with both efficiency and
+    interpretability.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Xinxin Li, Yu Zhao, Jiyang Jiang, <b>Jian Cheng</b>, Wanlin Zhu, Zhenzhou Wu, Jing Jing, Zhe Zhang, Wei Wen, Perminder S. Sachdev, Yongjun Wang, Tao Liu*, Zixiao Li*</span>,<br>
+    <span class="title">"White matter hyperintensities segmentation using an ensemble of neural networks"</span>,<br>
+    <span class="publisher">Human Brain Mapping (<b>HBM</b>)</span>, <span class="year">2021</span>.
+    <br><a target="_self" href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.25695"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.25695"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-li-HBM2021">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-li-HBM2021">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:nZcligLrVowC">37</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-li-HBM2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{li:HBM2021,
+     author = {Xinxin Li and Yu Zhao and Jiyang Jiang and Jian Cheng and Wanlin Zhu and Zhenzhou Wu and Jing Jing and Zhe Zhang and Wei Wen and Perminder S. Sachdev and Yongjun Wang and Tao Liu and Zixiao Li},
+     doi = {10.1002/hbm.25695},
+     journal = {Human Brain Mapping},
+     pdf = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.25695},
+     title = {White matter hyperintensities segmentation using an ensemble of neural networks},
+     url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.25695},
+     year = {2021}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-li-HBM2021" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Abstract White matter hyperintensities (WMHs) represent the most
+    common neuroimaging marker of cerebral small vessel disease (CSVD).
+    The volume and location of WMHs are important clinical measures. We
+    present a pipeline using deep fully convolutional network and
+    ensemble models, combining U-Net, SE-Net, and multi-scale features,
+    to automatically segment WMHs and estimate their volumes and
+    locations. We evaluated our method in two datasets: a clinical
+    routine dataset comprising 60 patients (selected from Chinese
+    National Stroke Registry, CNSR) and a research dataset composed of
+    60 patients (selected from MICCAI WMH Challenge, MWC). The
+    performance of our pipeline was compared with four freely available
+    methods: LGA, LPA, UBO detector, and U-Net, in terms of a variety of
+    metrics. Additionally, to access the model generalization ability,
+    another research dataset comprising 40 patients (from Older
+    Australian Twins Study and Sydney Memory and Aging Study, OSM), was
+    selected and tested. The pipeline achieved the best performance in
+    both research dataset and the clinical routine dataset with DSC
+    being significantly higher than other methods (p < .001), reaching
+    .833 and .783, respectively. The results of model generalization
+    ability showed that the model trained on the research dataset
+    (DSC = 0.736) performed higher than that trained on the clinical
+    dataset (DSC = 0.622). Our method outperformed widely used pipelines
+    in WMHs segmentation. This system could generate both image and text
+    outputs for whole brain, lobar and anatomical automatic labeling
+    WMHs. Additionally, software and models of our method are made
+    publicly available at https://www.nitrc.org/projects/what\_v1.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Rui Min, Guorong Wu, <b>Jian Cheng</b>, Qian Wang, Dinggang Shen*</span>,<br>
+    <span class="title">"Multi-atlas based representations for Alzheimer's disease diagnosis"</span>,<br>
+    <span class="publisher">Human Brain Mapping (<b>HBM</b>)</span>, vol. 35, no. 10, pp. 5052&ndash;5070, <span class="year">2014</span>.
+    <br><a target="_self" href="https://www.researchgate.net/profile/Jian_Cheng2/publication/261772139_Multi-Atlas_Based_Representations_for_Alzheimer%27s_Disease_Diagnosis/links/584bc35808aed95c24fbf813/Multi-Atlas-Based-Representations-for-Alzheimers-Disease-Diagnosis.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1002/hbm.22531"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-min_HBM2014">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-min_HBM2014">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:4fGpz3EwCPoC">93</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-min_HBM2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{min_HBM2014,
+     author = {Rui Min and Guorong Wu and Jian Cheng and Qian Wang and Dinggang Shen},
+     doi = {10.1002/hbm.22531},
+     journal = {Human Brain Mapping},
+     number = {10},
+     pages = {5052-5070},
+     pdf = {https://www.researchgate.net/profile/Jian_Cheng2/publication/261772139_Multi-Atlas_Based_Representations_for_Alzheimer%27s_Disease_Diagnosis/links/584bc35808aed95c24fbf813/Multi-Atlas-Based-Representations-for-Alzheimers-Disease-Diagnosis.pdf},
+     publisher = {Wiley Online Library},
+     title = {Multi-atlas based representations for Alzheimer's disease diagnosis},
+     url = {https://dx.doi.org/10.1002/hbm.22531},
+     volume = {35},
+     year = {2014}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-min_HBM2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Brain morphometry based classification from magnetic resonance (MR)
+    acquisitions has been widely investigated in the diagnosis of
+    Alzheimer's disease (AD) and its prodromal stage, i.e., mild
+    cognitive impairment (MCI). In the literature, a morphometric
+    representation of brain structures is obtained by spatial
+    normalization of each image into a common space (i.e., a pre-defined
+    atlas) via non-linear registration, thus the corresponding regions
+    in different brains can be compared. However, representations
+    generated from one single atlas may not be sufficient to reveal the
+    underlying anatomical differences between the groups of disease-
+    affected patients and normal controls (NC). In this article, we
+    propose a different methodology, namely the multi-atlas based
+    morphometry, which measures morphometric representations of the same
+    image in different spaces of multiple atlases. Representations
+    generated from different atlases can thus provide the complementary
+    information to discriminate different groups, and also reduce the
+    negative impacts from registration errors. Specifically, each
+    studied subject is registered to multiple atlases, where adaptive
+    regional features are extracted. Then, all features from different
+    atlases are jointly selected by a correlation and relevance based
+    scheme, followed by final classification with the support vector
+    machine (SVM). We have evaluated the proposed method on 459 subjects
+    (97 AD, 117 progressive-MCI (p-MCI), 117 stable-MCI (s-MCI), and 128
+    NC) from the Alzheimer's Disease Neuroimaging Initiative (ADNI)
+    database, and achieved 91.64% for AD/NC classification and 72.41%
+    for p-MCI/s-MCI classification. Our results clearly demonstrate that
+    the proposed multi-atlas based method can significantly outperform
+    the previous single-atlas based methods.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+
+
+
+.. _publications_by_venue_cc:
+
+.. raw:: html
+
+    <h2><a name="CC"></a>CC</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author">Haichao Zhao, Wei Wen, <b>Jian Cheng</b>*, Jiyang Jiang, Nicole Kochan, Haijun Niu, Henry Brodaty, Perminder Sachdev, Tao Liu*</span>,<br>
+    <span class="title">"An accelerated degeneration of white matter microstructure and networks in the nondemented old–old"</span>,<br>
+    <span class="publisher">Cerebral Cortex (<b>CC</b>)</span>, vol. 33, no. 8, pp. 4688&ndash;4698, <span class="year">2023</span>.
+    <br><a target="_self" href="https://academic.oup.com/cercor/advance-article-pdf/doi/10.1093/cercor/bhac372/46212258/bhac372.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://doi.org/10.1093/cercor/bhac372"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-zhao-DFA-CC2022">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-zhao-DFA-CC2022">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:Aul-kAQHnToC">9</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-zhao-DFA-CC2022" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@article{zhao:DFA:CC2022,
+     author = {Haichao Zhao and Wei Wen and Jian Cheng and Jiyang Jiang and Nicole Kochan and Haijun Niu and Henry Brodaty and Perminder Sachdev and Tao Liu},
+     doi = {10.1093/cercor/bhac372},
+     journal = {Cerebral Cortex},
+     number = {8},
+     pages = {4688-4698},
+     pdf = {https://academic.oup.com/cercor/advance-article-pdf/doi/10.1093/cercor/bhac372/46212258/bhac372.pdf},
+     publisher = {Oxford University Press},
+     title = {An accelerated degeneration of white matter microstructure and networks in the nondemented old–old},
+     url = {https://doi.org/10.1093/cercor/bhac372},
+     volume = {33},
+     year = {2023}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-zhao-DFA-CC2022" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>{The nondemented old–old over the age of 80 comprise a rapidly
+    increasing population group; they can be regarded as exemplars of
+    successful aging. However, our current understanding of successful
+    aging in advanced age and its neural underpinnings is limited. In
+    this study, we measured the microstructural and network-based
+    topological properties of brain white matter using diffusion-
+    weighted imaging scans of 419 community-dwelling nondemented older
+    participants. The participants were further divided into 230
+    young–old (between 72 and 79, mean = 76.25 ± 2.00) and 219 old–old
+    (between 80 and 92, mean = 83.98 ± 2.97). Results showed that white
+    matter connectivity in microstructure and brain networks
+    significantly declined with increased age and that the declined
+    rates were faster in the old–old compared with young–old. Mediation
+    models indicated that cognitive decline was in part through the age
+    effect on the white matter connectivity in the old–old but not in
+    the young–old. Machine learning predictive models further supported
+    the crucial role of declines in white matter connectivity as a
+    neural substrate of cognitive aging in the nondemented older
+    population. Our findings shed new light on white matter connectivity
+    in the nondemented aging brains and may contribute to uncovering the
+    neural substrates of successful brain aging.}</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+
+
+
+.. _publications_by_venue_cvpr:
+
+.. raw:: html
+
+    <h2><a name="CVPR"></a>CVPR</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author">Xi Li, Weiming Hu, Zhongfei Zhang, Xiaoqin Zhang, Mingliang Zhu, <b>Jian Cheng</b></span>,<br>
+    <span class="title">"Visual tracking via incremental log-Euclidean Riemannian subspace learning"</span>,<br>
+    <span class="publisher">IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>'08)</span>, <span class="year">2008</span>.
+    <br><a target="_self" href="http://www.nlpr.ia.ac.cn/2008papers/gjhy/gh9.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1109/CVPR.2008.4587516"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-li_cheng_CVPR2008">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-li_cheng_CVPR2008">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:WF5omc3nYNoC">174</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-li_cheng_CVPR2008" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{li_cheng_CVPR2008,
+     author = {Xi Li and Weiming Hu and Zhongfei Zhang and Xiaoqin Zhang and Mingliang Zhu and Jian Cheng},
+     booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR'08)},
+     doi = {10.1109/CVPR.2008.4587516},
+     organization = {IEEE},
+     pdf = {http://www.nlpr.ia.ac.cn/2008papers/gjhy/gh9.pdf},
+     title = {Visual tracking via incremental log-Euclidean Riemannian subspace learning},
+     url = {https://dx.doi.org/10.1109/CVPR.2008.4587516},
+     year = {2008}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-li_cheng_CVPR2008" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Recently, a novel Log-Euclidean Riemannian metric [28] is proposed
+    for statistics on symmetric positive definite (SPD) matrices. Under
+    this metric, distances and Riemannian means take a much simpler form
+    than the widely used affine-invariant Riemannian metric. Based on
+    the Log-Euclidean Riemannian metric, we develop a tracking framework
+    in this paper. In the framework, the covariance matrices of image
+    features in the five modes are used to represent object appearance.
+    Since a nonsingular covariance matrix is a SPD matrix lying on a
+    connected Riemannian manifold, the Log-Euclidean Riemannian metric
+    is used for statistics on the covariance matrices of image features.
+    Further, we present an effective online Log-Euclidean Riemannian
+    subspace learning algorithm which models the appearance changes of
+    an object by incrementally learning a low-order Log-Euclidean
+    eigenspace representation through adaptively updating the sample
+    mean and eigenbasis. Tracking is then led by the Bayesian state
+    inference framework in which a particle filter is used for
+    propagating sample distributions over the time. Theoretic analysis
+    and experimental evaluations demonstrate the promise and
+    effectiveness of the proposed framework.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+
+
+
+.. _publications_by_venue_miccai:
+
+.. raw:: html
+
+    <h2><a name="MICCAI"></a>MICCAI</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author">Si-Miao Zhang, Jing Wang, Yi-Xuan Wang, Tao Liu, Haogang Zhu, Han Zhang, <b>Jian Cheng</b>*</span>,<br>
+    <span class="title">"Mixed Integer Linear Programming for Discrete Sampling Scheme Design in Diffusion MRI"</span>,<br>
+    <span class="publisher">International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'24)</span>, pp. 313&ndash;322, <span class="year">2024</span>.
+    <br>
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-031-72069-7_30"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-zhang-MICCAI2024mixed">bibtex</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-zhang-MICCAI2024mixed" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{zhang:MICCAI2024mixed,
+     author = {Si-Miao Zhang and Jing Wang and Yi-Xuan Wang and Tao Liu and Haogang Zhu and Han Zhang and Jian Cheng},
+     booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'24)},
+     doi = {10.1007/978-3-031-72069-7_30},
+     organization = {Springer},
+     pages = {313-322},
+     title = {Mixed Integer Linear Programming for Discrete Sampling Scheme Design in Diffusion MRI},
+     url = {https://dx.doi.org/10.1007/978-3-031-72069-7_30},
+     year = {2024}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Mingkun Bao, Yan Wang, Xinlong Wei, Bosen Jia, Xiaolin Fan, Dong Lu, Yifan Gu, <b>Jian Cheng</b>, Yingying Zhang*, Chuanyu Wang*, Haogang Zhu*</span>,<br>
+    <span class="title">"Real-World Visual Navigation for Cardiac Ultrasound View Planning"</span>,<br>
+    <span class="publisher">International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'24)</span>, pp. 317&ndash;326, <span class="year">2024</span>.
+    <br>
+    [<a type="button" data-toggle="modal" data-target="#bib-bao-MICCAI2024real">bibtex</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:1lhNe0rCu4AC">4</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-bao-MICCAI2024real" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{bao:MICCAI2024real,
+     author = {Mingkun Bao and Yan Wang and Xinlong Wei and Bosen Jia and Xiaolin Fan and Dong Lu and Yifan Gu and Jian Cheng and Yingying Zhang and Chuanyu Wang and Haogang Zhu},
+     booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'24)},
+     organization = {Springer},
+     pages = {317-326},
+     title = {Real-World Visual Navigation for Cardiac Ultrasound View Planning},
+     year = {2024}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Ziyang Liu#, <b>Jian Cheng</b>#, Haogang Zhu, Jicong Zhang, Tao Liu</span>,<br>
+    <span class="title">"Brain Age Estimation from MRI Using a Two-Stage Cascade Network with Ranking Loss"</span>,<br>
+    <span class="publisher">International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'20)</span>, pp. 198&ndash;207, <span class="year">2020</span>.
+    <br>
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-030-59728-3_20"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-liu-MICCAI2020">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-liu-MICCAI2020">abstract</a>]&nbsp;
+    [<a target="_self" href="https://github.com/Milan-BUAA/TSAN-brain-age-estimation">code</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:r_AWSJRzSzQC">9</a>]&nbsp;
+    (<span class="hlnote0">Ziyang Liu and Jian Cheng contributed equally.</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-liu-MICCAI2020" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{liu:MICCAI2020,
+     author = {Ziyang Liu and Jian Cheng and Haogang Zhu and Jicong Zhang and Tao Liu},
+     booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'20)},
+     doi = {10.1007/978-3-030-59728-3_20},
+     organization = {Springer},
+     pages = {198-207},
+     title = {Brain Age Estimation from MRI Using a Two-Stage Cascade Network with Ranking Loss},
+     url = {https://dx.doi.org/10.1007/978-3-030-59728-3_20},
+     year = {2020}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-liu-MICCAI2020" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>As age increases, human brains will be aged, and people tend to
+    experience cognitive decline with a higher risk of neuro-
+    degenerative disease and dementia. Recently, it was reported that
+    deep neural networks, e.g., 3D convolutional neural networks (CNN),
+    are able to predict chronological age accurately in healthy people
+    from their T1-weighted magnetic resonance images (MRI). The
+    predicted age, called as “brain age” or “brain predicted age”, could
+    be a biomarker of the brain ageing process. In this paper, we
+    propose a novel 3D convolutional network, called as two-stage-age-
+    net (TSAN), for brain age estimation from T1-weighted MRI data.
+    Compared with the state-of-the-art CNN by Cole et al., TSAN has
+    several improvements: 1) TSAN uses a two-stage cascade architecture,
+    where the first network is to estimate a discretized age range, then
+    the second network is to further estimate the brain age more
+    accurately; 2) Besides using the traditional mean square error (MSE)
+    loss between chronological and estimated ages, TSAN considers two
+    additional novel ranking losses, based on paired samples and a batch
+    of samples, for regularizing the training process; 3) TSAN uses
+    densely connected paths to combine feature maps with different
+    scales; 4) TSAN considers gender labels as input features for the
+    network, considering brains of male and female age differently. The
+    proposed TSAN was validated in three public datasets. The
+    experiments showed that TSAN could provide accurate brain age
+    estimation in healthy subjects, yielding a mean absolute error (MAE)
+    of 2.428, and a Pearson’s correlation coefficient (PCC) of 0.985,
+    between the estimated and the chronological ages.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Tao Liu, Feng Shi, Ruiliang Bai, Jicong Zhang, Haogang Zhu, Dacheng Tao, Peter J Basser</span>,<br>
+    <span class="title">"On Quantifying Local Geometric Structures of Fiber Tracts"</span>,<br>
+    <span class="publisher">Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'18)</span>, pp. 392&ndash;400, <span class="year">2018</span>.
+    <br><a target="_self" href="https://hal.archives-ouvertes.fr/hal-02098668/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-030-00931-1_45"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng-MICCAI2018">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng-MICCAI2018">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:KbBQZpvPDL4C">2</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-cheng-MICCAI2018" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng:MICCAI2018,
+     author = {Jian Cheng and Tao Liu and Feng Shi and Ruiliang Bai and Jicong Zhang and Haogang Zhu and Dacheng Tao and Peter J Basser},
+     booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI'18)},
+     doi = {10.1007/978-3-030-00931-1_45},
+     hal_id = {hal-02098668},
+     organization = {Springer},
+     pages = {392-400},
+     pdf = {https://hal.archives-ouvertes.fr/hal-02098668/document},
+     title = {On Quantifying Local Geometric Structures of Fiber Tracts},
+     url = {https://dx.doi.org/10.1007/978-3-030-00931-1_45},
+     year = {2018}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng-MICCAI2018" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In diffusion MRI, fiber tracts, represented by densely distributed
+    3D curves, can be estimated from diffusion weighted images using
+    tractography. The spatial geometric structure of white matter fiber
+    tracts is known to be complex in human brain, but it carries
+    intrinsic information of human brain. In this paper, inspired by
+    studies of liquid crystals, we propose tract-based director field
+    analysis (tDFA) with total six rotationally invariant scalar indices
+    to quantify local geometric structures of fiber tracts. The
+    contributions of tDFA include: (1) We propose orientational order
+    (OO) and orientational dispersion (OD) indices to quantify the
+    degree of alignment and dispersion of fiber tracts; (2) We define
+    the local orthogonal frame for a set of unoriented curves, which is
+    proved to be a generalization of the Frenet frame defined for a
+    single oriented curve; (3) With the local orthogonal frame, we
+    propose splay, bend, and twist indices to quantify three types of
+    orientational distortion of local fiber tracts, and a total
+    distortion index to describe distortions of all three types. The
+    proposed tDFA for fiber tracts is a generalization of the voxel-
+    based DFA (vDFA) which was recently proposed for a spherical
+    function field (i.e., an ODF field). To our knowledge, this is the
+    first work to quantify orientational distortion (splay, bend, twist,
+    and total distortion) of fiber tracts. Experiments show that the
+    proposed scalar indices are useful descriptors of local geometric
+    structures to visualize and analyze fiber tracts.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Dinggang Shen, Pew-Thian Yap, Peter J. Basser</span>,<br>
+    <span class="title">"Tensorial Spherical Polar Fourier diffusion MRI with Optimal Dictionary Learning"</span>,<br>
+    <span class="publisher">International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'15)</span>, vol. 9349, pp. 174&ndash;182, <span class="year">2015</span>.
+    <br><a target="_self" href="https://hal.archives-ouvertes.fr/hal-01164809/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-319-24553-9_22"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_MICCAI2015">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_MICCAI2015">abstract</a>]&nbsp;
+    [<a target="_self" href="https://diffusionmritool.github.io/tutorial_spfi.html">project</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:OTTXONDVkokC">13</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-cheng_MICCAI2015" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng_MICCAI2015,
+     author = {Jian Cheng and Dinggang Shen and Pew-Thian Yap and Peter J. Basser},
+     booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'15)},
+     doi = {10.1007/978-3-319-24553-9_22},
+     organization = {Springer},
+     pages = {174-182},
+     pdf = {https://hal.archives-ouvertes.fr/hal-01164809/document},
+     series = {LNCS},
+     title = {Tensorial Spherical Polar Fourier diffusion MRI with Optimal Dictionary Learning},
+     url = {https://dx.doi.org/10.1007/978-3-319-24553-9_22},
+     volume = {9349},
+     year = {2015}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_MICCAI2015" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>High Angular Resolution Diffusion Imaging (HARDI) can characterize
+    complex white matter micro-structure, avoiding the Gaussian
+    diffusion assumption inherent in Diffusion Tensor Imaging (DTI).
+    However, HARDI methods normally require significantly more signal
+    measurements and a longer scan time than DTI, which limits its
+    clinical utility. By considering sparsity of the diffusion signal,
+    Compressed Sensing (CS) allows robust signal reconstruction from
+    relatively fewer samples, reducing the scanning time. A good
+    dictionary that sparsifies the signal is crucial for CS
+    reconstruction. In this paper, we propose a novel method called
+    Tensorial Spherical Polar Fourier Imaging (TSPFI) to recover
+    continuous diffusion signal and diffusion propagator by representing
+    the diffusion signal using an orthonormal TSPF basis. TSPFI is a
+    generalization of the existing model-based method DTI and the model-
+    free method SPFI. We also propose dictionary learning TSPFI (DL-
+    TSPFI) to learn an even sparser dictionary represented as a linear
+    combination of TSPF basis from continuous mixture of Gaussian
+    signals. The learning process is efficiently performed in a small
+    subspace of SPF coefficients, and the learned dictionary is proved
+    to be sparse for all mixture of Gaussian signals by adaptively
+    setting the tensor in TSPF basis. Then the learned DL-TSPF
+    dictionary is optimally and adaptively applied to different voxels
+    using DTI and a weighted LASSO for CS reconstruction. DL-TSPFI is a
+    generalization of DL-SPFI, by considering general adaptive tensor
+    setting instead of a scale value. The experiments demonstrated that
+    the learned DL-TSPF dictionary has a sparser representation and
+    lower reconstruction Root-Mean-Squared-Error (RMSE) than both the
+    original SPF basis and the DL-SPF dictionary.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Dinggang Shen, Pew-Thian Yap, Peter J. Basser</span>,<br>
+    <span class="title">"Novel single and multiple shell uniform sampling schemes for diffusion MRI using spherical codes"</span>,<br>
+    <span class="publisher">International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'15)</span>, vol. 9349, pp. 28&ndash;36, <span class="year">2015</span>.
+    <br><a target="_self" href="https://hal.archives-ouvertes.fr/hal-01154774/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-319-24553-9_4"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_MICCAI2015_sampling">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_MICCAI2015_sampling">abstract</a>]&nbsp;
+    [<a target="_self" href="https://diffusionmritool.github.io/tutorial_qspacesampling.html">project</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:IRz6iEL74y4C">9</a>]&nbsp;
+    (<span class="hlnote">early accepted</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-cheng_MICCAI2015_sampling" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng_MICCAI2015_sampling,
+     author = {Jian Cheng and Dinggang Shen and Pew-Thian Yap and Peter J. Basser},
+     booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'15)},
+     doi = {10.1007/978-3-319-24553-9_4},
+     organization = {Springer},
+     pages = {28-36},
+     pdf = {https://hal.archives-ouvertes.fr/hal-01154774/document},
+     title = {Novel single and multiple shell uniform sampling schemes for diffusion MRI using spherical codes},
+     url = {https://dx.doi.org/10.1007/978-3-319-24553-9_4},
+     volume = {9349},
+     year = {2015}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_MICCAI2015_sampling" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>A good data sampling scheme is important for diffusion MRI
+    acquisition and reconstruction. Diffusion Weighted Imaging (DWI)
+    data is normally acquired on single or multiple shells in q-space.
+    The samples in different shells are typically distributed uniformly,
+    because they should be invariant to the orientation of structures
+    within tissue, or the laboratory coordinate frame. The Electrostatic
+    Energy Minimization (EEM) method, originally proposed for single
+    shell sampling scheme in dMRI by Jones et al., was recently
+    generalized to the multi-shell case, called generalized EEM (GEEM).
+    GEEM has been successfully used in the Human Connectome Project
+    (HCP). Recently, the Spherical Code (SC) concept was proposed to
+    maximize the minimal angle between different samples in single or
+    multiple shells, producing a larger angular separation and better
+    rotational invariance than the GEEM method. In this paper, we
+    propose two novel algorithms based on the SC concept: 1) an
+    efficient incremental constructive method, called Iterative Maximum
+    Overlap Construction (IMOC), to generate a sampling scheme on a
+    discretized sphere; 2) a constrained non-linear optimization (CNLO)
+    method to update a given initial scheme on the continuous sphere.
+    Compared to existing incremental estimation methods, IMOC obtains
+    schemes with much larger separation angles between samples, which
+    are very close to the best known solutions in single shell case.
+    Compared to the existing Riemannian gradient descent method, CNLO is
+    more robust and stable. Experiments demonstrated that the two
+    proposed methods provide larger separation angles and better
+    rotational invariance than the state-of-the-art GEEM and methods
+    based on the SC concept.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Dinggang Shen, Pew-Thian Yap</span>,<br>
+    <span class="title">"Designing single- and multiple-shell sampling schemes for diffusion MRI using spherical code"</span>,<br>
+    <span class="publisher">Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'14)</span>, vol. 8675, pp. 281&ndash;288, <span class="year">2014</span>.
+    <br><a target="_self" href="https://hal.archives-ouvertes.fr/hal-01011897/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-319-10443-0_36"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_MICCAI2014">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_MICCAI2014">abstract</a>]&nbsp;
+    [<a target="_self" href="https://diffusionmritool.github.io/tutorial_qspacesampling.html">project</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:9pM33mqn1YgC">22</a>]&nbsp;
+    (<span class="hlnote">early accepted</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-cheng_MICCAI2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng_MICCAI2014,
+     author = {Jian Cheng and Dinggang Shen and Pew-Thian Yap},
+     booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI'14)},
+     doi = {10.1007/978-3-319-10443-0_36},
+     hal_id = {hal-01011897},
+     pages = {281-288},
+     pdf = {https://hal.archives-ouvertes.fr/hal-01011897/document},
+     publisher = {Springer},
+     title = {Designing single- and multiple-shell sampling schemes for diffusion MRI using spherical code},
+     url = {https://dx.doi.org/10.1007/978-3-319-10443-0_36},
+     volume = {8675},
+     year = {2014}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_MICCAI2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In diffusion MRI (dMRI), determining an appropriate sampling scheme
+    is crucial for acquiring the maximal amount of information for data
+    reconstruction and analysis using the minimal amount of time. For
+    single-shell acquisition, uniform sampling without directional
+    preference is usually favored. To achieve this, a commonly used
+    approach is the Electrostatic Energy Minimization (EEM) method
+    introduced in dMRI by Jones et al. However, the electrostatic energy
+    formulation in EEM is not directly related to the goal of optimal
+    sampling-scheme design, i.e., achieving large angular separation
+    between sampling points. A mathematically more natural approach is
+    to consider the Spherical Code (SC) formulation, which aims to
+    achieve uniform sampling by maximizing the minimal angular
+    difference between sampling points on the unit sphere. Although SC
+    is well studied in the mathematical literature, its current
+    formulation is limited to a single shell and is not applicable to
+    multiple shells. Moreover, SC, or more precisely continuous SC
+    (CSC), currently can only be applied on the continuous unit sphere
+    and hence cannot be used in situations where one or several subsets
+    of sampling points need to be determined from an existing sampling
+    scheme. In this case, discrete SC (DSC) is required. In this paper,
+    we propose novel DSC and CSC methods for designing uniform
+    single-/multi-shell sampling schemes. The DSC and CSC formulations
+    are solved respectively by Mixed Integer Linear Programming (MILP)
+    and a gradient descent approach. A fast greedy incremental solution
+    is also provided for both DSC and CSC. To our knowledge, this is the
+    first work to use SC formulation for designing sampling schemes in
+    dMRI. Experimental results indicate that our methods obtain larger
+    angular separation and better rotational invariance than the
+    generalized EEM (gEEM) method currently used in the Human Connectome
+    Project (HCP).</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Rui Min, <b>Jian Cheng</b>, True Price, Guorong Wu, Dinggang Shen</span>,<br>
+    <span class="title">"Maximum-margin based representation learning from multiple atlases for Alzheimer's disease classification"</span>,<br>
+    <span class="publisher">International Conference on Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'14)</span>, vol. 8674, pp. 212&ndash;219, <span class="year">2014</span>.
+    <br><a target="_self" href="https://www.researchgate.net/profile/Jian_Cheng2/publication/269284266_Maximum-Margin_Based_Representation_Learning_from_Multiple_Atlases_for_Alzheimer's_Disease_Classification/links/584bc76608aed95c24fbf847.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-319-10470-6_27"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-min-MICCAI2014">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-min-MICCAI2014">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:8d8msizDQcsC">15</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-min-MICCAI2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{min:MICCAI2014,
+     author = {Rui Min and Jian Cheng and True Price and Guorong Wu and Dinggang Shen},
+     booktitle = {International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'14)},
+     doi = {10.1007/978-3-319-10470-6_27},
+     organization = {Springer},
+     pages = {212-219},
+     pdf = {https://www.researchgate.net/profile/Jian_Cheng2/publication/269284266_Maximum-Margin_Based_Representation_Learning_from_Multiple_Atlases_for_Alzheimer's_Disease_Classification/links/584bc76608aed95c24fbf847.pdf},
+     title = {Maximum-margin based representation learning from multiple atlases for Alzheimer's disease classification},
+     url = {https://dx.doi.org/10.1007/978-3-319-10470-6_27},
+     volume = {8674},
+     year = {2014}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-min-MICCAI2014" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In order to establish the correspondences between different brains
+    for comparison, spatial normalization based morphometric
+    measurements have been widely used in the analysis of Alzheimer's
+    disease (AD). In the literature, different subjects are often
+    compared in one atlas space, which may be insufficient in revealing
+    complex brain changes. In this paper, instead of deploying one atlas
+    for feature extraction and classification, we propose a maximum-
+    margin based representation learning (MMRL) method to learn the
+    optimal representation from multiple atlases. Unlike traditional
+    methods that perform the representation learning separately from the
+    classification, we propose to learn the new representation jointly
+    with the classification model, which is more powerful in
+    discriminating AD patients from normal controls (NC). We evaluated
+    the proposed method on the ADNI database, and achieved 90.69% for
+    AD/NC classification and 73.69% for p-MCI/s-MCI classification.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Tianzi Jiang, Rachid Deriche, Dinggang Shen, Pew-Thian Yap</span>,<br>
+    <span class="title">"Regularized Spherical Polar Fourier Diffusion MRI with Optimal Dictionary Learning"</span>,<br>
+    <span class="publisher">The 16th International Conference on Medical Image Computing and Computer Assisted Intervention (<b>MICCAI</b>'13)</span>, vol. 8149, pp. 639&ndash;646, <span class="year">2013</span>.
+    <br><a target="_self" href="https://hal.inria.fr/hal-00824507/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-642-40811-3_80"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_DL-SPFI_MICCAI13">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_DL-SPFI_MICCAI13">abstract</a>]&nbsp;
+    [<a target="_self" href="https://diffusionmritool.github.io/tutorial_spfi.html">project</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:rmuvC79q63oC">16</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-cheng_DL-SPFI_MICCAI13" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng_DL-SPFI_MICCAI13,
+     author = {Jian Cheng and Tianzi Jiang and Rachid Deriche and Dinggang Shen and Pew-Thian Yap},
+     booktitle = {The 16th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI'13)},
+     doi = {10.1007/978-3-642-40811-3_80},
+     hal_id = {hal-00824507},
+     pages = {639-646},
+     pdf = {https://hal.inria.fr/hal-00824507/document},
+     title = {Regularized Spherical Polar Fourier Diffusion MRI with Optimal Dictionary Learning},
+     url = {https://dx.doi.org/10.1007/978-3-642-40811-3_80},
+     volume = {8149},
+     year = {2013}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_DL-SPFI_MICCAI13" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Compressed Sensing (CS) takes advantage of signal sparsity or
+    compressibility and allows superb signal reconstruction from
+    relatively few measurements. Based on CS theory, a suitable
+    dictionary for sparse representation of the signal is required. In
+    diffusion MRI (dMRI), CS methods proposed for reconstruction of
+    diffusion-weighted signal and the Ensemble Average Propagator (EAP)
+    utilize two kinds of Dictionary Learning (DL) methods: 1) Discrete
+    Representation DL (DR-DL), and 2) Continuous Representation DL (CR-
+    DL). DR-DL is susceptible to numerical inaccuracy owing to
+    interpolation and regridding errors in a discretized q-space. In
+    this paper, we propose a novel CR-DL approach, called Dictionary
+    Learning - Spherical Polar Fourier Imaging (DL-SPFI) for effective
+    compressed-sensing reconstruction of the q-space diffusion-weighted
+    signal and the EAP. In DL-SPFI, a dictionary that sparsifies the
+    signal is learned from the space of continuous Gaussian diffusion
+    signals. The learned dictionary is then adaptively applied to
+    different voxels using a weighted LASSO framework for robust signal
+    reconstruction. Compared with the start-of-the-art CR-DL and DR-DL
+    methods proposed by Merlet et al. and Bilgic et al., respectively,
+    our work offers the following advantages. First, the learned
+    dictionary is proved to be optimal for Gaussian diffusion signals.
+    Second, to our knowledge, this is the first work to learn a voxel-
+    adaptive dictionary. The importance of the adaptive dictionary in
+    EAP reconstruction will be demonstrated theoretically and
+    empirically. Third, optimization in DL-SPFI is only performed in a
+    small subspace resided by the SPF coefficients, as opposed to the
+    q-space approach utilized by Merlet et al. We experimentally
+    evaluated DL-SPFI with respect to L1-norm regularized SPFI
+    (L1-SPFI), which uses the original SPF basis, and the DR-DL method
+    proposed by Bilgic et al. The experiment results on synthetic and
+    real data indicate that the learned dictionary produces sparser
+    coefficients than the original SPF basis and results in
+    significantly lower reconstruction error than Bilgic et al.'s
+    method.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author">Feng Shi#, <b>Jian Cheng</b>#, Li Wang, Pew-Thian Yap, Dinggang Shen</span>,<br>
+    <span class="title">"Low-Rank Total Variation for Image Super-Resolution"</span>,<br>
+    <span class="publisher">Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'13)</span>, vol. 8149, pp. 155&ndash;162, <span class="year">2013</span>.
+    <br><a target="_self" href="https://www.researchgate.net/profile/Jian_Cheng2/publication/260127836_Low-Rank_Total_Variation_for_Image_Super-Resolution/links/0a85e52f69f43abff6000000.pdf"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-642-40811-3_20"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-shi_MICCAI13">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-shi_MICCAI13">abstract</a>]&nbsp;
+    [<a target="_self" href="https://bitbucket.org/fengshi421/superresolutiontoolkit">code</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:YohjEiUPhakC">56</a>]&nbsp;
+    (<span class="hlnote0">F. Shi and J. Cheng contributed equally.</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-shi_MICCAI13" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{shi_MICCAI13,
+     author = {Feng Shi and Jian Cheng and Li Wang and Pew-Thian Yap and Dinggang Shen},
+     booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI'13)},
+     doi = {10.1007/978-3-642-40811-3_20},
+     pages = {155-162},
+     pdf = {https://www.researchgate.net/profile/Jian_Cheng2/publication/260127836_Low-Rank_Total_Variation_for_Image_Super-Resolution/links/0a85e52f69f43abff6000000.pdf},
+     publisher = {Springer},
+     title = {Low-Rank Total Variation for Image Super-Resolution},
+     url = {https://dx.doi.org/10.1007/978-3-642-40811-3_20},
+     volume = {8149},
+     year = {2013}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-shi_MICCAI13" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Most natural images can be approximated using their low-rank
+    components. This fact has been successfully exploited in recent
+    advancements of matrix completion algorithms for image recovery.
+    However, a major limitation of low-rank matrix completion algorithms
+    is that they cannot recover the case where a whole row or column is
+    missing. The missing row or column will be simply filled as an
+    arbitrary combination of other rows or columns with known values.
+    This precludes the application of matrix completion to problems such
+    as super-resolution (SR) where missing values in many rows and
+    columns need to be recovered in the process of up-sampling a low-
+    resolution image. Moreover, low-rank regularization considers
+    information globally from the whole image and does not take proper
+    consideration of local spatial consistency. Accordingly, we propose
+    in this paper a solution to the SR problem via simultaneous (global)
+    low-rank and (local) total variation (TV) regularization. We solve
+    the respective cost function using the alternating direction method
+    of multipliers (ADMM). Experiments on MR images of adults and
+    pediatric subjects demonstrate that the proposed method enhances the
+    details of the recovered high-resolution images, and outperforms the
+    nearest-neighbor interpolation, cubic interpolation, non-local
+    means, and TV-based up-sampling.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Tianzi Jiang, Rachid Deriche</span>,<br>
+    <span class="title">"Nonnegative Definite EAP and ODF Estimation via a Unified Multi-Shell HARDI Reconstruction"</span>,<br>
+    <span class="publisher">Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'12)</span>, vol. 6892, pp. 98&ndash;106, <span class="year">2012</span>.
+    <br><a target="_self" href="https://hal.archives-ouvertes.fr/hal-00759014/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-642-33418-4_39"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_MICCAI2012">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_MICCAI2012">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:ufrVoPGSRksC">15</a>]&nbsp;
+    (<span class="hlnote2">MICCAI Student Travel Award</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-cheng_MICCAI2012" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng_MICCAI2012,
+     author = {Jian Cheng and Tianzi Jiang and Rachid Deriche},
+     booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI'12)},
+     doi = {10.1007/978-3-642-33418-4_39},
+     pages = {98-106},
+     pdf = {https://hal.archives-ouvertes.fr/hal-00759014/document},
+     publisher = {Springer Berlin / Heidelberg},
+     series = {LNCS},
+     title = {Nonnegative Definite EAP and ODF Estimation via a Unified Multi-Shell HARDI Reconstruction},
+     url = {https://dx.doi.org/10.1007/978-3-642-33418-4_39},
+     volume = {6892},
+     year = {2012}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_MICCAI2012" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In High Angular Resolution Diffusion Imaging (HARDI), Orientation
+    Distribution Function (ODF) and Ensemble Average Propagator (EAP)
+    are two important Probability Density Functions (PDFs) which reflect
+    the water diffusion and fiber orientations. Spherical Polar Fourier
+    Imaging (SPFI) is a recent model-free multi-shell HARDI method which
+    estimates both EAP and ODF from the diffusion signals with multiple
+    b values. As physical PDFs, ODFs and EAPs are nonnegative definite
+    respectively in their domains $\mathbb{S}^2$ and $\mathbb{R}^3$.
+    However, existing ODF/EAP estimation methods like SPFI seldom
+    consider this natural constraint. Although some works considered the
+    nonnegative constraint on the given discrete samples of ODF/EAP, the
+    estimated ODF/EAP is not guaranteed to be nonnegative definite in
+    the whole continuous domain. The Riemannian framework for ODFs and
+    EAPs has been proposed via the square root parameterization based on
+    pre-estimated ODFs and EAPs by other methods like SPFI. However,
+    there is no work on how to estimate the square root of ODF/EAP
+    called as the wavefuntion directly from diffusion signals. In this
+    paper, based on the Riemannian framework for ODFs/EAPs and Spherical
+    Polar Fourier (SPF) basis representation, we propose a unified
+    model-free multi-shell HARDI method, named as Square Root
+    Parameterized Estimation (SRPE), to simultaneously estimate both the
+    wavefunction of EAPs and the nonnegative definite ODFs and EAPs from
+    diffusion signals. The experiments on synthetic data and real data
+    showed SRPE is more robust to noise and has better EAP
+    reconstruction than SPFI, especially for EAP profiles at large
+    radius.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Aurobrata Ghosh, Tianzi Jiang, Rachid Deriche</span>,<br>
+    <span class="title">"Diffeomorphism Invariant Riemannian Framework for Ensemble Average Propagator Computing"</span>,<br>
+    <span class="publisher">Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'11)</span>, vol. 6892, pp. 98&ndash;106, <span class="year">2011</span>.
+    <br><a target="_self" href="https://hal.inria.fr/inria-00615431/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-642-23629-7_13"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_MICCAI2011">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_MICCAI2011">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:qjMakFHDy7sC">7</a>]&nbsp;
+    (<span class="hlnote2">MICCAI Student Travel Award</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-cheng_MICCAI2011" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng_MICCAI2011,
+     author = {Jian Cheng and Aurobrata Ghosh and Tianzi Jiang and Rachid Deriche},
+     booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI'11)},
+     doi = {10.1007/978-3-642-23629-7_13},
+     hal_id = {inria-00615431},
+     pages = {98-106},
+     pdf = {https://hal.inria.fr/inria-00615431/document},
+     publisher = {Springer Berlin / Heidelberg},
+     series = {LNCS},
+     title = {Diffeomorphism Invariant Riemannian Framework for Ensemble Average Propagator Computing},
+     url = {https://dx.doi.org/10.1007/978-3-642-23629-7_13},
+     volume = {6892},
+     year = {2011}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_MICCAI2011" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Background: In Diffusion Tensor Imaging (DTI), Riemannian framework
+    based on Information Geometry theory has been proposed for
+    processing tensors on estimation, interpolation, smoothing,
+    regularization, segmentation, statistical test and so on. Recently
+    Riemannian framework has been generalized to Orientation
+    Distribution Function (ODF) and it is applicable to any Probability
+    Density Function (PDF) under orthonormal basis representation.
+    Spherical Polar Fourier Imaging (SPFI) was proposed for ODF and
+    Ensemble Average Propagator (EAP) estimation from arbitrary sampled
+    signals without any assumption. Purpose: Tensors only can represent
+    Gaussian EAP and ODF is the radial integration of EAP, while EAP has
+    full information for diffusion process. To our knowledge, so far
+    there is no work on how to process EAP data. In this paper, we
+    present a Riemannian framework as a mathematical tool for such task.
+    Method: We propose a state-of-the-art Riemannian framework for EAPs
+    by representing the square root of EAP, called wavefunction based on
+    quantum mechanics, with the Fourier dual Spherical Polar Fourier
+    (dSPF) basis. In this framework, the exponential map, logarithmic
+    map and geodesic have closed forms, and weighted Riemannian mean and
+    median uniquely exist. We analyze theoretically the similarities and
+    differences between Riemannian frameworks for EAPs and for ODFs and
+    tensors. The Riemannian metric for EAPs is diffeomorphism invariant,
+    which is the natural extension of the affine-invariant metric for
+    tensors. We propose Log-Euclidean framework to fast process EAPs,
+    and Geodesic Anisotropy (GA) to measure the anisotropy of EAPs. With
+    this framework, many important data processing operations, such as
+    interpolation, smoothing, atlas estimation, Principal Geodesic
+    Analysis (PGA), can be performed on EAP data. Results and
+    Conclusions: The proposed Riemannian framework was validated in
+    synthetic data for interpolation, smoothing, PGA and in real data
+    for GA and atlas estimation. Riemannian median is much robust for
+    atlas estimation.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Aurobrata Ghosh, Rachid Deriche, Tianzi Jiang</span>,<br>
+    <span class="title">"Model-Free, Regularized, Fast, and Robust Analytical Orientation Distribution Function Estimation"</span>,<br>
+    <span class="publisher">Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'10)</span>, vol. 6361, pp. 648&ndash;656, sep, <span class="year">2010</span>.
+    <br><a target="_self" href="https://hal.inria.fr/inria-00496929/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-642-15705-9_79"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-Cheng_ODF_MICCAI2010">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-Cheng_ODF_MICCAI2010">abstract</a>]&nbsp;
+    [<a target="_self" href="https://diffusionmritool.github.io/tutorial_spfi.html">project</a>]&nbsp;
+    [<a target="_self" href="https://www.dropbox.com/s/z28dckp6gv6lhf2/ODF_MICCAI2010_poster.pdf">poster</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:d1gkVwhDpl0C">46</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-Cheng_ODF_MICCAI2010" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{Cheng_ODF_MICCAI2010,
+     author = {Jian Cheng and Aurobrata Ghosh and Rachid Deriche and Tianzi Jiang},
+     booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI'10)},
+     doi = {10.1007/978-3-642-15705-9_79},
+     hal_id = {inria-00496929},
+     month = {sep},
+     pages = {648-656},
+     pdf = {https://hal.inria.fr/inria-00496929/document},
+     title = {Model-Free, Regularized, Fast, and Robust Analytical Orientation Distribution Function Estimation},
+     url = {https://dx.doi.org/10.1007/978-3-642-15705-9_79},
+     volume = {6361},
+     year = {2010}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-Cheng_ODF_MICCAI2010" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>High Angular Resolution Imaging (HARDI) can better explore the
+    complex micro-structure of white matter compared to Diffusion Tensor
+    Imaging (DTI). Orientation Distribution Function (ODF) in HARDI is
+    used to describe the probability of the fiber direction. There are
+    two type definitions of the ODF, which were respectively proposed in
+    Q-Ball Imaging (QBI) and Diffusion Spectrum Imaging (DSI). Some
+    analytical reconstructions methods have been proposed to estimate
+    these two type of ODFs from single shell HARDI data. However they
+    all have some assumptions and intrinsic modeling errors. In this
+    article, we propose, almost without any assumption, a uniform
+    analytical method to estimate these two ODFs from DWI signals in q
+    space, which is based on Spherical Polar Fourier Expression (SPFE)
+    of signals. The solution is analytical and is a linear
+    transformation from the q-space signal to the ODF represented by
+    Spherical Harmonics (SH). It can naturally combines the DWI signals
+    in different Q-shells. Moreover It can avoid the intrinsic Funk-
+    Radon Transform (FRT) blurring error in QBI and it does not need any
+    assumption of the signals, such as the multiple tensor model and
+    mono/multi-exponential decay. We validate our method using synthetic
+    data, phantom data and real data. Our method works well in all
+    experiments, especially for the data with low SNR, low anisotropy
+    and non-exponential decay.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Aurobrata Ghosh, Tianzi Jiang, Rachid Deriche</span>,<br>
+    <span class="title">"Model-free and Analytical EAP Reconstruction via Spherical Polar Fourier Diffusion MRI"</span>,<br>
+    <span class="publisher">Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'10)</span>, vol. 6361, pp. 590&ndash;597, sep, <span class="year">2010</span>.
+    <br><a target="_self" href="https://hal.inria.fr/inria-00496932/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-642-15705-9_72"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-Cheng_PDF_MICCAI2010">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-Cheng_PDF_MICCAI2010">abstract</a>]&nbsp;
+    [<a target="_self" href="https://diffusionmritool.github.io/tutorial_spfi.html">project</a>]&nbsp;
+    [<a target="_self" href="https://www.dropbox.com/s/d9ea28w15hxpcgl/EAP_MICCAI2010_poster.pdf">poster</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:u-x6o8ySG0sC">92</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-Cheng_PDF_MICCAI2010" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{Cheng_PDF_MICCAI2010,
+     author = {Jian Cheng and Aurobrata Ghosh and Tianzi Jiang and Rachid Deriche},
+     booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI'10)},
+     doi = {10.1007/978-3-642-15705-9_72},
+     hal_id = {inria-00496932},
+     month = {sep},
+     pages = {590-597},
+     pdf = {https://hal.inria.fr/inria-00496932/document},
+     title = {Model-free and Analytical EAP Reconstruction via Spherical Polar Fourier Diffusion MRI},
+     url = {https://dx.doi.org/10.1007/978-3-642-15705-9_72},
+     volume = {6361},
+     year = {2010}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-Cheng_PDF_MICCAI2010" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>How to estimate the diffusion Ensemble Average Propagator (EAP) from
+    the DWI signals in q-space is an open problem in diffusion MRI
+    field. Many methods were proposed to estimate the Orientation
+    Distribution Function (ODF) that is used to describe the fiber
+    direction. However, ODF is just one of the features of the EAP.
+    Compared with ODF, EAP has the full information about the diffusion
+    process which reflects the complex tissue micro-structure. Diffusion
+    Orientation Transform (DOT) and Diffusion Spectrum Imaging (DSI) are
+    two important methods to estimate the EAP from the signal. However,
+    DOT is based on mono-exponential assumption and DSI needs a lot of
+    samplings and very large b values. In this paper, we propose
+    Spherical Polar Fourier Imaging (SPFI), a novel model-free fast
+    robust analytical EAP reconstruction method, which almost does not
+    need any assumption of data and does not need too many samplings.
+    SPFI naturally combines the DWI signals with different b-values. It
+    is an analytical linear transformation from the q-space signal to
+    the EAP profile represented by Spherical Harmonics (SH). We
+    validated the proposed methods in synthetic data, phantom data and
+    real data. It works well in all experiments, especially for the data
+    with low SNR, low anisotropy, and non-exponential decay.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Aurobrata Ghosh, Tianzi Jiang, Rachid Deriche</span>,<br>
+    <span class="title">"A Riemannian Framework for Orientation Distribution Function Computing"</span>,<br>
+    <span class="publisher">Medical Image Computing and Computer-Assisted Intervention (<b>MICCAI</b>'09)</span>, vol. 5761, pp. 911&ndash;918, <span class="year">2009</span>.
+    <br><a target="_self" href="https://hal.inria.fr/inria-00424764/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-642-04268-3_112"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-JianChengMICCAI2009">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-JianChengMICCAI2009">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:u5HHmVD_uO8C">51</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-JianChengMICCAI2009" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{JianChengMICCAI2009,
+     author = {Jian Cheng and Aurobrata Ghosh and Tianzi Jiang and Rachid Deriche},
+     booktitle = {Medical Image Computing and Computer-Assisted Intervention (MICCAI'09)},
+     doi = {10.1007/978-3-642-04268-3_112},
+     hal_id = {inria-00424764},
+     pages = {911-918},
+     pdf = {https://hal.inria.fr/inria-00424764/document},
+     title = {A Riemannian Framework for Orientation Distribution Function Computing},
+     url = {https://dx.doi.org/10.1007/978-3-642-04268-3_112},
+     volume = {5761},
+     year = {2009}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-JianChengMICCAI2009" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>Compared with Diffusion Tensor Imaging (DTI), High Angular
+    Resolution Imaging (HARDI) can better explore the complex
+    microstructure of white matter. Orientation Distribution Function
+    (ODF) is used to describe the probability of the fiber direction.
+    Fisher information metric has been constructed for probability
+    density family in Information Geometry theory and it has been
+    successfully applied for tensor computing in DTI. In this paper, we
+    present a state of the art Riemannian framework for ODF computing
+    based on Information Geometry and sparse representation of
+    orthonormal bases. In this Riemannian framework, the exponential
+    map, logarithmic map and geodesic have closed forms. And the
+    weighted Frechet mean exists uniquely on this manifold. We also
+    propose a novel scalar measurement, named Geometric Anisotropy (GA),
+    which is the Riemannian geodesic distance between the ODF and the
+    isotropic ODF. The Renyi entropy $H_{1/2}$ of the ODF can be
+    computed from the GA. Moreover, we present an Affine-Euclidean
+    framework and a Log-Euclidean framework so that we can work in an
+    Euclidean space. As an application, Lagrange interpolation on ODF
+    field is proposed based on weighted Frechet mean. We validate our
+    methods on synthetic and real data experiments. Compared with
+    existing Riemannian frameworks on ODF, our framework is model-free.
+    The estimation of the parameters, i.e. Riemannian coordinates, is
+    robust and linear. Moreover it should be noted that our theoretical
+    results can be used for any probability density function (PDF) under
+    an orthonormal basis representation.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+
+
+
+.. _publications_by_venue_ipmi:
+
+.. raw:: html
+
+    <h2><a name="IPMI"></a>IPMI</h2>
+    
+    <ol reversed>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Peter J. Basser</span>,<br>
+    <span class="title">"Director Field Analysis to Explore Local White Matter Geometric Structure in diffusion MRI"</span>,<br>
+    <span class="publisher">International Conference on Information Processing in Medical Imaging (<b>IPMI</b>'17)</span>, vol. 10265, pp. 427&ndash;439, <span class="year">2017</span>.
+    <br><a target="_self" href="https://hal.archives-ouvertes.fr/hal-01511573/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-319-59050-9_34"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng-IPMI2017">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng-IPMI2017">abstract</a>]&nbsp;
+    (<span class="hlnote">Oral presentation; Turned to be a poster due to conflicting travel plans.</span>)&nbsp;
+    
+    <div class="modal fade" id="bib-cheng-IPMI2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng:IPMI2017,
+     author = {Jian Cheng and Peter J. Basser},
+     booktitle = {International Conference on Information Processing in Medical Imaging (IPMI'17)},
+     doi = {10.1007/978-3-319-59050-9_34},
+     hal_id = {hal-01511573},
+     pages = {427-439},
+     pdf = {https://hal.archives-ouvertes.fr/hal-01511573/document},
+     title = {Director Field Analysis to Explore Local White Matter Geometric Structure in diffusion MRI},
+     url = {https://dx.doi.org/10.1007/978-3-319-59050-9_34},
+     volume = {10265},
+     year = {2017}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng-IPMI2017" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>In diffusion MRI, a tensor field or a spherical function field,
+    e.g., an Orientation Distribution Function (ODF) field, are
+    estimated from measured diffusion weighted images.  In this paper,
+    inspired by microscopic theoretical treatment of phases in liquid
+    crystals,  we introduce a novel mathematical framework, called
+    Director Field Analysis (DFA), to study local geometric structural
+    information of white matter from the estimated tensor field or
+    spherical function field.   1) We propose Orientational Order (OO)
+    and Orientational Dispersion (OD) indices to describe the degree of
+    alignment and dispersion of a spherical function in each voxel;  2)
+    We estimate a local orthogonal coordinate frame in each voxel with
+    anisotropic diffusion;  3) Finally, we define three indices to
+    describe three types of orientational distortion (splay, bend, and
+    twist) in a local spatial neighborhood, and a total distortion index
+    to describe distortions of all three types.  To our knowledge, this
+    is the first work to \emph{quantitatively} describe orientational
+    distortion (splay, bend, and twist) in diffusion MRI.  The proposed
+    scalar indices are useful to detect local geometric changes of white
+    matter for voxel-based or tract-based analysis in both DTI and HARDI
+    acquisitions.</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    <li>
+    <span class="author"><b>Jian Cheng</b>, Dinggang Shen, Peter J. Basser, Pew-Thian Yap</span>,<br>
+    <span class="title">"Joint 6D k-q Space Compressed Sensing for Accelerated High Angular Resolution Diffusion MRI"</span>,<br>
+    <span class="publisher">International Conference on Information Processing in Medical Imaging (<b>IPMI</b>'15)</span>, vol. 9123, pp. 782&ndash;793, <span class="year">2015</span>.
+    <br><a target="_self" href="https://hal.archives-ouvertes.fr/hal-01356133/document"><img src="Icons/pdf.gif" alt="[pdf]" style="width: 16px; height: 16px;"></a>&nbsp;
+    <a target="_self" href="https://dx.doi.org/10.1007/978-3-319-19992-4_62"><img src="Icons/www.gif" alt="[www]" style="width: 16px; height: 16px;"></a>&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#bib-cheng_IPMI2015">bibtex</a>]&nbsp;
+    [<a type="button" data-toggle="modal" data-target="#abs-cheng_IPMI2015">abstract</a>]&nbsp;
+    [citations: <a target="_blank" href="https://scholar.google.com//citations?view_op=view_citation&hl=en&oe=ASCII&user=BARqXQ0AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=BARqXQ0AAAAJ:_5tno0g5mFcC">32</a>]&nbsp;
+    
+    <div class="modal fade" id="bib-cheng_IPMI2015" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Bibtex</h4></div><div class="modal-body"> 
+    <pre>@inproceedings{cheng_IPMI2015,
+     author = {Jian Cheng and Dinggang Shen and Peter J. Basser and Pew-Thian Yap},
+     booktitle = {International Conference on Information Processing in Medical Imaging (IPMI'15)},
+     doi = {10.1007/978-3-319-19992-4_62},
+     organization = {Springer},
+     pages = {782-793},
+     pdf = {https://hal.archives-ouvertes.fr/hal-01356133/document},
+     title = {Joint 6D k-q Space Compressed Sensing for Accelerated High Angular Resolution Diffusion MRI},
+     url = {https://dx.doi.org/10.1007/978-3-319-19992-4_62},
+     volume = {9123},
+     year = {2015}
+    }</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    <div class="modal fade" id="abs-cheng_IPMI2015" role="dialog"><div class="modal-dialog"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal">&times;</button><h4 class="modal-title">Abstract</h4></div><div class="modal-body"> 
+    <pre>High Angular Resolution Diffusion Imaging (HARDI) avoids the
+    Gaussian diffusion assumption that is inherent in Diffusion Tensor
+    Imaging (DTI), and is capable of characterizing complex white matter
+    micro-structure with greater precision. However, HARDI methods such
+    as Diffusion Spectrum Imaging (DSI) typically require significantly
+    more signal measurements than DTI, resulting in prohibitively long
+    scanning times. One of the goals in HARDI research is therefore to
+    improve estimation of quantities such as the Ensemble Average
+    Propagator (EAP) and the Orientation Distribution Function (ODF)
+    with a limited number of diffusion-weighted measurements. A popular
+    approach to this problem, Compressed Sensing (CS), affords highly
+    accurate signal reconstruction using significantly fewer (sub-
+    Nyquist) data points than required traditionally. Existing
+    approaches to CS diffusion MRI (CS-dMRI) mainly focus on applying CS
+    in the q-space of diffusion signal measurements and fail to take
+    into consideration information redundancy in the k-space. In this
+    paper, we propose a framework, called 6-Dimensional Compressed
+    Sensing diffusion MRI (6D-CS-dMRI), for reconstruction of the
+    diffusion signal and the EAP from data sub-sampled in both 3D
+    k-space and 3D q-space. To our knowledge, 6D-CS-dMRI is the first
+    work that applies compressed sensing in the full 6D k-q space and
+    reconstructs the diffusion signal in the full continuous q-space and
+    the EAP in continuous displacement space. Experimental results on
+    synthetic and real data demonstrate that, compared with full DSI
+    sampling in k-q space, 6D-CS-dMRI yields excellent diffusion signal
+    and EAP reconstruction with low root-mean-square error (RMSE) using
+    11 times less samples (3-fold reduction in k-space and 3.7-fold
+    reduction in q-space).</pre> </div><div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Close</button></div></div></div></div>
+    </li><br>
+    
+    </ol>
+    
+    
+    
+            <br>
+
+
+
+
+
+
+.. include:: links.txt
+    

@@ -17,7 +17,7 @@
 .. raw:: html
    
    <style>   
-   .rightyear { position: absolute; left: 1000px;  }
+   .rightyear { position: absolute; left: 1250px;  }
    </style>
 
 
@@ -39,7 +39,7 @@ Education
 
 * `Institute of Automation, Chinese Academy of Sciences`_, China :rightyear:`2005 -- 2012` |br|
   Ph.D., Medical Image Analysis  |br| 
-  Supervisor: `Prof. Tianzi Jiang <http://www.brainnetome.org/en/tianzijiang>`__
+  Supervisor: `Prof. Tianzi Jiang <http://www.nlpr.ia.ac.cn/jiangtz>`__
 
   \ 
 
@@ -51,58 +51,86 @@ Education
 Professional Experience
 =======================
 
-* `SQITS`_, `National Institutes of Health`_, USA  :rightyear:`2014 - present` |br|
-  Postdoctoral fellow, with `Dr. Peter J. Basser <https://scholar.google.com/citations?user=FtyOQzwAAAAJ&hl=en>`__ |br|
+* `Beihang University`_, China :rightyear:`2018 - present` |br|
+  Associate Professor, `School of Computer Science and Engineering`_ :rightyear:`2022 - present` |br|
+  Associate Professor, `Beijing Advanced Innovation Center for Big Data-Based Precision Medicine`_ :rightyear:`2018 - 2022` |br|
+
+  \ 
+
+* `University of Sydney`_, Australia :rightyear:`2017 - 2018` |br| 
+  Postdoctoral fellow, with `Prof. Dacheng Tao <https://scholar.google.com/citations?user=RwlJNLcAAAAJ>`__ |br|
+
+  \ 
+
+* `SQITS`_, `National Institutes of Health`_, USA  :rightyear:`2014 - 2017` |br|
+  Postdoctoral fellow, with `Prof. Peter J. Basser <https://scholar.google.com/citations?user=FtyOQzwAAAAJ&hl=en>`__ |br|
   
   \ 
 
 * `IDEA`_, `University of North Carolina at Chapel Hill`_, USA :rightyear:`2012 - 2014` |br|
-  Postdoctoral researcher, with `Prof. Pew-Thian Yap <http://www.unc.edu/~ptyap/>`__, `Prof. Dinggang Shen <http://www.unc.edu/~dgshen/>`__ |br|
+  Postdoctoral researcher, with `Prof. Pew-Thian Yap <https://scholar.google.com/citations?user=QGdnthwAAAAJ>`__, `Prof. Dinggang Shen <https://scholar.google.com/citations?user=v6VYQC8AAAAJ>`__ |br|
   
-  \ 
+..   \ 
 
-* `Athena`_, `INRIA Sophia Antipolis`_ / `University of Nice-Sophia Antipolis`_, France :rightyear:`2008 -- 2012` |br|
-  Ph.D. student, with `Prof. Rachid Deriche <https://team.inria.fr/athena/team-members/rachid-deriche/>`__ |br|
+.. * `Athena`_, `INRIA Sophia Antipolis`_ / `University of Nice-Sophia Antipolis`_, France :rightyear:`2008 -- 2012` |br|
+..   Ph.D. student, with `Prof. Rachid Deriche <https://team.inria.fr/athena/team-members/rachid-deriche/>`__ |br|
 
-  \ 
+..   \ 
 
-* `Institute of Automation, Chinese Academy of Sciences`_, China :rightyear:`2005 -- 2012` |br|
-  Ph.D. student, with `Prof. Tianzi Jiang <http://www.brainnetome.org/en/tianzijiang>`__ |br|
+.. * `Institute of Automation, Chinese Academy of Sciences`_, China :rightyear:`2005 -- 2012` |br|
+..   Ph.D. student, with `Prof. Tianzi Jiang <https://www.brainnetome.org/en/tianzijiang>`__ |br|
 
 
 Honors and Awards
 =================
 
-* `Best Reviewer Award <https://miccai2015.org/frontend/index.php?page_id=1084>`__, MICCAI :rightyear:`2015`
+* `Best Reviewer Award <_static/best_reviewer_award.png>`__, MICCAI :rightyear:`2015`
 * Student Travel Award, MICCAI :rightyear:`2012`
 * Student Travel Award, MICCAI :rightyear:`2011`
 * Bourse du Gouvernement Français - Doctorale en Alternance :rightyear:`2008 -- 2011`
 * Excellent Undergraduate Thesis Award, Harbin Institute of Technology  :rightyear:`2005`
 
 
-Professional Services
-=====================
+Professional Activities
+=======================
 
-* Reviewer for journals
+.. * Membership
 
-  + IEEE Transaction on Medical Imaging
-  + NeuroImage
+..   + IEEE member
+..   + MICCAI member
+
+* Associate Editor
+
+  + Frontiers in Radiology (2020 - present)
+
+\
+
+* Program Committee Member
+
+  + MICCAI, 2019-2020
+  + MICCAI workshop on Computational Diffusion MRI (CDMRI), 2017-2018
+  + MICCAI workshop on Machine Learning in Medical Imaging (MLMI), 2015-2016
+  + AAAI, 2020-2021
+
+\
+
+* Journal Reviewer
+
+  + IEEE Transactions on Medical Imaging, Medical Image Analysis
+  + NeuroImage, Human Brain Mapping
+  + IEEE Journal of Biomedical and Health Informatics
   + PLOS One, PLOS Biology, PLOS Computational Biology
   + Pattern Recognition
   + Journal of Magnetic Resonance, Journal of Neuroscience Methods
 
 \
   
-* Reviewer for conferences 
+* Conference Reviewer
 
   + MICCAI 2011 - present 
 
 \
 
-* Conference Committees:
-
-  + MICCAI workshop on Computational Diffusion MRI (CDMRI), 2017
-  + MICCAI workshop on Machine Learning in Medical Imaging (MLMI), 2015-2016
 
 .. include:: links.txt
 

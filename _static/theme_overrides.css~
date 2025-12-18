@@ -1,0 +1,7 @@
+.wy-nav-content {
+    max-width: 2250px
+}
+.redbold {
+    color:red;
+    font-weight: bold;
+}

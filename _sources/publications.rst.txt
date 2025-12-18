@@ -19,7 +19,7 @@
 .. .. |googlescholar| image:: _static/google_scholar.png
 ..    :alt: Google Scholar
 ..    :scale: 80%
-..    :target: http://scholar.google.com/citations?user=BARqXQ0AAAAJ&hl=en
+..    :target: https://scholar.google.com/citations?user=BARqXQ0AAAAJ&hl=en
 
 .. .. |halcv| image::  _static/LogoHAL.png   
 ..    :alt: hal-CV 
@@ -31,15 +31,16 @@
 
 .. raw:: html
 
-   <a class="reference external" href="http://scholar.google.com/citations?user=BARqXQ0AAAAJ&amp;hl=en">
+   <a class="reference external" href="https://scholar.google.com/citations?user=BARqXQ0AAAAJ&amp;hl=en">
    <img alt="Google Scholar" src="_static/google_scholar.png" style="width: 155.2px; height: 32.0px;" />
    </a>
    &nbsp;
-   &nbsp;
-   &nbsp;
-   <a class="reference external" href="https://cv.archives-ouvertes.fr/jian-cheng">
-   <img alt="hal-CV" src="_static/LogoHAL.png" style="width: 75.2px; height: 15.0px;" />
-   </a>
+
+.. &nbsp;
+.. &nbsp;
+.. <a class="reference external" href="https://cv.archives-ouvertes.fr/jian-cheng">
+.. <img alt="hal-CV" src="_static/LogoHAL.png" style="width: 75.2px; height: 15.0px;" />
+.. </a>
 
 
    
@@ -54,8 +55,11 @@
 
    Publications By Type <publications_by_type>
    Publications By Year <publications_by_year>
-   First-Author Articles <publications_first_author>
+   Publications By Selected Venues <publications_by_venue>
+   First- or Corresponding-Author Articles <publications_first_corresponding_author>
 
+.. First-Author Articles <publications_first_author>
+.. Publications By Year <publications_by_year>
 .. Corresponding-Author Articles <publications_corresponding_author>
 
 

@@ -19,7 +19,7 @@ such as the code, data, etc., that can be used to reproduce the results and crea
 
 
 
-`See my codes in GitHub <https://github.com/JianCheng>`__.
+See my codes on GitHub: `JianCheng@GitHub <https://github.com/JianCheng>`__, `Milan@GitHub <https://github.com/Milan-BUAA>`__, and `DiffusionMRITool@GitHub <https://github.com/DiffusionMRITool>`__.
 
 
 Diffusion MRI Tool
@@ -37,18 +37,29 @@ DMRITool_ has implemented:
 * `Spherically Uniform Sampling scheme design in q-space <https://diffusionmritool.github.io/tutorial_qspacesampling.html>`__
 
 
+
+
+Brain Age Estimation 
+====================
+
+`TSAN-brain-age-estimation <https://github.com/Milan-BUAA/TSAN-brain-age-estimation>`__: 
+Pytorch codes for the paper 
+"`Brain Age Estimation From MRI Using Cascade Networks with Ranking Loss <https://doi.org/10.1109/TMI.2021.3085948>`__", 
+IEEE transactions on Medical Imaging, 2021. 
+
+
 LRTV for Image Superresolution
 ==============================
 
-This `matlab toolbox <https://bitbucket.org/fengshi421/superresolutiontoolkit>`__ implemented Low-Rank Total Variation for image super-resolution proposed in the paper 
-`"LRTV: MR Image Super-Resolution with Low-Rank and Total Variation Regularizations" <https://www.researchgate.net/publication/278037176_LRTV_MR_Image_Super-Resolution_with_Low-Rank_and_Total_Variation_Regularizations>`__, 
+`LRTV <https://github.com/JianCheng/superresolutiontoolkit>`__: a Matlab toolbox implemented Low-Rank Total Variation for image super-resolution proposed in the paper 
+"`LRTV: MR Image Super-Resolution with Low-Rank and Total Variation Regularizations <https://www.researchgate.net/publication/278037176_LRTV_MR_Image_Super-Resolution_with_Low-Rank_and_Total_Variation_Regularizations>`__", 
 IEEE Transactions on Medical Imaging, 2015. 
 
 
 bibtex2html.py
 ==============
 
-`bibtex2html.py <https://github.com/JianCheng/bibtex2html.py>`__ coverts a bibtex file into an html file. 
+`bibtex2html.py <https://github.com/JianCheng/bibtex2html.py>`__: a python toolbox to covert a bibtex file into an html file. 
 It considers additional fields (e.g., note, code, etc.) in bibtex. 
 It also can show corresponding google scholar citations related with bibtex entries by parsing the google scholar profile.
 See `my publications <publications_by_type.html>`__ as an example. 

@@ -15,36 +15,39 @@
    :scale: 10%
 
 
-
-Jian Cheng is currently a post-doctoral fellow in 
-`Section on Quantitative Imaging and Tissue Sciences (SQITS) <https://science.nichd.nih.gov/confluence/display/sqits/Home>`__ 
-at `National Institutes of Health`_, working with 
-`Dr. Peter Basser <http://scholar.google.com/citations?user=FtyOQzwAAAAJ&hl=en&oi=ao>`__.
-Before joining SQITS_, he worked in the `IDEA`_ group in `the University of North Carolina at Chapel Hill`_ from 2012 to 2014.         
-
-
-Jian Cheng received a Ph.D. degree in medical image analysis jointly                   
+Jian Cheng is currently an associate professor (Principal Investigator) 
+at `School of Computer Science and Engineering`_, `Beihang University (BUAA)`_, China.
+He received
+a bachelor degree in electrical engineering and computer science from 
+`Harbin Institute of Technology`_ (HIT) in 2005, 
+and a Ph.D. degree in medical image analysis jointly                   
 from `INRIA Sophia Antipolis`_                                                  
-and `Institute of Automation, Chinese Academy of Sciences`_ (CASIA) in 2012, 
-and a bachelor degree in electrical engineering and computer science from 
-`Harbin Institute of Technology`_ (HIT) in 2005.       
-                                                                                
-His current research mainly focuses on the methodologies in diffusion MRI and anatomical MRI.                                                             
-He is interested in machine learning, computer vision, signal and image processing, applied mathematics, and software engineering. 
+and `Institute of Automation, Chinese Academy of Sciences`_ (CASIA) in 2012. 
+Before joining `BUAA`_, he worked at `University of North Carolina at Chapel Hill`_ (2012-2014), 
+`National Institutes of Health`_ (2014-2017), and `University of Sydney`_ (2017-2018). 
 
+
+
+                                                                                
+His current research mainly focuses on medical image analysis and machine learning, including the methodologies of diffusion MRI and anatomical MRI. 
+He is interested in signal and image processing, computer vision, applied mathematics, and software engineering. 
+He has published about 50 papers on top journals and conferences in medical image analysis, 
+e.g., IEEE trans on Medical Imaging, Medical Image Analysis, NeuroImage, Human Brain Mapping, MICCAI, IPMI, and CVPR. 
+He received the best reviewer award in MICCAI 2015. 
 
 
 .. sidebar:: Contact
    
-  `jiancheng [AT] ieee.org <jiancheng@ieee.org>`_
+  `jian_cheng [AT] buaa.edu.cn <jian_cheng@buaa.edu.cn>`_   |br|
+  `jiancheng [AT] ieee.org <jiancheng@ieee.org>`_   
 
 |br|
 
 
-.. include:: news.rst
-   :end-before: stop-recent-news
+.. .. include:: news.rst
+..    :end-before: stop-recent-news
 
-`All news ... <news.html>`_
+.. `All news ... <news.html>`_
 
 
    
@@ -54,14 +57,16 @@ He is interested in machine learning, computer vision, signal and image processi
    :hidden:   
 
    Home <self>
-   News <news>
    resume
    Publications <publications>
    software
+   Chinese Homepage @ BUAA <http://shi.buaa.edu.cn/jiancheng>
 
 .. .. toctree::
 ..    :hidden:   
 
+
+..    News <news>
 ..    news
 ..    resume
 ..    research
